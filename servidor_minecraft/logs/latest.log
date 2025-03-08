@@ -8505,3 +8505,22 @@
 [00:52:38] [Server thread/INFO]: [offgamer233: Gamerule commandBlockOutput is now set to: false]
 [00:53:23] [Server thread/INFO]: [offgamer233: Teleported offgamer233 to -11.500000, -6.000000, -9.500000]
 [00:53:34] [Server thread/INFO]: [offgamer233: Teleported offgamer233 to -11.500000, -6.000000, -9.500000]
+[00:56:23] [Server thread/INFO]: [offgamer233: Teleported offgamer233 to -11.500000, -12.000000, -10.500000]
+[00:56:37] [Server thread/INFO]: [offgamer233: Changed the block at -12, -12, -11]
+[00:58:52] [Server thread/INFO]: [offgamer233: Set own game mode to Spectator Mode]
+[00:58:58] [Server thread/INFO]: [offgamer233: Set own game mode to Creative Mode]
+[01:04:00] [Server thread/INFO]: offgamer233 lost connection: Disconnected
+[01:04:00] [Server thread/INFO]: offgamer233 left the game
+[01:04:07] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[01:04:07] [Server thread/INFO]: stp<--[HERE]
+[01:04:09] [Server thread/INFO]: Stopping the server
+[01:04:09] [Server thread/INFO]: Stopping server
+[01:04:09] [Server thread/INFO]: Saving players
+[01:04:09] [Server thread/INFO]: Saving worlds
+[01:04:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Basketball!]'/minecraft:overworld
+[01:04:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Basketball!]'/minecraft:the_nether
+[01:04:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Basketball!]'/minecraft:the_end
+[01:04:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01:04:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:04:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01:04:09] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
