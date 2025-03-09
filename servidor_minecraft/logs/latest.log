@@ -4347,3 +4347,14 @@
 [03:38:12] [Server thread/INFO]: [offgamer233: Set own game mode to Spectator Mode]
 [03:38:16] [Server thread/INFO]: offgamer233 issued server command: /gamemode creative
 [03:38:16] [Server thread/INFO]: [offgamer233: Set own game mode to Creative Mode]
+[03:42:08] [Server thread/INFO]: offgamer233 issued server command: //wand
+[03:47:21] [Server thread/INFO]: offgamer233 issued server command: /time set day
+[03:47:21] [Server thread/INFO]: [offgamer233: Set the time to 1000]
+[03:47:39] [Server thread/INFO]: offgamer233 issued server command: /gamemode spectator
+[03:47:39] [Server thread/INFO]: [offgamer233: Set own game mode to Spectator Mode]
+[03:47:48] [Server thread/INFO]: offgamer233 issued server command: /gamemode creative
+[03:47:48] [Server thread/INFO]: [offgamer233: Set own game mode to Creative Mode]
+[03:49:14] [Server thread/INFO]: offgamer233 issued server command: /gamemode spectator
+[03:49:14] [Server thread/INFO]: [offgamer233: Set own game mode to Spectator Mode]
+[03:49:23] [Server thread/INFO]: offgamer233 issued server command: /gamemode creative
+[03:49:23] [Server thread/INFO]: [offgamer233: Set own game mode to Creative Mode]
