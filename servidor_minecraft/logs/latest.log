@@ -4063,3 +4063,17 @@
 [02:34:55] [Server thread/INFO]: [offgamer233: Teleported offgamer233 to 0.500000, 10.000000, 0.500000]
 [02:35:01] [Server thread/INFO]: offgamer233 issued server command: /gamemode creative
 [02:35:01] [Server thread/INFO]: [offgamer233: Set own game mode to Creative Mode]
+[02:47:33] [Server thread/INFO]: offgamer233 issued server command: /gamemode spectator
+[02:47:33] [Server thread/INFO]: [offgamer233: Set own game mode to Spectator Mode]
+[02:47:58] [Server thread/INFO]: offgamer233 issued server command: /gamemode creative
+[02:47:58] [Server thread/INFO]: [offgamer233: Set own game mode to Creative Mode]
+[02:48:25] [Server thread/INFO]: offgamer233 issued server command: /gamemode spectator
+[02:48:25] [Server thread/INFO]: [offgamer233: Set own game mode to Spectator Mode]
+[02:48:39] [Server thread/INFO]: offgamer233 issued server command: /gamemode creative
+[02:48:39] [Server thread/INFO]: [offgamer233: Set own game mode to Creative Mode]
+[02:49:29] [Server thread/INFO]: offgamer233 issued server command: /gamemode spectator
+[02:49:29] [Server thread/INFO]: [offgamer233: Set own game mode to Spectator Mode]
+[02:49:43] [Server thread/INFO]: offgamer233 issued server command: /gamemode creative
+[02:49:43] [Server thread/INFO]: [offgamer233: Set own game mode to Creative Mode]
+[02:49:57] [Server thread/INFO]: offgamer233 issued server command: /gamemode spectator
+[02:49:57] [Server thread/INFO]: [offgamer233: Set own game mode to Spectator Mode]
