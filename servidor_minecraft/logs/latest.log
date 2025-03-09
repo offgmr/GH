@@ -449,3 +449,7 @@ org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins
 [17:53:57] [Server thread/INFO]: [offgamer233: Created new objective [minutos]]
 [17:55:10] [Server thread/INFO]: offgamer233 issued server command: /give offgamer233 minecraft:command_block 1
 [17:55:10] [Server thread/INFO]: [offgamer233: Gave 1 [Command Block] to offgamer233]
+[18:13:24] [Server thread/INFO]: offgamer233 issued server command: /summon armor_stand ~ ~ ~ {ShowArms:1b,Marker:1b}
+[18:13:24] [Server thread/INFO]: [offgamer233: Summoned new Armor Stand]
+[18:13:44] [Server thread/INFO]: offgamer233 issued server command: /kill @e[type=minecraft:armor_stand]
+[18:13:44] [Server thread/INFO]: [offgamer233: Killed 35 entities]
