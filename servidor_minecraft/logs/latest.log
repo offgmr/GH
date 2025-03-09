@@ -4041,3 +4041,25 @@
 [02:22:28] [Server thread/INFO]: offgamer233 issued server command: /time set day
 [02:22:28] [Server thread/INFO]: [offgamer233: Set the time to 1000]
 [02:23:51] [Server thread/INFO]: offgamer233 issued server command: //set red_concrete
+[02:30:15] [Server thread/INFO]: offgamer233 issued server command: //set orange_wool
+[02:33:05] [Server thread/INFO]: offgamer233 issued server command: /time set day
+[02:33:05] [Server thread/INFO]: [offgamer233: Set the time to 1000]
+[02:34:06] [Server thread/INFO]: offgamer233 issued server command: /gamemode spectator
+[02:34:06] [Server thread/INFO]: [offgamer233: Set own game mode to Spectator Mode]
+[02:34:32] [Server thread/INFO]: offgamer233 issued server command: /gamemode creative
+[02:34:32] [Server thread/INFO]: [offgamer233: Set own game mode to Creative Mode]
+[02:34:34] [Server thread/INFO]: offgamer233 issued server command: /gamemode spectator
+[02:34:34] [Server thread/INFO]: [offgamer233: Set own game mode to Spectator Mode]
+[02:34:36] [Server thread/INFO]: offgamer233 issued server command: /gamemode spectator
+[02:34:36] [Server thread/INFO]: [offgamer233: Set own game mode to Spectator Mode]
+[02:34:39] [Server thread/INFO]: offgamer233 issued server command: /gamemode spectator
+[02:34:39] [Server thread/INFO]: [offgamer233: Set own game mode to Spectator Mode]
+[02:34:41] [Server thread/INFO]: offgamer233 issued server command: /gamemode creative
+[02:34:41] [Server thread/INFO]: [offgamer233: Set own game mode to Creative Mode]
+[02:34:47] [Server thread/INFO]: offgamer233 issued server command: /tp 0 10 0
+[02:34:47] [Server thread/INFO]: [offgamer233: Teleported offgamer233 to 0.500000, 10.000000, 0.500000]
+[02:34:49] [Server thread/INFO]: offgamer233 was doomed to fall
+[02:34:55] [Server thread/INFO]: offgamer233 issued server command: /tp 0 10 0
+[02:34:55] [Server thread/INFO]: [offgamer233: Teleported offgamer233 to 0.500000, 10.000000, 0.500000]
+[02:35:01] [Server thread/INFO]: offgamer233 issued server command: /gamemode creative
+[02:35:01] [Server thread/INFO]: [offgamer233: Set own game mode to Creative Mode]
