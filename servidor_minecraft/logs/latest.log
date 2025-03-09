@@ -4693,3 +4693,14 @@ org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins
 [21:50:17] [Server thread/INFO]: Timings Reset
 [21:50:21] [Server thread/INFO]: offgamer233 issued server command: /ei show
 [21:51:15] [Server thread/INFO]: offgamer233 issued server command: /ei show
+[22:01:38] [Server thread/INFO]: offgamer233 issued server command: /gamemode spectator
+[22:01:38] [Server thread/INFO]: [offgamer233: Set own game mode to Spectator Mode]
+[22:01:46] [Server thread/INFO]: offgamer233 issued server command: /gamemode survival
+[22:01:46] [Server thread/INFO]: [offgamer233: Set own game mode to Survival Mode]
+[22:01:50] [Server thread/INFO]: offgamer233 issued server command: /gamemode creative
+[22:01:50] [Server thread/INFO]: [offgamer233: Set own game mode to Creative Mode]
+[22:01:53] [Server thread/ERROR]: No TreeType mapping for TreeGenerator.TreeType.CHERRY
+[22:03:19] [Server thread/INFO]: offgamer233 issued server command: /tp elrubius
+[22:03:19] [Server thread/INFO]: [offgamer233: Teleported offgamer233 to elrubius]
+[22:05:23] [Server thread/INFO]: offgamer233 issued server command: //wand
+[22:05:44] [Server thread/INFO]: offgamer233 issued server command: //set black_concrete
