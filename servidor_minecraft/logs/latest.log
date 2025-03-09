@@ -447,3 +447,5 @@ org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins
 [17:53:51] [Server thread/INFO]: [offgamer233: Created new objective [segundos]]
 [17:53:57] [Server thread/INFO]: offgamer233 issued server command: /scoreboard objectives add minutos dummy
 [17:53:57] [Server thread/INFO]: [offgamer233: Created new objective [minutos]]
+[17:55:10] [Server thread/INFO]: offgamer233 issued server command: /give offgamer233 minecraft:command_block 1
+[17:55:10] [Server thread/INFO]: [offgamer233: Gave 1 [Command Block] to offgamer233]
