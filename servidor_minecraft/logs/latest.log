@@ -4533,3 +4533,26 @@ org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins
 [21:25:08] [Server thread/INFO]: offgamer233 issued server command: /tp elrubius
 [21:25:08] [Server thread/INFO]: [offgamer233: Teleported offgamer233 to elrubius]
 [21:26:29] [Server thread/INFO]: offgamer233 issued server command: /tp @e[nbt={HurtTime:1s}]
+[21:26:31] [Server thread/INFO]: offgamer233 issued server command: /gamemode spectator
+[21:26:31] [Server thread/INFO]: [offgamer233: Set own game mode to Spectator Mode]
+[21:26:34] [Server thread/INFO]: offgamer233 issued server command: /tp @e[nbt={HurtTime:1s}]
+[21:26:40] [Server thread/INFO]: offgamer233 issued server command: /tp @p[nbt={HurtTime:1s}]
+[21:26:43] [Server thread/INFO]: offgamer233 issued server command: /tp @p[nbt={HurtTime:1s}]
+[21:26:57] [Server thread/INFO]: offgamer233 issued server command: /gamemode spectator
+[21:26:57] [Server thread/INFO]: [offgamer233: Set own game mode to Spectator Mode]
+[21:27:05] [Server thread/INFO]: offgamer233 issued server command: /tp @p[nbt={HurtTime:1s}]
+[21:27:08] [Server thread/INFO]: offgamer233 issued server command: /tp @e[nbt={HurtTime:1s}]
+[21:27:19] [Server thread/INFO]: offgamer233 issued server command: /gamemode adventure
+[21:27:19] [Server thread/INFO]: [offgamer233: Set own game mode to Adventure Mode]
+[21:27:21] [Server thread/INFO]: offgamer233 issued server command: /gamemode creative
+[21:27:21] [Server thread/INFO]: [offgamer233: Set own game mode to Creative Mode]
+[21:27:57] [Server thread/INFO]: offgamer233 issued server command: /tp elrubius offgamer233
+[21:27:57] [Server thread/INFO]: [offgamer233: Teleported elrubius to offgamer233]
+[21:29:48] [Server thread/INFO]: offgamer233 issued server command: /gamemode spectator
+[21:29:48] [Server thread/INFO]: [offgamer233: Set own game mode to Spectator Mode]
+[21:29:49] [Server thread/INFO]: offgamer233 issued server command: /gamemode adventure
+[21:29:49] [Server thread/INFO]: [offgamer233: Set own game mode to Adventure Mode]
+[21:30:20] [Server thread/INFO]: offgamer233 issued server command: /gamemode creative
+[21:30:20] [Server thread/INFO]: [offgamer233: Set own game mode to Creative Mode]
+[21:31:38] [Server thread/INFO]: offgamer233 issued server command: /gamemode adventure
+[21:31:38] [Server thread/INFO]: [offgamer233: Set own game mode to Adventure Mode]
