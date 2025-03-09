@@ -4007,3 +4007,21 @@ org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins
 [20:18:44] [Server thread/INFO]: offgamer233 issued server command: /give offgamer233 light 1
 [20:18:44] [Server thread/INFO]: [offgamer233: Gave 1 [Light] to offgamer233]
 [20:25:30] [Server thread/INFO]: offgamer233 issued server command: /ei
+[20:43:16] [User Authenticator #1/INFO]: UUID of player elrubius is 691df33d-823f-35e8-a6f0-854d557922a0
+[20:43:16] [Server thread/INFO]: elrubius joined the game
+[20:43:16] [Server thread/INFO]: elrubius[/127.230.53.48:57475] logged in with entity id 242 at ([world]82.5, 6.0, 96.5)
+[20:43:46] [Server thread/INFO]: elrubius lost connection: Timed out
+[20:43:46] [Server thread/INFO]: elrubius left the game
+[20:44:17] [User Authenticator #2/INFO]: UUID of player elrubius is 691df33d-823f-35e8-a6f0-854d557922a0
+[20:44:17] [Server thread/INFO]: elrubius joined the game
+[20:44:17] [Server thread/INFO]: elrubius[/127.230.53.48:50651] logged in with entity id 243 at ([world]82.5, 6.0, 96.5)
+[20:44:26] [Server thread/INFO]: offgamer233 issued server command: /tp elrubius offgamer233
+[20:44:26] [Server thread/INFO]: [offgamer233: Teleported elrubius to offgamer233]
+[20:44:49] [Server thread/INFO]: offgamer233 issued server command: /gamemode adventure
+[20:44:49] [Server thread/INFO]: [offgamer233: Set own game mode to Adventure Mode]
+[20:45:27] [Server thread/INFO]: offgamer233 issued server command: /team join team_red elrubius
+[20:45:27] [Server thread/INFO]: [offgamer233: Added elrubius to team [Red Team]]
+[20:45:58] [Server thread/INFO]: offgamer233 issued server command: /tp 0 10 0
+[20:45:58] [Server thread/INFO]: [offgamer233: Teleported offgamer233 to 0.500000, 10.000000, 0.500000]
+[20:46:04] [Server thread/INFO]: offgamer233 issued server command: /tp elrubius offgamer233
+[20:46:04] [Server thread/INFO]: [offgamer233: Teleported elrubius to offgamer233]
