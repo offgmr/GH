@@ -436,3 +436,14 @@ org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins
 [17:44:31] [Server thread/INFO]: [offgamer233: Set own game mode to Spectator Mode]
 [17:44:32] [Server thread/INFO]: offgamer233 issued server command: /gamemode creative
 [17:44:32] [Server thread/INFO]: [offgamer233: Set own game mode to Creative Mode]
+[17:45:16] [Server thread/INFO]: offgamer233 issued server command: /gamemode spectator
+[17:45:16] [Server thread/INFO]: [offgamer233: Set own game mode to Spectator Mode]
+[17:45:20] [Server thread/INFO]: offgamer233 issued server command: /gamemode creative
+[17:45:20] [Server thread/INFO]: [offgamer233: Set own game mode to Creative Mode]
+[17:46:36] [Server thread/INFO]: offgamer233 issued server command: //set air
+[17:53:44] [Server thread/INFO]: offgamer233 issued server command: /scoreboard objectives add ticks dummy
+[17:53:44] [Server thread/INFO]: [offgamer233: Created new objective [ticks]]
+[17:53:51] [Server thread/INFO]: offgamer233 issued server command: /scoreboard objectives add segundos dummy
+[17:53:51] [Server thread/INFO]: [offgamer233: Created new objective [segundos]]
+[17:53:57] [Server thread/INFO]: offgamer233 issued server command: /scoreboard objectives add minutos dummy
+[17:53:57] [Server thread/INFO]: [offgamer233: Created new objective [minutos]]
