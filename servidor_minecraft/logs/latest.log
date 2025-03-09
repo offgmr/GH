@@ -4036,3 +4036,8 @@
 [02:16:43] [Server thread/INFO]: offgamer233 issued server command: //replace air orange_wool
 [02:16:51] [Server thread/INFO]: offgamer233 issued server command: //replace blue_wool orange_wool
 [02:17:24] [Server thread/INFO]: offgamer233 issued server command: //replace air blue_concrete
+[02:20:56] [Server thread/INFO]: offgamer233 issued server command: //replace orange_wool black_wool
+[02:22:15] [Server thread/INFO]: offgamer233 issued server command: //set orange_wool
+[02:22:28] [Server thread/INFO]: offgamer233 issued server command: /time set day
+[02:22:28] [Server thread/INFO]: [offgamer233: Set the time to 1000]
+[02:23:51] [Server thread/INFO]: offgamer233 issued server command: //set red_concrete
