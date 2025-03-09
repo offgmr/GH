@@ -3900,3 +3900,9 @@ org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins
 [19:16:53] [Server thread/INFO]: offgamer233 issued server command: //wand
 [19:17:32] [Server thread/INFO]: offgamer233 issued server command: //replace air barrier
 [19:18:24] [Server thread/INFO]: offgamer233 issued server command: //replace air barrier
+[20:02:39] [Server thread/INFO]: offgamer233 issued server command: //pos1
+[20:02:51] [Server thread/INFO]: offgamer233 issued server command: //pos2
+[20:03:15] [Server thread/INFO]: offgamer233 issued server command: //replace air barrier
+[20:04:00] [Server thread/INFO]: offgamer233 issued server command: //pos1
+[20:04:15] [Server thread/INFO]: offgamer233 issued server command: //pos2
+[20:04:23] [Server thread/INFO]: offgamer233 issued server command: //replace air barrier
