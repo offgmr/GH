@@ -4358,3 +4358,28 @@
 [03:49:14] [Server thread/INFO]: [offgamer233: Set own game mode to Spectator Mode]
 [03:49:23] [Server thread/INFO]: offgamer233 issued server command: /gamemode creative
 [03:49:23] [Server thread/INFO]: [offgamer233: Set own game mode to Creative Mode]
+[03:52:52] [Server thread/INFO]: offgamer233 issued server command: /tp -12 -9 22
+[03:52:52] [Server thread/INFO]: [offgamer233: Teleported offgamer233 to -11.500000, -9.000000, 22.500000]
+[03:53:07] [Server thread/INFO]: offgamer233 issued server command: /gamemode spectator
+[03:53:07] [Server thread/INFO]: [offgamer233: Set own game mode to Spectator Mode]
+[03:53:18] [Server thread/INFO]: offgamer233 issued server command: /gamemode creative
+[03:53:18] [Server thread/INFO]: [offgamer233: Set own game mode to Creative Mode]
+[03:53:22] [Server thread/INFO]: offgamer233 issued server command: /tp -12 -9 22
+[03:53:22] [Server thread/INFO]: [offgamer233: Teleported offgamer233 to -11.500000, -9.000000, 22.500000]
+[03:53:30] [Server thread/INFO]: offgamer233 issued server command: /setblock -12 -9 22 minecraft:dirt
+[03:53:30] [Server thread/INFO]: [offgamer233: Changed the block at -12, -9, 22]
+[03:53:33] [Server thread/INFO]: offgamer233 issued server command: /setblock -12 -9 22 minecraft:dirt
+[03:53:37] [Server thread/INFO]: offgamer233 issued server command: /gamemode spectator
+[03:53:37] [Server thread/INFO]: [offgamer233: Set own game mode to Spectator Mode]
+[03:53:55] [Server thread/INFO]: offgamer233 issued server command: /gamemode creative
+[03:53:55] [Server thread/INFO]: [offgamer233: Set own game mode to Creative Mode]
+[03:57:26] [Server thread/INFO]: offgamer233 issued server command: /gamemode spectator
+[03:57:26] [Server thread/INFO]: [offgamer233: Set own game mode to Spectator Mode]
+[03:57:34] [Server thread/INFO]: offgamer233 issued server command: /gamemode creative
+[03:57:34] [Server thread/INFO]: [offgamer233: Set own game mode to Creative Mode]
+[03:57:54] [Server thread/INFO]: offgamer233 issued server command: /gamemode spectator
+[03:57:54] [Server thread/INFO]: [offgamer233: Set own game mode to Spectator Mode]
+[03:58:05] [Server thread/INFO]: offgamer233 issued server command: /gamemode creative
+[03:58:05] [Server thread/INFO]: [offgamer233: Set own game mode to Creative Mode]
+[03:58:10] [Server thread/INFO]: offgamer233 issued server command: /time set day
+[03:58:10] [Server thread/INFO]: [offgamer233: Set the time to 1000]
