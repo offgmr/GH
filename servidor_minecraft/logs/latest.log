@@ -37,3 +37,11 @@
 [01:40:30] [User Authenticator #0/INFO]: UUID of player offgamer233 is eb96e115-2377-3371-b8a2-b0f23e8ad1a6
 [01:40:30] [Server thread/INFO]: offgamer233 joined the game
 [01:40:30] [Server thread/INFO]: offgamer233[/127.230.53.48:52517] logged in with entity id 87 at ([world]99.85803249203369, 3.0, 130.11992918364825)
+[01:51:06] [Server thread/ERROR]: No TreeType mapping for TreeGenerator.TreeType.CHERRY
+[01:51:41] [Server thread/INFO]: offgamer233 issued server command: //set blue_concrete
+[01:52:27] [Server thread/INFO]: offgamer233 issued server command: //set red_concrete
+[01:53:01] [Server thread/INFO]: offgamer233 issued server command: //replace blue_concrete red_concrete
+[01:53:24] [Server thread/INFO]: offgamer233 issued server command: //set red_concrete
+[01:53:44] [Server thread/INFO]: offgamer233 issued server command: //set blue_concrete
+[01:57:58] [Server thread/INFO]: offgamer233 issued server command: /time set day
+[01:57:58] [Server thread/INFO]: [offgamer233: Set the time to 1000]
