@@ -4077,3 +4077,41 @@
 [02:49:43] [Server thread/INFO]: [offgamer233: Set own game mode to Creative Mode]
 [02:49:57] [Server thread/INFO]: offgamer233 issued server command: /gamemode spectator
 [02:49:57] [Server thread/INFO]: [offgamer233: Set own game mode to Spectator Mode]
+[02:50:02] [Server thread/INFO]: offgamer233 issued server command: /gamemode creative
+[02:50:02] [Server thread/INFO]: [offgamer233: Set own game mode to Creative Mode]
+[02:50:10] [Server thread/INFO]: offgamer233 issued server command: /gamemode spectator
+[02:50:10] [Server thread/INFO]: [offgamer233: Set own game mode to Spectator Mode]
+[02:51:34] [Server thread/INFO]: offgamer233 issued server command: /tag @a list
+[02:51:46] [Server thread/INFO]: offgamer233 issued server command: /gamemode creative
+[02:51:46] [Server thread/INFO]: [offgamer233: Set own game mode to Creative Mode]
+[02:52:00] [Server thread/INFO]: offgamer233 issued server command: //wand
+[02:52:24] [Server thread/INFO]: offgamer233 issued server command: //replace dirt air
+[02:52:33] [Server thread/INFO]: offgamer233 issued server command: //replace black_concrete air
+[02:54:21] [Server thread/INFO]: offgamer233 issued server command: /team list
+[02:57:44] [Server thread/INFO]: offgamer233 issued server command: /tag offgamer233 remove shortRangeR
+[02:57:44] [Server thread/INFO]: [offgamer233: Removed tag 'shortRangeR' from offgamer233]
+[02:57:49] [Server thread/INFO]: offgamer233 issued server command: /tag offgamer233 list
+[02:57:53] [Server thread/INFO]: offgamer233 issued server command: /tag offgamer233 list
+[02:57:57] [Server thread/INFO]: offgamer233 issued server command: /tag offgamer233 list
+[02:57:59] [Server thread/INFO]: offgamer233 issued server command: /tag offgamer233 list
+[02:58:01] [Server thread/INFO]: offgamer233 issued server command: /tag offgamer233 list
+[02:58:03] [Server thread/INFO]: offgamer233 issued server command: /tag offgamer233 list
+[02:58:04] [Server thread/INFO]: offgamer233 issued server command: /tag offgamer233 list
+[02:58:06] [Server thread/INFO]: offgamer233 issued server command: /tag offgamer233 list
+[02:58:08] [Server thread/INFO]: offgamer233 issued server command: /tag offgamer233 list
+[02:58:10] [Server thread/INFO]: offgamer233 issued server command: /tag offgamer233 list
+[02:58:12] [Server thread/INFO]: offgamer233 issued server command: /tag offgamer233 list
+[02:58:14] [Server thread/INFO]: offgamer233 issued server command: /tag offgamer233 list
+[02:58:31] [Server thread/INFO]: offgamer233 issued server command: /tag offgamer233 list
+[02:58:43] [Server thread/INFO]: offgamer233 issued server command: /team join team_red
+[02:58:43] [Server thread/INFO]: [offgamer233: Added offgamer233 to team [Red Team]]
+[02:58:46] [Server thread/INFO]: offgamer233 issued server command: /tag offgamer233 list
+[02:59:04] [Server thread/INFO]: offgamer233 issued server command: /gamemode spectator
+[02:59:04] [Server thread/INFO]: [offgamer233: Set own game mode to Spectator Mode]
+[02:59:21] [Server thread/INFO]: offgamer233 issued server command: /gamemode creative
+[02:59:21] [Server thread/INFO]: [offgamer233: Set own game mode to Creative Mode]
+[02:59:32] [Server thread/INFO]: offgamer233 issued server command: /tag offgamer233 list
+[02:59:42] [Server thread/INFO]: offgamer233 issued server command: /gamemode spectator
+[02:59:42] [Server thread/INFO]: [offgamer233: Set own game mode to Spectator Mode]
+[02:59:52] [Server thread/INFO]: offgamer233 issued server command: /gamemode creative
+[02:59:52] [Server thread/INFO]: [offgamer233: Set own game mode to Creative Mode]
