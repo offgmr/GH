@@ -1,48 +1,84 @@
-[14:33:59] [ServerMain/INFO]: Building unoptimized datafixer
-[14:34:00] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[14:34:02] [ServerMain/INFO]: Loaded 7 recipes
-[14:34:04] [Server thread/INFO]: Starting minecraft server version 1.19.2
-[14:34:04] [Server thread/INFO]: Loading properties
-[14:34:04] [Server thread/INFO]: This server is running Paper version git-Paper-307 (MC: 1.19.2) (Implementing API version 1.19.2-R0.1-SNAPSHOT) (Git: 476ef25)
-[14:34:04] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[14:34:04] [Server thread/INFO]: Using 4 threads for Netty based IO
-[14:34:04] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and gen parallelism of 1 threads
-[14:34:04] [Server thread/INFO]: Default game type: SURVIVAL
-[14:34:04] [Server thread/INFO]: Generating keypair
-[14:34:05] [Server thread/INFO]: Starting Minecraft server on *:25565
-[14:34:05] [Server thread/INFO]: Using epoll channel type
-[14:34:05] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[14:34:05] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
-[14:34:06] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v7.2.16+6534-2066eb4
-[14:34:06] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@6a435c0d]
-[14:34:06] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[14:34:06] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.2.16+6534-2066eb4
-[14:34:06] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
-[14:34:06] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
-[14:34:07] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.v1_19_R1.PaperweightAdapter as the Bukkit adapter
-[14:34:08] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[14:34:08] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[14:34:08] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[14:34:08] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[14:34:08] [Server thread/INFO]: Preparing level "world"
-[14:34:09] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[14:34:09] [Server thread/INFO]: Time elapsed: 149 ms
-[14:34:09] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[14:34:09] [Server thread/INFO]: Time elapsed: 90 ms
-[14:34:09] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[14:34:09] [Server thread/INFO]: Time elapsed: 83 ms
-[14:34:10] [Server thread/INFO]: Running delayed init tasks
-[14:34:10] [Server thread/INFO]: Done (5.657s)! For help, type "help"
-[14:34:10] [Server thread/INFO]: Timings Reset
-[14:34:12] [User Authenticator #0/INFO]: UUID of player offgamer233 is eb96e115-2377-3371-b8a2-b0f23e8ad1a6
-[14:34:12] [Server thread/INFO]: offgamer233 joined the game
-[14:34:12] [Server thread/INFO]: offgamer233[/127.230.53.48:32867] logged in with entity id 54 at ([world]-24.770323432160804, -12.0, 6.640477158947253)
-[14:34:18] [Async Chat Thread - #0/INFO]: [Not Secure] <offgamer233> adsa
-[14:36:55] [Server thread/ERROR]: No TreeType mapping for TreeGenerator.TreeType.CHERRY
-[14:43:03] [Server thread/INFO]: offgamer233 lost connection: Disconnected
-[14:43:03] [Server thread/INFO]: offgamer233 left the game
-[15:17:56] [User Authenticator #1/INFO]: UUID of player offgamer233 is eb96e115-2377-3371-b8a2-b0f23e8ad1a6
-[15:17:56] [Server thread/INFO]: offgamer233 joined the game
-[15:17:56] [Server thread/INFO]: offgamer233[/127.230.53.48:58431] logged in with entity id 95 at ([world]-15.848336368944022, -12.0, -4.294503925040767)
-[15:46:21] [Server thread/INFO]: offgamer233 lost connection: Disconnected
-[15:46:21] [Server thread/INFO]: offgamer233 left the game
+[17:11:19] [ServerMain/INFO]: Building unoptimized datafixer
+[17:11:20] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[17:11:21] [ServerMain/INFO]: Loaded 7 recipes
+[17:11:23] [Server thread/INFO]: Starting minecraft server version 1.19.2
+[17:11:23] [Server thread/INFO]: Loading properties
+[17:11:23] [Server thread/INFO]: This server is running Paper version git-Paper-307 (MC: 1.19.2) (Implementing API version 1.19.2-R0.1-SNAPSHOT) (Git: 476ef25)
+[17:11:23] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[17:11:23] [Server thread/INFO]: Using 4 threads for Netty based IO
+[17:11:23] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and gen parallelism of 1 threads
+[17:11:23] [Server thread/INFO]: Default game type: SURVIVAL
+[17:11:23] [Server thread/INFO]: Generating keypair
+[17:11:23] [Server thread/INFO]: Starting Minecraft server on *:25565
+[17:11:23] [Server thread/INFO]: Using epoll channel type
+[17:11:24] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[17:11:24] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[17:11:24] [Server thread/ERROR]: Could not load 'plugins/ExecutableItems-7.25.3.5.jar' in folder 'plugins'
+org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins: [SCore]. Please download and install these plugins to run 'ExecutableItems'.
+	at org.bukkit.plugin.SimplePluginManager.loadPlugins(SimplePluginManager.java:287) ~[paper-api-1.19.2-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.v1_19_R1.CraftServer.loadPlugins(CraftServer.java:423) ~[paper-1.19.2.jar:git-Paper-307]
+	at net.minecraft.server.dedicated.DedicatedServer.initServer(DedicatedServer.java:278) ~[paper-1.19.2.jar:git-Paper-307]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1100) ~[paper-1.19.2.jar:git-Paper-307]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:305) ~[paper-1.19.2.jar:git-Paper-307]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[17:11:24] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v7.2.16+6534-2066eb4
+[17:11:24] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@7cb9235a]
+[17:11:24] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[17:11:24] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.2.16+6534-2066eb4
+[17:11:24] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[17:11:25] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[17:11:25] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.v1_19_R1.PaperweightAdapter as the Bukkit adapter
+[17:11:26] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[17:11:26] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[17:11:26] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[17:11:26] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[17:11:26] [Server thread/INFO]: Preparing level "world"
+[17:11:27] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[17:11:27] [Server thread/INFO]: Time elapsed: 178 ms
+[17:11:27] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[17:11:27] [Server thread/INFO]: Time elapsed: 58 ms
+[17:11:27] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[17:11:27] [Server thread/INFO]: Time elapsed: 27 ms
+[17:11:27] [Server thread/INFO]: Running delayed init tasks
+[17:11:27] [Server thread/INFO]: Done (4.197s)! For help, type "help"
+[17:11:27] [Server thread/INFO]: Timings Reset
+[17:11:33] [User Authenticator #0/INFO]: UUID of player offgamer233 is eb96e115-2377-3371-b8a2-b0f23e8ad1a6
+[17:11:33] [Server thread/INFO]: offgamer233 joined the game
+[17:11:33] [Server thread/INFO]: offgamer233[/127.230.53.48:39767] logged in with entity id 87 at ([world]129.56026721236, -10.0, 105.9187447649234)
+[17:11:38] [Server thread/INFO]: offgamer233 lost connection: Disconnected
+[17:11:38] [Server thread/INFO]: offgamer233 left the game
+[17:11:40] [User Authenticator #0/INFO]: UUID of player offgamer233 is eb96e115-2377-3371-b8a2-b0f23e8ad1a6
+[17:11:40] [Server thread/INFO]: offgamer233 joined the game
+[17:11:41] [Server thread/INFO]: offgamer233[/127.230.53.48:51971] logged in with entity id 88 at ([world]129.56026721236, -10.0, 105.9187447649234)
+[17:11:44] [Server thread/INFO]: offgamer233 issued server command: /pl
+[17:12:51] [Server thread/INFO]: offgamer233 issued server command: /stop
+[17:12:51] [Server thread/INFO]: [offgamer233: Stopping the server]
+[17:12:52] [Server thread/INFO]: Stopping server
+[17:12:52] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v7.2.16+6534-2066eb4
+[17:12:52] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
+[17:12:52] [Server thread/INFO]: Saving players
+[17:12:52] [Server thread/INFO]: offgamer233 lost connection: Server closed
+[17:12:52] [Server thread/INFO]: offgamer233 left the game
+[17:12:52] [Server thread/INFO]: Saving worlds
+[17:12:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[17:12:52] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[17:12:52] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[17:12:52] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[17:12:52] [Server thread/INFO]: [ChunkHolderManager] Saved 694 block chunks, 694 entity chunks, 0 poi chunks in world 'world' in 0.53s
+[17:12:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[17:12:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[17:12:52] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[17:12:52] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[17:12:52] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[17:12:53] [Server thread/INFO]: [ChunkHolderManager] Saved 529 block chunks, 529 entity chunks, 0 poi chunks in world 'world_nether' in 0.63s
+[17:12:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17:12:53] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[17:12:53] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[17:12:53] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[17:12:53] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[17:12:53] [Server thread/INFO]: [ChunkHolderManager] Saved 529 block chunks, 529 entity chunks, 0 poi chunks in world 'world_the_end' in 0.14s
+[17:12:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17:12:53] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[17:12:53] [Server thread/INFO]: Flushing Chunk IO
+[17:12:53] [Server thread/INFO]: Closing Thread Pool
+[17:12:53] [Server thread/INFO]: Closing Server
