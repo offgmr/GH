@@ -4454,3 +4454,33 @@
 [04:28:48] [Server thread/INFO]: offgamer233 issued server command: /scoreboard players reset blueTeam Score 0
 [04:28:53] [Server thread/INFO]: offgamer233 issued server command: /scoreboard players reset blueTeam Score
 [04:28:53] [Server thread/INFO]: [offgamer233: Reset [Score] for blueTeam]
+[04:33:44] [Server thread/INFO]: offgamer233 lost connection: Disconnected
+[04:33:44] [Server thread/INFO]: offgamer233 left the game
+[04:33:54] [Server thread/INFO]: Stopping the server
+[04:33:54] [Server thread/INFO]: Stopping server
+[04:33:54] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v7.2.16+6534-2066eb4
+[04:33:54] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
+[04:33:54] [Server thread/INFO]: Saving players
+[04:33:54] [Server thread/INFO]: Saving worlds
+[04:33:54] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[04:33:54] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[04:33:54] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[04:33:54] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[04:33:54] [Server thread/INFO]: [ChunkHolderManager] Saved 16 block chunks, 19 entity chunks, 0 poi chunks in world 'world' in 0.02s
+[04:33:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[04:33:54] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[04:33:54] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[04:33:54] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[04:33:54] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[04:33:54] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 13 entity chunks, 0 poi chunks in world 'world_nether' in 0.00s
+[04:33:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[04:33:54] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[04:33:54] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[04:33:54] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[04:33:54] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[04:33:54] [Server thread/INFO]: [ChunkHolderManager] Saved 10 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.01s
+[04:33:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[04:33:54] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[04:33:54] [Server thread/INFO]: Flushing Chunk IO
+[04:33:54] [Server thread/INFO]: Closing Thread Pool
+[04:33:54] [Server thread/INFO]: Closing Server
