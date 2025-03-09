@@ -409,3 +409,30 @@ org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins
 [17:32:20] [Server thread/INFO]: offgamer233 issued server command: //set air
 [17:32:27] [Server thread/INFO]: offgamer233 issued server command: //set air
 [17:34:26] [Server thread/INFO]: offgamer233 issued server command: /ei create reinicio
+[17:35:19] [Server thread/INFO]: offgamer233 issued server command: /score interact NEXT PAGE
+[17:35:20] [Server thread/INFO]: offgamer233 issued server command: /score interact NEXT PAGE
+[17:35:21] [Server thread/INFO]: offgamer233 issued server command: /score interact NEXT PAGE
+[17:35:21] [Server thread/INFO]: offgamer233 issued server command: /score interact NEXT PAGE
+[17:35:22] [Server thread/INFO]: offgamer233 issued server command: /score interact NEXT PAGE
+[17:35:23] [Server thread/INFO]: offgamer233 issued server command: /score interact NEXT PAGE
+[17:35:25] [Server thread/INFO]: offgamer233 issued server command: /score interact NEXT PAGE
+[17:36:09] [Server thread/INFO]: offgamer233 issued server command: /score interact exit
+[17:36:39] [Server thread/INFO]: offgamer233 issued server command: /ei show
+[17:37:42] [Server thread/INFO]: offgamer233 issued server command: /ei show
+[17:37:50] [Server thread/INFO]: offgamer233 issued server command: /ei show
+[17:39:47] [Server thread/INFO]: offgamer233 issued server command: /score interact exit
+[17:40:15] [Server thread/INFO]: offgamer233 issued server command: /ei show
+[17:40:25] [Server thread/INFO]: offgamer233 issued server command: /score interact delete line <0>
+[17:40:26] [Server thread/INFO]: offgamer233 issued server command: /score interact NEXT PAGE
+[17:40:28] [Server thread/INFO]: offgamer233 issued server command: /score interact NEXT PAGE
+[17:40:28] [Server thread/INFO]: offgamer233 issued server command: /score interact NEXT PAGE
+[17:40:28] [Server thread/INFO]: offgamer233 issued server command: /score interact NEXT PAGE
+[17:40:29] [Server thread/INFO]: offgamer233 issued server command: /score interact NEXT PAGE
+[17:40:49] [Server thread/INFO]: offgamer233 issued server command: /score interact NEXT PAGE
+[17:40:51] [Server thread/INFO]: offgamer233 issued server command: /score interact NEXT PAGE
+[17:42:01] [Server thread/INFO]: offgamer233 issued server command: /ei
+[17:42:36] [Server thread/INFO]: offgamer233 issued server command: /score interact exit
+[17:44:31] [Server thread/INFO]: offgamer233 issued server command: /gamemode spectator
+[17:44:31] [Server thread/INFO]: [offgamer233: Set own game mode to Spectator Mode]
+[17:44:32] [Server thread/INFO]: offgamer233 issued server command: /gamemode creative
+[17:44:32] [Server thread/INFO]: [offgamer233: Set own game mode to Creative Mode]
