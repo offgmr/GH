@@ -4325,3 +4325,25 @@
 [03:28:48] [Server thread/INFO]: [offgamer233: Set own game mode to Spectator Mode]
 [03:28:59] [Server thread/INFO]: offgamer233 issued server command: /gamemode creative
 [03:28:59] [Server thread/INFO]: [offgamer233: Set own game mode to Creative Mode]
+[03:30:49] [Server thread/INFO]: offgamer233 issued server command: /gamemode adventure
+[03:30:49] [Server thread/INFO]: [offgamer233: Set own game mode to Adventure Mode]
+[03:30:54] [Server thread/INFO]: offgamer233 issued server command: /gamemode creative
+[03:30:54] [Server thread/INFO]: [offgamer233: Set own game mode to Creative Mode]
+[03:31:20] [Server thread/INFO]: offgamer233 issued server command: /gamemode adventure
+[03:31:20] [Server thread/INFO]: [offgamer233: Set own game mode to Adventure Mode]
+[03:31:23] [Server thread/INFO]: offgamer233 issued server command: /gamemode spectator
+[03:31:23] [Server thread/INFO]: [offgamer233: Set own game mode to Spectator Mode]
+[03:31:49] [Server thread/INFO]: offgamer233 issued server command: /gamemode adventure
+[03:31:49] [Server thread/INFO]: [offgamer233: Set own game mode to Adventure Mode]
+[03:31:51] [Server thread/INFO]: offgamer233 issued server command: /gamemode creative
+[03:31:51] [Server thread/INFO]: [offgamer233: Set own game mode to Creative Mode]
+[03:34:12] [Server thread/INFO]: offgamer233 issued server command: /gamemode spectator
+[03:34:12] [Server thread/INFO]: [offgamer233: Set own game mode to Spectator Mode]
+[03:34:23] [Server thread/INFO]: offgamer233 issued server command: /gamemode creative
+[03:34:23] [Server thread/INFO]: [offgamer233: Set own game mode to Creative Mode]
+[03:36:37] [Server thread/INFO]: offgamer233 issued server command: /kill @e[name=ball]
+[03:36:37] [Server thread/INFO]: [offgamer233: Killed 12 entities]
+[03:38:12] [Server thread/INFO]: offgamer233 issued server command: /gamemode spectator
+[03:38:12] [Server thread/INFO]: [offgamer233: Set own game mode to Spectator Mode]
+[03:38:16] [Server thread/INFO]: offgamer233 issued server command: /gamemode creative
+[03:38:16] [Server thread/INFO]: [offgamer233: Set own game mode to Creative Mode]
