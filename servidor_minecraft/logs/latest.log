@@ -3501,3 +3501,538 @@
 [02:06:10] [Server thread/INFO]: [offgamer233: Successfully filled 6 blocks]
 [02:06:10] [Server thread/INFO]: offgamer233 issued server command: /fill 179 9 97 179 9 101 minecraft:stone replace air
 [02:06:10] [Server thread/INFO]: [offgamer233: Successfully filled 5 blocks]
+[02:12:29] [Server thread/INFO]: offgamer233 issued server command: /time set day
+[02:12:29] [Server thread/INFO]: [offgamer233: Set the time to 1000]
+[02:13:15] [Server thread/INFO]: offgamer233 issued server command: /gamerule sendCommandFeedback
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 156 42 112 158 42 127 minecraft:glass replace air
+[02:13:16] [Server thread/INFO]: [offgamer233: Successfully filled 21 blocks]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 157 -3 112 157 -3 125 minecraft:blue_wool replace air
+[02:13:16] [Server thread/INFO]: [offgamer233: Successfully filled 7 blocks]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 158 -3 112 159 -3 127 minecraft:stone replace air
+[02:13:16] [Server thread/INFO]: [offgamer233: Successfully filled 14 blocks]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 158 -2 112 158 0 124 minecraft:purple_wool replace air
+[02:13:16] [Server thread/INFO]: [offgamer233: Successfully filled 21 blocks]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 158 1 112 158 1 127 minecraft:purple_wool replace air
+[02:13:16] [Server thread/INFO]: [offgamer233: Successfully filled 7 blocks]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 158 2 112 158 2 127 minecraft:iron_bars[east=false,north=true,south=true,waterlogged=false,west=false] replace air
+[02:13:16] [Server thread/INFO]: [offgamer233: Successfully filled 7 blocks]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 158 -2 125 158 -1 125 minecraft:stone replace air
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 158 0 125 158 0 127 minecraft:stone replace air
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 158 -2 127 158 -1 127 minecraft:stone replace air
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 159 1 112 159 1 127 minecraft:stone_slab[type=bottom,waterlogged=false] replace air
+[02:13:16] [Server thread/INFO]: [offgamer233: Successfully filled 7 blocks]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 159 42 112 159 42 127 minecraft:blue_wool replace air
+[02:13:16] [Server thread/INFO]: [offgamer233: Successfully filled 7 blocks]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 159 -2 114 159 -1 114 minecraft:blue_wool replace air
+[02:13:16] [Server thread/INFO]: [offgamer233: Successfully filled 2 blocks]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 159 0 114 159 0 120 minecraft:blue_wool replace air
+[02:13:16] [Server thread/INFO]: [offgamer233: Successfully filled 7 blocks]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /setblock 159 -2 115 minecraft:chest[facing=north,type=single,waterlogged=false]
+[02:13:16] [Server thread/INFO]: [offgamer233: Changed the block at 159, -2, 115]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /setblock 159 -2 116 minecraft:iron_bars[east=true,north=false,south=false,waterlogged=false,west=true]
+[02:13:16] [Server thread/INFO]: [offgamer233: Changed the block at 159, -2, 116]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /setblock 159 -2 118 minecraft:iron_bars[east=true,north=false,south=false,waterlogged=false,west=true]
+[02:13:16] [Server thread/INFO]: [offgamer233: Changed the block at 159, -2, 118]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /setblock 159 -2 119 minecraft:chest[facing=north,type=single,waterlogged=false]
+[02:13:16] [Server thread/INFO]: [offgamer233: Changed the block at 159, -2, 119]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 159 -2 120 159 -1 120 minecraft:blue_wool replace air
+[02:13:16] [Server thread/INFO]: [offgamer233: Successfully filled 2 blocks]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 156 42 100 158 42 111 minecraft:glass replace air
+[02:13:16] [Server thread/INFO]: [offgamer233: Successfully filled 30 blocks]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 157 -3 100 157 -3 107 minecraft:blue_wool replace air
+[02:13:16] [Server thread/INFO]: [offgamer233: Successfully filled 6 blocks]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /setblock 157 -3 108 minecraft:stone_brick_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]
+[02:13:16] [Server thread/INFO]: [offgamer233: Changed the block at 157, -3, 108]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 157 -3 109 157 -3 111 minecraft:blue_wool replace air
+[02:13:16] [Server thread/INFO]: [offgamer233: Successfully filled 3 blocks]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 158 -3 100 159 -3 111 minecraft:stone replace air
+[02:13:16] [Server thread/INFO]: [offgamer233: Successfully filled 20 blocks]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 158 -2 100 158 0 106 minecraft:purple_wool replace air
+[02:13:16] [Server thread/INFO]: [offgamer233: Successfully filled 15 blocks]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 158 1 100 158 1 111 minecraft:purple_wool replace air
+[02:13:16] [Server thread/INFO]: [offgamer233: Successfully filled 10 blocks]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 158 2 101 158 2 111 minecraft:iron_bars[east=false,north=true,south=true,waterlogged=false,west=false] replace air
+[02:13:16] [Server thread/INFO]: [offgamer233: Successfully filled 10 blocks]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 158 -2 107 158 -1 107 minecraft:stone replace air
+[02:13:16] [Server thread/INFO]: [offgamer233: Successfully filled 2 blocks]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 158 0 107 158 0 109 minecraft:stone replace air
+[02:13:16] [Server thread/INFO]: [offgamer233: Successfully filled 3 blocks]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 158 -2 109 158 -1 109 minecraft:stone replace air
+[02:13:16] [Server thread/INFO]: [offgamer233: Successfully filled 2 blocks]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 158 -2 110 158 0 111 minecraft:purple_wool replace air
+[02:13:16] [Server thread/INFO]: [offgamer233: Successfully filled 6 blocks]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 159 1 100 159 1 111 minecraft:stone_slab[type=bottom,waterlogged=false] replace air
+[02:13:16] [Server thread/INFO]: [offgamer233: Successfully filled 10 blocks]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 159 42 100 159 42 111 minecraft:blue_wool replace air
+[02:13:16] [Server thread/INFO]: [offgamer233: Successfully filled 10 blocks]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /setblock 159 0 108 minecraft:wall_torch[facing=east]
+[02:13:16] [Server thread/INFO]: [offgamer233: Changed the block at 159, 0, 108]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 156 42 128 158 42 133 minecraft:glass replace air
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 157 -3 128 157 -3 133 minecraft:blue_wool replace air
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 158 -3 128 159 -3 133 minecraft:stone replace air
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 158 -2 128 158 1 133 minecraft:purple_wool replace air
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 158 2 128 158 2 132 minecraft:iron_bars[east=false,north=true,south=true,waterlogged=false,west=false] replace air
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 159 1 128 159 1 133 minecraft:stone_slab[type=bottom,waterlogged=false] replace air
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 159 42 128 159 42 133 minecraft:blue_wool replace air
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 160 -3 112 175 -3 127 minecraft:stone replace air
+[02:13:16] [Server thread/INFO]: [offgamer233: Successfully filled 112 blocks]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 160 1 112 160 1 125 minecraft:gray_wool replace air
+[02:13:16] [Server thread/INFO]: [offgamer233: Successfully filled 7 blocks]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 160 41 112 165 41 127 minecraft:glass replace air
+[02:13:16] [Server thread/INFO]: [offgamer233: Successfully filled 42 blocks]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 160 -2 114 160 -2 120 minecraft:blue_wool replace air
+[02:13:16] [Server thread/INFO]: [offgamer233: Successfully filled 7 blocks]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /setblock 160 0 114 minecraft:wall_torch[facing=east]
+[02:13:16] [Server thread/INFO]: [offgamer233: Changed the block at 160, 0, 114]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /setblock 160 0 120 minecraft:wall_torch[facing=east]
+[02:13:16] [Server thread/INFO]: [offgamer233: Changed the block at 160, 0, 120]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 161 2 112 161 2 125 minecraft:gray_wool replace air
+[02:13:16] [Server thread/INFO]: [offgamer233: Successfully filled 7 blocks]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /setblock 161 -2 114 minecraft:wall_torch[facing=east]
+[02:13:16] [Server thread/INFO]: [offgamer233: Changed the block at 161, -2, 114]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /setblock 161 -2 120 minecraft:wall_torch[facing=east]
+[02:13:16] [Server thread/INFO]: [offgamer233: Changed the block at 161, -2, 120]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 162 3 112 162 3 125 minecraft:gray_wool replace air
+[02:13:16] [Server thread/INFO]: [offgamer233: Successfully filled 7 blocks]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 163 4 112 163 4 125 minecraft:gray_wool replace air
+[02:13:16] [Server thread/INFO]: [offgamer233: Successfully filled 7 blocks]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 164 5 112 164 5 125 minecraft:gray_wool replace air
+[02:13:16] [Server thread/INFO]: [offgamer233: Successfully filled 7 blocks]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 165 5 112 175 5 127 minecraft:stone replace air
+[02:13:16] [Server thread/INFO]: [offgamer233: Successfully filled 77 blocks]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 165 6 112 165 8 124 minecraft:glass replace air
+[02:13:16] [Server thread/INFO]: [offgamer233: Successfully filled 21 blocks]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 165 9 112 165 9 127 minecraft:black_wool replace air
+[02:13:16] [Server thread/INFO]: [offgamer233: Successfully filled 7 blocks]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 165 10 112 165 10 127 minecraft:iron_bars[east=false,north=true,south=true,waterlogged=false,west=false] replace air
+[02:13:16] [Server thread/INFO]: [offgamer233: Successfully filled 7 blocks]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 165 6 125 165 7 125 minecraft:purple_wool replace air
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 165 8 125 165 8 127 minecraft:purple_wool replace air
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 165 6 127 165 7 127 minecraft:purple_wool replace air
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 166 9 112 166 9 127 minecraft:stone_slab[type=bottom,waterlogged=false] replace air
+[02:13:16] [Server thread/INFO]: [offgamer233: Successfully filled 7 blocks]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 166 40 112 171 40 127 minecraft:glass replace air
+[02:13:16] [Server thread/INFO]: [offgamer233: Successfully filled 42 blocks]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 167 9 112 167 9 125 minecraft:purple_wool replace air
+[02:13:16] [Server thread/INFO]: [offgamer233: Successfully filled 7 blocks]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 168 10 112 168 10 125 minecraft:purple_wool replace air
+[02:13:16] [Server thread/INFO]: [offgamer233: Successfully filled 7 blocks]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 169 11 112 169 11 125 minecraft:purple_wool replace air
+[02:13:16] [Server thread/INFO]: [offgamer233: Successfully filled 7 blocks]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 170 12 112 170 12 125 minecraft:purple_wool replace air
+[02:13:16] [Server thread/INFO]: [offgamer233: Successfully filled 7 blocks]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 171 13 112 171 13 124 minecraft:purple_wool replace air
+[02:13:16] [Server thread/INFO]: [offgamer233: Successfully filled 7 blocks]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 171 13 125 171 13 127 minecraft:stone_brick_stairs[facing=east,half=bottom,shape=straight,waterlogged=false] replace air
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 172 14 112 172 14 124 minecraft:purple_wool replace air
+[02:13:16] [Server thread/INFO]: [offgamer233: Successfully filled 7 blocks]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 172 39 112 174 39 127 minecraft:glass replace air
+[02:13:16] [Server thread/INFO]: [offgamer233: Successfully filled 21 blocks]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 173 15 112 173 15 124 minecraft:purple_wool replace air
+[02:13:16] [Server thread/INFO]: [offgamer233: Successfully filled 7 blocks]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 174 16 112 174 16 124 minecraft:purple_wool replace air
+[02:13:16] [Server thread/INFO]: [offgamer233: Successfully filled 7 blocks]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 174 16 125 174 16 127 minecraft:stone_brick_stairs[facing=east,half=bottom,shape=straight,waterlogged=false] replace air
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 175 17 112 175 17 125 minecraft:purple_wool replace air
+[02:13:16] [Server thread/INFO]: [offgamer233: Successfully filled 7 blocks]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 175 38 112 175 38 127 minecraft:glass replace air
+[02:13:16] [Server thread/INFO]: [offgamer233: Successfully filled 7 blocks]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /setblock 175 6 127 minecraft:stone_brick_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]
+[02:13:16] [Server thread/INFO]: [offgamer233: Changed the block at 175, 6, 127]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 160 -3 100 175 -3 111 minecraft:stone replace air
+[02:13:16] [Server thread/INFO]: [offgamer233: Successfully filled 160 blocks]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 160 1 100 160 1 107 minecraft:gray_wool replace air
+[02:13:16] [Server thread/INFO]: [offgamer233: Successfully filled 6 blocks]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 160 41 100 165 41 100 minecraft:blue_wool replace air
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 160 41 101 165 41 111 minecraft:glass replace air
+[02:13:16] [Server thread/INFO]: [offgamer233: Successfully filled 60 blocks]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /setblock 160 1 108 minecraft:stone_brick_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]
+[02:13:16] [Server thread/INFO]: [offgamer233: Changed the block at 160, 1, 108]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 160 1 109 160 1 111 minecraft:gray_wool replace air
+[02:13:16] [Server thread/INFO]: [offgamer233: Successfully filled 3 blocks]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 161 2 100 161 2 107 minecraft:gray_wool replace air
+[02:13:16] [Server thread/INFO]: [offgamer233: Successfully filled 6 blocks]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /setblock 161 2 108 minecraft:stone_brick_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]
+[02:13:16] [Server thread/INFO]: [offgamer233: Changed the block at 161, 2, 108]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 161 2 109 161 2 111 minecraft:gray_wool replace air
+[02:13:16] [Server thread/INFO]: [offgamer233: Successfully filled 3 blocks]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 162 3 100 162 3 107 minecraft:gray_wool replace air
+[02:13:16] [Server thread/INFO]: [offgamer233: Successfully filled 6 blocks]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /setblock 162 3 108 minecraft:stone_brick_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]
+[02:13:16] [Server thread/INFO]: [offgamer233: Changed the block at 162, 3, 108]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 162 3 109 162 3 111 minecraft:gray_wool replace air
+[02:13:16] [Server thread/INFO]: [offgamer233: Successfully filled 3 blocks]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 163 4 100 163 4 107 minecraft:gray_wool replace air
+[02:13:16] [Server thread/INFO]: [offgamer233: Successfully filled 6 blocks]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /setblock 163 4 108 minecraft:stone_brick_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]
+[02:13:16] [Server thread/INFO]: [offgamer233: Changed the block at 163, 4, 108]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 163 4 109 163 4 111 minecraft:gray_wool replace air
+[02:13:16] [Server thread/INFO]: [offgamer233: Successfully filled 3 blocks]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 164 5 100 164 5 107 minecraft:gray_wool replace air
+[02:13:16] [Server thread/INFO]: [offgamer233: Successfully filled 6 blocks]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /setblock 164 5 108 minecraft:stone_brick_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]
+[02:13:16] [Server thread/INFO]: [offgamer233: Changed the block at 164, 5, 108]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 164 5 109 164 5 111 minecraft:gray_wool replace air
+[02:13:16] [Server thread/INFO]: [offgamer233: Successfully filled 3 blocks]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 165 5 100 175 5 111 minecraft:stone replace air
+[02:13:16] [Server thread/INFO]: [offgamer233: Successfully filled 110 blocks]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 165 6 100 165 8 100 minecraft:purple_wool replace air
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 165 9 100 165 9 111 minecraft:black_wool replace air
+[02:13:16] [Server thread/INFO]: [offgamer233: Successfully filled 10 blocks]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 165 6 101 165 8 106 minecraft:glass replace air
+[02:13:16] [Server thread/INFO]: [offgamer233: Successfully filled 15 blocks]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 165 10 101 165 10 111 minecraft:iron_bars[east=false,north=true,south=true,waterlogged=false,west=false] replace air
+[02:13:16] [Server thread/INFO]: [offgamer233: Successfully filled 10 blocks]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 165 6 107 165 7 107 minecraft:purple_wool replace air
+[02:13:16] [Server thread/INFO]: [offgamer233: Successfully filled 2 blocks]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 165 8 107 165 8 109 minecraft:purple_wool replace air
+[02:13:16] [Server thread/INFO]: [offgamer233: Successfully filled 3 blocks]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 165 6 109 165 7 109 minecraft:purple_wool replace air
+[02:13:16] [Server thread/INFO]: [offgamer233: Successfully filled 2 blocks]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 165 6 110 165 8 111 minecraft:glass replace air
+[02:13:16] [Server thread/INFO]: [offgamer233: Successfully filled 6 blocks]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 166 9 100 166 9 111 minecraft:stone_slab[type=bottom,waterlogged=false] replace air
+[02:13:16] [Server thread/INFO]: [offgamer233: Successfully filled 10 blocks]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 166 40 100 171 40 100 minecraft:blue_wool replace air
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 166 40 101 171 40 111 minecraft:glass replace air
+[02:13:16] [Server thread/INFO]: [offgamer233: Successfully filled 60 blocks]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /setblock 166 8 108 minecraft:wall_torch[facing=east]
+[02:13:16] [Server thread/INFO]: [offgamer233: Changed the block at 166, 8, 108]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 167 9 100 167 9 107 minecraft:purple_wool replace air
+[02:13:16] [Server thread/INFO]: [offgamer233: Successfully filled 6 blocks]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /setblock 167 9 108 minecraft:stone_brick_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]
+[02:13:16] [Server thread/INFO]: [offgamer233: Changed the block at 167, 9, 108]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 167 9 109 167 9 111 minecraft:purple_wool replace air
+[02:13:16] [Server thread/INFO]: [offgamer233: Successfully filled 3 blocks]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 168 10 100 168 10 107 minecraft:purple_wool replace air
+[02:13:16] [Server thread/INFO]: [offgamer233: Successfully filled 6 blocks]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /setblock 168 10 108 minecraft:stone_brick_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]
+[02:13:16] [Server thread/INFO]: [offgamer233: Changed the block at 168, 10, 108]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 168 10 109 168 10 111 minecraft:purple_wool replace air
+[02:13:16] [Server thread/INFO]: [offgamer233: Successfully filled 3 blocks]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 169 11 100 169 11 107 minecraft:purple_wool replace air
+[02:13:16] [Server thread/INFO]: [offgamer233: Successfully filled 6 blocks]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /setblock 169 11 108 minecraft:stone_brick_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]
+[02:13:16] [Server thread/INFO]: [offgamer233: Changed the block at 169, 11, 108]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 169 11 109 169 11 111 minecraft:purple_wool replace air
+[02:13:16] [Server thread/INFO]: [offgamer233: Successfully filled 3 blocks]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 170 12 100 170 12 107 minecraft:purple_wool replace air
+[02:13:16] [Server thread/INFO]: [offgamer233: Successfully filled 6 blocks]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /setblock 170 12 108 minecraft:stone_brick_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]
+[02:13:16] [Server thread/INFO]: [offgamer233: Changed the block at 170, 12, 108]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 170 12 109 170 12 111 minecraft:purple_wool replace air
+[02:13:16] [Server thread/INFO]: [offgamer233: Successfully filled 3 blocks]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 171 13 100 171 13 106 minecraft:purple_wool replace air
+[02:13:16] [Server thread/INFO]: [offgamer233: Successfully filled 5 blocks]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 171 13 107 171 13 109 minecraft:stone_brick_stairs[facing=east,half=bottom,shape=straight,waterlogged=false] replace air
+[02:13:16] [Server thread/INFO]: [offgamer233: Successfully filled 3 blocks]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 171 13 110 171 13 111 minecraft:purple_wool replace air
+[02:13:16] [Server thread/INFO]: [offgamer233: Successfully filled 2 blocks]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 172 14 100 172 14 106 minecraft:purple_wool replace air
+[02:13:16] [Server thread/INFO]: [offgamer233: Successfully filled 5 blocks]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 172 39 100 174 39 100 minecraft:blue_wool replace air
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 172 39 101 174 39 111 minecraft:glass replace air
+[02:13:16] [Server thread/INFO]: [offgamer233: Successfully filled 30 blocks]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /setblock 172 13 107 minecraft:stone
+[02:13:16] [Server thread/INFO]: [offgamer233: Changed the block at 172, 13, 107]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /setblock 172 14 107 minecraft:stone_brick_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]
+[02:13:16] [Server thread/INFO]: [offgamer233: Changed the block at 172, 14, 107]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /setblock 172 13 108 minecraft:stone_brick_stairs[facing=west,half=bottom,shape=straight,waterlogged=false]
+[02:13:16] [Server thread/INFO]: [offgamer233: Changed the block at 172, 13, 108]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /setblock 172 13 109 minecraft:stone
+[02:13:16] [Server thread/INFO]: [offgamer233: Changed the block at 172, 13, 109]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /setblock 172 14 109 minecraft:stone_brick_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]
+[02:13:16] [Server thread/INFO]: [offgamer233: Changed the block at 172, 14, 109]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 172 14 110 172 14 111 minecraft:purple_wool replace air
+[02:13:16] [Server thread/INFO]: [offgamer233: Successfully filled 2 blocks]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 173 15 100 173 15 106 minecraft:purple_wool replace air
+[02:13:16] [Server thread/INFO]: [offgamer233: Successfully filled 5 blocks]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /setblock 173 12 107 minecraft:stone
+[02:13:16] [Server thread/INFO]: [offgamer233: Changed the block at 173, 12, 107]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /setblock 173 15 107 minecraft:stone_brick_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]
+[02:13:16] [Server thread/INFO]: [offgamer233: Changed the block at 173, 15, 107]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /setblock 173 12 108 minecraft:stone_brick_stairs[facing=west,half=bottom,shape=straight,waterlogged=false]
+[02:13:16] [Server thread/INFO]: [offgamer233: Changed the block at 173, 12, 108]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /setblock 173 12 109 minecraft:stone
+[02:13:16] [Server thread/INFO]: [offgamer233: Changed the block at 173, 12, 109]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /setblock 173 15 109 minecraft:stone_brick_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]
+[02:13:16] [Server thread/INFO]: [offgamer233: Changed the block at 173, 15, 109]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 173 15 110 173 15 111 minecraft:purple_wool replace air
+[02:13:16] [Server thread/INFO]: [offgamer233: Successfully filled 2 blocks]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 174 16 100 174 16 106 minecraft:purple_wool replace air
+[02:13:16] [Server thread/INFO]: [offgamer233: Successfully filled 5 blocks]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /setblock 174 11 107 minecraft:stone
+[02:13:16] [Server thread/INFO]: [offgamer233: Changed the block at 174, 11, 107]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 174 16 107 174 16 109 minecraft:stone_brick_stairs[facing=east,half=bottom,shape=straight,waterlogged=false] replace air
+[02:13:16] [Server thread/INFO]: [offgamer233: Successfully filled 3 blocks]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /setblock 174 11 108 minecraft:stone_brick_stairs[facing=west,half=bottom,shape=straight,waterlogged=false]
+[02:13:16] [Server thread/INFO]: [offgamer233: Changed the block at 174, 11, 108]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /setblock 174 11 109 minecraft:stone
+[02:13:16] [Server thread/INFO]: [offgamer233: Changed the block at 174, 11, 109]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 174 16 110 174 16 111 minecraft:purple_wool replace air
+[02:13:16] [Server thread/INFO]: [offgamer233: Successfully filled 2 blocks]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 175 17 100 175 17 107 minecraft:purple_wool replace air
+[02:13:16] [Server thread/INFO]: [offgamer233: Successfully filled 6 blocks]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 175 38 101 175 38 111 minecraft:glass replace air
+[02:13:16] [Server thread/INFO]: [offgamer233: Successfully filled 10 blocks]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /setblock 175 6 106 minecraft:stone
+[02:13:16] [Server thread/INFO]: [offgamer233: Changed the block at 175, 6, 106]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /setblock 175 6 107 minecraft:stone_brick_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]
+[02:13:16] [Server thread/INFO]: [offgamer233: Changed the block at 175, 6, 107]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /setblock 175 10 107 minecraft:stone
+[02:13:16] [Server thread/INFO]: [offgamer233: Changed the block at 175, 10, 107]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /setblock 175 6 108 minecraft:stone
+[02:13:16] [Server thread/INFO]: [offgamer233: Changed the block at 175, 6, 108]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /setblock 175 10 108 minecraft:stone_brick_stairs[facing=west,half=bottom,shape=straight,waterlogged=false]
+[02:13:16] [Server thread/INFO]: [offgamer233: Changed the block at 175, 10, 108]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /setblock 175 17 108 minecraft:stone_brick_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]
+[02:13:16] [Server thread/INFO]: [offgamer233: Changed the block at 175, 17, 108]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /setblock 175 10 109 minecraft:stone
+[02:13:16] [Server thread/INFO]: [offgamer233: Changed the block at 175, 10, 109]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 175 17 109 175 17 111 minecraft:purple_wool replace air
+[02:13:16] [Server thread/INFO]: [offgamer233: Successfully filled 3 blocks]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 160 -3 128 175 -3 133 minecraft:stone replace air
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 160 1 128 160 1 133 minecraft:gray_wool replace air
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 160 41 128 165 41 133 minecraft:glass replace air
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 161 2 128 161 2 133 minecraft:gray_wool replace air
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 162 3 128 162 3 133 minecraft:gray_wool replace air
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 163 4 128 163 4 133 minecraft:gray_wool replace air
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 164 5 128 164 5 133 minecraft:gray_wool replace air
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 165 5 128 175 5 133 minecraft:stone replace air
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 165 6 128 165 8 133 minecraft:glass replace air
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 165 9 128 165 9 133 minecraft:black_wool replace air
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 165 10 128 165 10 132 minecraft:iron_bars[east=false,north=true,south=true,waterlogged=false,west=false] replace air
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 166 9 128 166 9 133 minecraft:stone_slab[type=bottom,waterlogged=false] replace air
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 166 40 128 171 40 133 minecraft:glass replace air
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 167 9 128 167 9 133 minecraft:purple_wool replace air
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 168 10 128 168 10 133 minecraft:purple_wool replace air
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 169 11 128 169 11 133 minecraft:purple_wool replace air
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 170 12 128 170 12 133 minecraft:purple_wool replace air
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 171 13 128 171 13 133 minecraft:purple_wool replace air
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 172 14 128 172 14 133 minecraft:purple_wool replace air
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 172 39 128 174 39 133 minecraft:glass replace air
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 173 15 128 173 15 133 minecraft:purple_wool replace air
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 174 16 128 174 16 133 minecraft:purple_wool replace air
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /setblock 175 6 128 minecraft:stone
+[02:13:16] [Server thread/INFO]: [offgamer233: Changed the block at 175, 6, 128]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 175 17 128 175 17 133 minecraft:purple_wool replace air
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 175 38 128 175 38 133 minecraft:glass replace air
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 176 -3 112 179 -3 114 minecraft:stone replace air
+[02:13:16] [Server thread/INFO]: [offgamer233: Successfully filled 12 blocks]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 176 5 112 179 5 114 minecraft:stone replace air
+[02:13:16] [Server thread/INFO]: [offgamer233: Successfully filled 12 blocks]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 176 18 112 176 18 125 minecraft:purple_wool replace air
+[02:13:16] [Server thread/INFO]: [offgamer233: Successfully filled 7 blocks]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 176 36 112 176 37 127 minecraft:glass replace air
+[02:13:16] [Server thread/INFO]: [offgamer233: Successfully filled 14 blocks]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /setblock 176 -3 115 minecraft:stone_brick_stairs[facing=west,half=bottom,shape=inner_right,waterlogged=false]
+[02:13:16] [Server thread/INFO]: [offgamer233: Changed the block at 176, -3, 115]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /setblock 176 5 115 minecraft:stone_brick_stairs[facing=north,half=bottom,shape=inner_left,waterlogged=false]
+[02:13:16] [Server thread/INFO]: [offgamer233: Changed the block at 176, 5, 115]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 176 -3 116 176 -3 118 minecraft:stone_brick_stairs[facing=west,half=bottom,shape=straight,waterlogged=false] replace air
+[02:13:16] [Server thread/INFO]: [offgamer233: Successfully filled 3 blocks]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 176 5 116 176 5 118 minecraft:stone_brick_stairs[facing=west,half=bottom,shape=straight,waterlogged=false] replace air
+[02:13:16] [Server thread/INFO]: [offgamer233: Successfully filled 3 blocks]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 176 -3 120 179 -3 127 minecraft:stone replace air
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 176 5 120 179 5 127 minecraft:stone replace air
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 176 10 125 179 10 125 minecraft:stone replace air
+[02:13:16] [Server thread/INFO]: [offgamer233: Successfully filled 3 blocks]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 176 9 126 179 9 126 minecraft:stone replace air
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /setblock 176 7 127 minecraft:stone_brick_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]
+[02:13:16] [Server thread/INFO]: [offgamer233: Changed the block at 176, 7, 127]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 177 19 112 177 19 125 minecraft:purple_wool replace air
+[02:13:16] [Server thread/INFO]: [offgamer233: Successfully filled 7 blocks]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 177 32 112 177 35 127 minecraft:glass replace air
+[02:13:16] [Server thread/INFO]: [offgamer233: Successfully filled 28 blocks]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /setblock 177 -3 115 minecraft:stone_brick_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]
+[02:13:16] [Server thread/INFO]: [offgamer233: Changed the block at 177, -3, 115]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /setblock 177 5 115 minecraft:stone_brick_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]
+[02:13:16] [Server thread/INFO]: [offgamer233: Changed the block at 177, 5, 115]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 177 -3 116 177 5 118 minecraft:ladder[facing=west,waterlogged=false] replace air
+[02:13:16] [Server thread/INFO]: [offgamer233: Successfully filled 27 blocks]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /setblock 177 8 127 minecraft:stone_brick_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]
+[02:13:16] [Server thread/INFO]: [offgamer233: Changed the block at 177, 8, 127]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 178 20 112 178 20 125 minecraft:purple_wool replace air
+[02:13:16] [Server thread/INFO]: [offgamer233: Successfully filled 7 blocks]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 178 25 112 178 31 127 minecraft:glass replace air
+[02:13:16] [Server thread/INFO]: [offgamer233: Successfully filled 49 blocks]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 178 -3 115 179 -3 119 minecraft:stone replace air
+[02:13:16] [Server thread/INFO]: [offgamer233: Successfully filled 8 blocks]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 178 5 115 179 5 119 minecraft:stone replace air
+[02:13:16] [Server thread/INFO]: [offgamer233: Successfully filled 8 blocks]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 178 -2 116 179 3 118 minecraft:stone replace air
+[02:13:16] [Server thread/INFO]: [offgamer233: Successfully filled 36 blocks]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 178 4 116 178 4 118 minecraft:stone replace air
+[02:13:16] [Server thread/INFO]: [offgamer233: Successfully filled 3 blocks]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /setblock 178 9 127 minecraft:stone_brick_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]
+[02:13:16] [Server thread/INFO]: [offgamer233: Changed the block at 178, 9, 127]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 179 -2 112 179 -1 115 minecraft:stone replace air
+[02:13:16] [Server thread/INFO]: [offgamer233: Successfully filled 8 blocks]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 179 0 112 179 1 115 minecraft:glass replace air
+[02:13:16] [Server thread/INFO]: [offgamer233: Successfully filled 8 blocks]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 179 2 112 179 3 115 minecraft:stone replace air
+[02:13:16] [Server thread/INFO]: [offgamer233: Successfully filled 8 blocks]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 179 4 112 179 4 127 minecraft:glowstone replace air
+[02:13:16] [Server thread/INFO]: [offgamer233: Successfully filled 7 blocks]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 179 6 112 179 6 127 minecraft:stone replace air
+[02:13:16] [Server thread/INFO]: [offgamer233: Successfully filled 7 blocks]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 179 7 112 179 8 127 minecraft:glass replace air
+[02:13:16] [Server thread/INFO]: [offgamer233: Successfully filled 14 blocks]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 179 9 112 179 9 125 minecraft:stone replace air
+[02:13:16] [Server thread/INFO]: [offgamer233: Successfully filled 7 blocks]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 179 10 112 179 10 124 minecraft:stone replace air
+[02:13:16] [Server thread/INFO]: [offgamer233: Successfully filled 7 blocks]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 179 11 112 179 11 127 minecraft:glowstone replace air
+[02:13:16] [Server thread/INFO]: [offgamer233: Successfully filled 7 blocks]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 179 12 112 179 13 127 minecraft:stone replace air
+[02:13:16] [Server thread/INFO]: [offgamer233: Successfully filled 14 blocks]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 179 14 112 179 15 127 minecraft:glass replace air
+[02:13:16] [Server thread/INFO]: [offgamer233: Successfully filled 14 blocks]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 179 16 112 179 17 127 minecraft:stone replace air
+[02:13:16] [Server thread/INFO]: [offgamer233: Successfully filled 14 blocks]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 179 18 112 179 18 127 minecraft:glowstone replace air
+[02:13:16] [Server thread/INFO]: [offgamer233: Successfully filled 7 blocks]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 179 19 112 179 20 127 minecraft:stone replace air
+[02:13:16] [Server thread/INFO]: [offgamer233: Successfully filled 14 blocks]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 179 21 112 179 23 127 minecraft:glass replace air
+[02:13:16] [Server thread/INFO]: [offgamer233: Successfully filled 21 blocks]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 179 24 112 179 24 127 minecraft:blue_wool replace air
+[02:13:16] [Server thread/INFO]: [offgamer233: Successfully filled 7 blocks]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 179 -2 119 179 -1 127 minecraft:stone replace air
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 179 0 119 179 1 127 minecraft:glass replace air
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 179 2 119 179 3 127 minecraft:stone replace air
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 179 10 126 179 10 127 minecraft:stone replace air
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 176 -3 100 178 -3 100 minecraft:stone replace air
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 176 5 100 178 5 100 minecraft:stone replace air
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 176 18 100 176 18 107 minecraft:purple_wool replace air
+[02:13:16] [Server thread/INFO]: [offgamer233: Successfully filled 6 blocks]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 176 36 100 176 37 100 minecraft:blue_wool replace air
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 176 -3 101 179 -3 111 minecraft:stone replace air
+[02:13:16] [Server thread/INFO]: [offgamer233: Successfully filled 40 blocks]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 176 5 101 179 5 111 minecraft:stone replace air
+[02:13:16] [Server thread/INFO]: [offgamer233: Successfully filled 40 blocks]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 176 36 101 176 37 111 minecraft:glass replace air
+[02:13:16] [Server thread/INFO]: [offgamer233: Successfully filled 20 blocks]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /setblock 176 7 106 minecraft:stone
+[02:13:16] [Server thread/INFO]: [offgamer233: Changed the block at 176, 7, 106]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /setblock 176 7 107 minecraft:stone_brick_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]
+[02:13:16] [Server thread/INFO]: [offgamer233: Changed the block at 176, 7, 107]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /setblock 176 7 108 minecraft:stone
+[02:13:16] [Server thread/INFO]: [offgamer233: Changed the block at 176, 7, 108]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 176 9 108 179 9 108 minecraft:stone replace air
+[02:13:16] [Server thread/INFO]: [offgamer233: Successfully filled 4 blocks]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /setblock 176 18 108 minecraft:stone_brick_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]
+[02:13:16] [Server thread/INFO]: [offgamer233: Changed the block at 176, 18, 108]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 176 10 109 179 10 109 minecraft:stone replace air
+[02:13:16] [Server thread/INFO]: [offgamer233: Successfully filled 4 blocks]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 176 18 109 176 18 111 minecraft:purple_wool replace air
+[02:13:16] [Server thread/INFO]: [offgamer233: Successfully filled 3 blocks]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 177 19 100 177 19 107 minecraft:purple_wool replace air
+[02:13:16] [Server thread/INFO]: [offgamer233: Successfully filled 6 blocks]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 177 32 100 177 35 100 minecraft:blue_wool replace air
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 177 32 101 177 35 111 minecraft:glass replace air
+[02:13:16] [Server thread/INFO]: [offgamer233: Successfully filled 40 blocks]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /setblock 177 8 106 minecraft:stone
+[02:13:16] [Server thread/INFO]: [offgamer233: Changed the block at 177, 8, 106]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /setblock 177 8 107 minecraft:stone_brick_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]
+[02:13:16] [Server thread/INFO]: [offgamer233: Changed the block at 177, 8, 107]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /setblock 177 8 108 minecraft:stone
+[02:13:16] [Server thread/INFO]: [offgamer233: Changed the block at 177, 8, 108]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /setblock 177 19 108 minecraft:stone_brick_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]
+[02:13:16] [Server thread/INFO]: [offgamer233: Changed the block at 177, 19, 108]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 177 19 109 177 19 111 minecraft:purple_wool replace air
+[02:13:16] [Server thread/INFO]: [offgamer233: Successfully filled 3 blocks]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 178 20 100 178 20 107 minecraft:purple_wool replace air
+[02:13:16] [Server thread/INFO]: [offgamer233: Successfully filled 6 blocks]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 178 25 100 178 31 100 minecraft:blue_wool replace air
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 178 25 101 178 31 111 minecraft:glass replace air
+[02:13:16] [Server thread/INFO]: [offgamer233: Successfully filled 70 blocks]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 178 9 106 179 9 106 minecraft:stone replace air
+[02:13:16] [Server thread/INFO]: [offgamer233: Successfully filled 2 blocks]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /setblock 178 9 107 minecraft:stone_brick_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]
+[02:13:16] [Server thread/INFO]: [offgamer233: Changed the block at 178, 9, 107]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /setblock 178 20 108 minecraft:stone_brick_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]
+[02:13:16] [Server thread/INFO]: [offgamer233: Changed the block at 178, 20, 108]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 178 20 109 178 20 111 minecraft:purple_wool replace air
+[02:13:16] [Server thread/INFO]: [offgamer233: Successfully filled 3 blocks]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 179 -3 100 179 23 100 minecraft:blue_wool replace air
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 179 24 100 179 24 111 minecraft:blue_wool replace air
+[02:13:16] [Server thread/INFO]: [offgamer233: Successfully filled 10 blocks]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 179 -2 101 179 -1 111 minecraft:stone replace air
+[02:13:16] [Server thread/INFO]: [offgamer233: Successfully filled 20 blocks]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 179 0 101 179 1 111 minecraft:glass replace air
+[02:13:16] [Server thread/INFO]: [offgamer233: Successfully filled 20 blocks]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 179 2 101 179 3 111 minecraft:stone replace air
+[02:13:16] [Server thread/INFO]: [offgamer233: Successfully filled 20 blocks]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 179 4 101 179 4 111 minecraft:glowstone replace air
+[02:13:16] [Server thread/INFO]: [offgamer233: Successfully filled 10 blocks]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 179 6 101 179 6 111 minecraft:stone replace air
+[02:13:16] [Server thread/INFO]: [offgamer233: Successfully filled 10 blocks]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 179 7 101 179 8 111 minecraft:glass replace air
+[02:13:16] [Server thread/INFO]: [offgamer233: Successfully filled 20 blocks]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 179 9 101 179 9 105 minecraft:stone replace air
+[02:13:16] [Server thread/INFO]: [offgamer233: Successfully filled 4 blocks]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 179 10 101 179 10 108 minecraft:stone replace air
+[02:13:16] [Server thread/INFO]: [offgamer233: Successfully filled 7 blocks]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 179 11 101 179 11 111 minecraft:glowstone replace air
+[02:13:16] [Server thread/INFO]: [offgamer233: Successfully filled 10 blocks]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 179 12 101 179 13 111 minecraft:stone replace air
+[02:13:16] [Server thread/INFO]: [offgamer233: Successfully filled 20 blocks]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 179 14 101 179 15 111 minecraft:glass replace air
+[02:13:16] [Server thread/INFO]: [offgamer233: Successfully filled 20 blocks]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 179 16 101 179 17 111 minecraft:stone replace air
+[02:13:16] [Server thread/INFO]: [offgamer233: Successfully filled 20 blocks]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 179 18 101 179 18 111 minecraft:glowstone replace air
+[02:13:16] [Server thread/INFO]: [offgamer233: Successfully filled 10 blocks]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 179 19 101 179 20 111 minecraft:stone replace air
+[02:13:16] [Server thread/INFO]: [offgamer233: Successfully filled 20 blocks]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 179 21 101 179 23 111 minecraft:glass replace air
+[02:13:16] [Server thread/INFO]: [offgamer233: Successfully filled 30 blocks]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /setblock 179 9 107 minecraft:stone
+[02:13:16] [Server thread/INFO]: [offgamer233: Changed the block at 179, 9, 107]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 179 9 109 179 9 111 minecraft:stone replace air
+[02:13:16] [Server thread/INFO]: [offgamer233: Successfully filled 3 blocks]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 179 10 110 179 10 111 minecraft:stone replace air
+[02:13:16] [Server thread/INFO]: [offgamer233: Successfully filled 2 blocks]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 176 -3 128 179 -3 133 minecraft:stone replace air
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 176 5 128 179 5 133 minecraft:stone replace air
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /setblock 176 7 128 minecraft:stone
+[02:13:16] [Server thread/INFO]: [offgamer233: Changed the block at 176, 7, 128]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 176 18 128 176 18 133 minecraft:purple_wool replace air
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 176 36 128 176 37 133 minecraft:glass replace air
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /setblock 177 8 128 minecraft:stone
+[02:13:16] [Server thread/INFO]: [offgamer233: Changed the block at 177, 8, 128]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 177 19 128 177 19 133 minecraft:purple_wool replace air
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 177 32 128 177 35 133 minecraft:glass replace air
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 178 9 128 179 9 128 minecraft:stone replace air
+[02:13:16] [Server thread/INFO]: [offgamer233: Successfully filled 1 blocks]
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 178 20 128 178 20 133 minecraft:purple_wool replace air
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 178 25 128 178 31 133 minecraft:glass replace air
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 179 -2 128 179 -1 133 minecraft:stone replace air
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 179 0 128 179 1 133 minecraft:glass replace air
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 179 2 128 179 3 133 minecraft:stone replace air
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 179 4 128 179 4 133 minecraft:glowstone replace air
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 179 6 128 179 6 133 minecraft:stone replace air
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 179 7 128 179 8 133 minecraft:glass replace air
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 179 10 128 179 10 133 minecraft:stone replace air
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 179 11 128 179 11 133 minecraft:glowstone replace air
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 179 12 128 179 13 133 minecraft:stone replace air
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 179 14 128 179 15 133 minecraft:glass replace air
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 179 16 128 179 17 133 minecraft:stone replace air
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 179 18 128 179 18 133 minecraft:glowstone replace air
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 179 19 128 179 20 133 minecraft:stone replace air
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 179 21 128 179 23 133 minecraft:glass replace air
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 179 24 128 179 24 133 minecraft:blue_wool replace air
+[02:13:16] [Server thread/INFO]: offgamer233 issued server command: /fill 179 9 129 179 9 133 minecraft:stone replace air
+[02:14:00] [Server thread/INFO]: offgamer233 issued server command: //replace air glass
+[02:14:15] [Server thread/INFO]: offgamer233 issued server command: /gamemode spectator
+[02:14:15] [Server thread/INFO]: [offgamer233: Set own game mode to Spectator Mode]
+[02:14:24] [Server thread/INFO]: offgamer233 issued server command: /gamemode creative
+[02:14:24] [Server thread/INFO]: [offgamer233: Set own game mode to Creative Mode]
+[02:15:37] [Server thread/INFO]: offgamer233 issued server command: //replace air blue_wool
+[02:16:00] [Server thread/INFO]: offgamer233 issued server command: //replace blue_wool yellow_wool
+[02:16:13] [Server thread/INFO]: offgamer233 issued server command: //replace yellow_wool orange_wool
+[02:16:38] [Server thread/INFO]: offgamer233 issued server command: //replace yellow_wool orange_wool
+[02:16:43] [Server thread/INFO]: offgamer233 issued server command: //replace air orange_wool
+[02:16:51] [Server thread/INFO]: offgamer233 issued server command: //replace blue_wool orange_wool
+[02:17:24] [Server thread/INFO]: offgamer233 issued server command: //replace air blue_concrete
