@@ -4570,3 +4570,126 @@ org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins
 [21:42:01] [Server thread/INFO]: [offgamer233: Set own game mode to Creative Mode]
 [21:43:49] [Server thread/INFO]: offgamer233 issued server command: /tp elrubius offgamer233
 [21:43:49] [Server thread/INFO]: [offgamer233: Teleported elrubius to offgamer233]
+[21:47:33] [Server thread/INFO]: offgamer233 issued server command: /gamemode spectator
+[21:47:33] [Server thread/INFO]: [offgamer233: Set own game mode to Spectator Mode]
+[21:47:38] [Server thread/INFO]: offgamer233 issued server command: /gamemode creative
+[21:47:38] [Server thread/INFO]: [offgamer233: Set own game mode to Creative Mode]
+[21:47:45] [Server thread/INFO]: offgamer233 issued server command: /tp elrubius offgamer233
+[21:47:45] [Server thread/INFO]: [offgamer233: Teleported elrubius to offgamer233]
+[21:48:20] [Server thread/INFO]: offgamer233 issued server command: /ei create TEAM AZUL
+[21:48:23] [Server thread/INFO]: offgamer233 issued server command: /ei create TEAMAZUL
+[21:49:11] [Server thread/INFO]: offgamer233 issued server command: /kick elrubius
+[21:49:11] [Server thread/INFO]: elrubius lost connection: Kicked by an operator
+[21:49:11] [Server thread/INFO]: elrubius left the game
+[21:49:11] [Server thread/INFO]: [offgamer233: Kicked elrubius: Kicked by an operator]
+[21:49:17] [User Authenticator #4/INFO]: UUID of player elrubius is 691df33d-823f-35e8-a6f0-854d557922a0
+[21:49:17] [Server thread/INFO]: elrubius joined the game
+[21:49:17] [Server thread/INFO]: elrubius[/127.230.53.48:48485] logged in with entity id 951 at ([world]87.62881660363342, 6.0, 97.52680079524998)
+[21:49:33] [Server thread/INFO]: offgamer233 issued server command: /ei show
+[21:50:06] [Server thread/INFO]: offgamer233 issued server command: /ei reload
+[21:50:06] [Server thread/INFO]: ExecutableItems Reloading...
+[21:50:06] [Craft Scheduler Thread - 1593 - SCore/INFO]: ================ ExecutableItems ================
+[21:50:06] [Craft Scheduler Thread - 1593 - SCore/INFO]: ExecutableItems Amount of Executable Items configurations loaded: 20
+[21:50:06] [Craft Scheduler Thread - 1593 - SCore/INFO]: ExecutableItems Items with display conditions :  
+[21:50:06] [Craft Scheduler Thread - 1593 - SCore/INFO]: ================ ExecutableItems ================
+[21:50:06] [Craft Scheduler Thread - 1593 - SCore/INFO]: ExecutableItems Successfully reloaded !
+[21:50:12] [Server thread/INFO]: offgamer233 issued server command: /reload
+[21:50:12] [Server thread/INFO]: offgamer233: Are you sure you wish to reload your server? Doing so may cause bugs and memory leaks. It is recommended to restart instead of using /reload. To confirm, please type /reload confirm
+[21:50:14] [Server thread/INFO]: offgamer233 issued server command: /reload confirm
+[21:50:14] [Server thread/INFO]: offgamer233: Please note that this command is not supported and may cause issues when using some plugins.
+[21:50:14] [Server thread/INFO]: offgamer233: If you encounter any issues please use the /stop command to restart your server.
+[21:50:14] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[21:50:14] [Server thread/INFO]: Using 4 threads for Netty based IO
+[21:50:14] [Server thread/INFO]: [ExecutableItems] Disabling ExecutableItems v7.25.2.25
+[21:50:14] [Server thread/INFO]: [SCore] Disabling SCore v5.25.2.25
+[21:50:14] [Server thread/INFO]: SCore Save UsagePerDay....
+[21:50:14] [Server thread/INFO]: SCore Save UsagePerDay done !
+[21:50:14] [Server thread/INFO]: SCore Save Commands...
+[21:50:14] [Server thread/INFO]: SCore Save Commands done !
+[21:50:14] [Server thread/INFO]: SCore Save Cooldowns...
+[21:50:14] [Server thread/INFO]: SCore 0 cooldowns saved
+[21:50:14] [Server thread/INFO]: SCore Save Cooldowns done !
+[21:50:14] [Server thread/INFO]: SCore Run delayed saving tasks...
+[21:50:14] [Server thread/INFO]: SCore Run delayed saving tasks done !
+[21:50:14] [Server thread/INFO]: SCore Clear scheduled tasks...
+[21:50:14] [Server thread/INFO]: SCore Clear scheduled tasks done !
+[21:50:14] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v7.2.16+6534-2066eb4
+[21:50:14] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
+[21:50:14] [Server thread/INFO]: Loaded 7 recipes
+[21:50:14] [Server thread/INFO]: [SCore] Loading 1 libraries... please wait
+[21:50:15] [Server thread/INFO]: [SCore] Loaded library /workspaces/GH/servidor_minecraft/libraries/io/netty/netty-all/4.1.118.Final/netty-all-4.1.118.Final.jar
+[21:50:15] [Server thread/INFO]: [SCore] Loaded library /workspaces/GH/servidor_minecraft/libraries/io/netty/netty-buffer/4.1.118.Final/netty-buffer-4.1.118.Final.jar
+[21:50:15] [Server thread/INFO]: [SCore] Loaded library /workspaces/GH/servidor_minecraft/libraries/io/netty/netty-codec/4.1.118.Final/netty-codec-4.1.118.Final.jar
+[21:50:15] [Server thread/INFO]: [SCore] Loaded library /workspaces/GH/servidor_minecraft/libraries/io/netty/netty-codec-dns/4.1.118.Final/netty-codec-dns-4.1.118.Final.jar
+[21:50:15] [Server thread/INFO]: [SCore] Loaded library /workspaces/GH/servidor_minecraft/libraries/io/netty/netty-codec-haproxy/4.1.118.Final/netty-codec-haproxy-4.1.118.Final.jar
+[21:50:15] [Server thread/INFO]: [SCore] Loaded library /workspaces/GH/servidor_minecraft/libraries/io/netty/netty-codec-http/4.1.118.Final/netty-codec-http-4.1.118.Final.jar
+[21:50:15] [Server thread/INFO]: [SCore] Loaded library /workspaces/GH/servidor_minecraft/libraries/io/netty/netty-codec-http2/4.1.118.Final/netty-codec-http2-4.1.118.Final.jar
+[21:50:15] [Server thread/INFO]: [SCore] Loaded library /workspaces/GH/servidor_minecraft/libraries/io/netty/netty-codec-memcache/4.1.118.Final/netty-codec-memcache-4.1.118.Final.jar
+[21:50:15] [Server thread/INFO]: [SCore] Loaded library /workspaces/GH/servidor_minecraft/libraries/io/netty/netty-codec-mqtt/4.1.118.Final/netty-codec-mqtt-4.1.118.Final.jar
+[21:50:15] [Server thread/INFO]: [SCore] Loaded library /workspaces/GH/servidor_minecraft/libraries/io/netty/netty-codec-redis/4.1.118.Final/netty-codec-redis-4.1.118.Final.jar
+[21:50:15] [Server thread/INFO]: [SCore] Loaded library /workspaces/GH/servidor_minecraft/libraries/io/netty/netty-codec-smtp/4.1.118.Final/netty-codec-smtp-4.1.118.Final.jar
+[21:50:15] [Server thread/INFO]: [SCore] Loaded library /workspaces/GH/servidor_minecraft/libraries/io/netty/netty-codec-socks/4.1.118.Final/netty-codec-socks-4.1.118.Final.jar
+[21:50:15] [Server thread/INFO]: [SCore] Loaded library /workspaces/GH/servidor_minecraft/libraries/io/netty/netty-codec-stomp/4.1.118.Final/netty-codec-stomp-4.1.118.Final.jar
+[21:50:15] [Server thread/INFO]: [SCore] Loaded library /workspaces/GH/servidor_minecraft/libraries/io/netty/netty-codec-xml/4.1.118.Final/netty-codec-xml-4.1.118.Final.jar
+[21:50:15] [Server thread/INFO]: [SCore] Loaded library /workspaces/GH/servidor_minecraft/libraries/io/netty/netty-common/4.1.118.Final/netty-common-4.1.118.Final.jar
+[21:50:15] [Server thread/INFO]: [SCore] Loaded library /workspaces/GH/servidor_minecraft/libraries/io/netty/netty-handler/4.1.118.Final/netty-handler-4.1.118.Final.jar
+[21:50:15] [Server thread/INFO]: [SCore] Loaded library /workspaces/GH/servidor_minecraft/libraries/io/netty/netty-transport-native-unix-common/4.1.118.Final/netty-transport-native-unix-common-4.1.118.Final.jar
+[21:50:15] [Server thread/INFO]: [SCore] Loaded library /workspaces/GH/servidor_minecraft/libraries/io/netty/netty-handler-proxy/4.1.118.Final/netty-handler-proxy-4.1.118.Final.jar
+[21:50:15] [Server thread/INFO]: [SCore] Loaded library /workspaces/GH/servidor_minecraft/libraries/io/netty/netty-handler-ssl-ocsp/4.1.118.Final/netty-handler-ssl-ocsp-4.1.118.Final.jar
+[21:50:15] [Server thread/INFO]: [SCore] Loaded library /workspaces/GH/servidor_minecraft/libraries/io/netty/netty-resolver/4.1.118.Final/netty-resolver-4.1.118.Final.jar
+[21:50:15] [Server thread/INFO]: [SCore] Loaded library /workspaces/GH/servidor_minecraft/libraries/io/netty/netty-resolver-dns/4.1.118.Final/netty-resolver-dns-4.1.118.Final.jar
+[21:50:15] [Server thread/INFO]: [SCore] Loaded library /workspaces/GH/servidor_minecraft/libraries/io/netty/netty-transport/4.1.118.Final/netty-transport-4.1.118.Final.jar
+[21:50:15] [Server thread/INFO]: [SCore] Loaded library /workspaces/GH/servidor_minecraft/libraries/io/netty/netty-transport-rxtx/4.1.118.Final/netty-transport-rxtx-4.1.118.Final.jar
+[21:50:15] [Server thread/INFO]: [SCore] Loaded library /workspaces/GH/servidor_minecraft/libraries/io/netty/netty-transport-sctp/4.1.118.Final/netty-transport-sctp-4.1.118.Final.jar
+[21:50:15] [Server thread/INFO]: [SCore] Loaded library /workspaces/GH/servidor_minecraft/libraries/io/netty/netty-transport-udt/4.1.118.Final/netty-transport-udt-4.1.118.Final.jar
+[21:50:15] [Server thread/INFO]: [SCore] Loaded library /workspaces/GH/servidor_minecraft/libraries/io/netty/netty-transport-classes-epoll/4.1.118.Final/netty-transport-classes-epoll-4.1.118.Final.jar
+[21:50:15] [Server thread/INFO]: [SCore] Loaded library /workspaces/GH/servidor_minecraft/libraries/io/netty/netty-transport-classes-kqueue/4.1.118.Final/netty-transport-classes-kqueue-4.1.118.Final.jar
+[21:50:15] [Server thread/INFO]: [SCore] Loaded library /workspaces/GH/servidor_minecraft/libraries/io/netty/netty-resolver-dns-classes-macos/4.1.118.Final/netty-resolver-dns-classes-macos-4.1.118.Final.jar
+[21:50:15] [Server thread/INFO]: [SCore] Loaded library /workspaces/GH/servidor_minecraft/libraries/io/netty/netty-transport-native-epoll/4.1.118.Final/netty-transport-native-epoll-4.1.118.Final-linux-x86_64.jar
+[21:50:15] [Server thread/INFO]: [SCore] Loaded library /workspaces/GH/servidor_minecraft/libraries/io/netty/netty-transport-native-epoll/4.1.118.Final/netty-transport-native-epoll-4.1.118.Final-linux-aarch_64.jar
+[21:50:15] [Server thread/INFO]: [SCore] Loaded library /workspaces/GH/servidor_minecraft/libraries/io/netty/netty-transport-native-epoll/4.1.118.Final/netty-transport-native-epoll-4.1.118.Final-linux-riscv64.jar
+[21:50:15] [Server thread/INFO]: [SCore] Loaded library /workspaces/GH/servidor_minecraft/libraries/io/netty/netty-transport-native-kqueue/4.1.118.Final/netty-transport-native-kqueue-4.1.118.Final-osx-x86_64.jar
+[21:50:15] [Server thread/INFO]: [SCore] Loaded library /workspaces/GH/servidor_minecraft/libraries/io/netty/netty-transport-native-kqueue/4.1.118.Final/netty-transport-native-kqueue-4.1.118.Final-osx-aarch_64.jar
+[21:50:15] [Server thread/INFO]: [SCore] Loaded library /workspaces/GH/servidor_minecraft/libraries/io/netty/netty-resolver-dns-native-macos/4.1.118.Final/netty-resolver-dns-native-macos-4.1.118.Final-osx-x86_64.jar
+[21:50:15] [Server thread/INFO]: [SCore] Loaded library /workspaces/GH/servidor_minecraft/libraries/io/netty/netty-resolver-dns-native-macos/4.1.118.Final/netty-resolver-dns-native-macos-4.1.118.Final-osx-aarch_64.jar
+[21:50:15] [Server thread/INFO]: [SCore] Loading SCore v5.25.2.25
+[21:50:15] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v7.2.16+6534-2066eb4
+[21:50:15] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@3966d699]
+[21:50:15] [Server thread/INFO]: [ExecutableItems] Loading ExecutableItems v7.25.2.25
+[21:50:15] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[21:50:15] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.2.16+6534-2066eb4
+[21:50:15] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[21:50:15] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[21:50:15] [Server thread/WARN]: [WorldEdit] Server reload detected. This may cause various issues with WorldEdit and dependent plugins.
+[21:50:15] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.v1_19_R1.PaperweightAdapter as the Bukkit adapter
+[21:50:15] [Server thread/INFO]: [SCore] Enabling SCore v5.25.2.25
+[21:50:15] [Server thread/INFO]: ================ SCore ================
+[21:50:15] [Server thread/INFO]: SCore is running on Paper or fork
+[21:50:15] [Server thread/INFO]: SCore Version of the server git-Paper-307 (MC: 1.19.2) !
+[21:50:15] [Server thread/INFO]: SCore ExecutableItems hooked !  (7.25.2.25) Load After
+[21:50:15] [Server thread/INFO]: SCore WorldEdit hooked !  (7.2.16+6534-2066eb4)  Load Before
+[21:50:15] [Server thread/INFO]: SCore Locale setup: EN
+[21:50:15] [Server thread/INFO]: SCore Language of the editor setup on EN
+[21:50:15] [Server thread/INFO]: SCore Language for in-game messages setup on EN
+[21:50:15] [Server thread/INFO]: SCore will connect to the database hosted: In Local
+[21:50:15] [Server thread/INFO]: SCore Connection to the db...
+[21:50:15] [Server thread/INFO]: SCore will connect to the database hosted: In Local
+[21:50:15] [Server thread/INFO]: SCore Creating table SecurityOP if not exists...
+[21:50:15] [Server thread/INFO]: SCore Creating table Commands if not exists...
+[21:50:15] [Server thread/INFO]: SCore Creating table Cooldowns if not exists...
+[21:50:15] [Server thread/INFO]: SCore Creating table Commands Player if not exists...
+[21:50:15] [Server thread/INFO]: SCore Creating table Commands Entity if not exists...
+[21:50:15] [Server thread/INFO]: SCore Creating table Commands Block if not exists...
+[21:50:15] [Server thread/INFO]: SCore Creating table UsePerDay if not exists...
+[21:50:16] [Server thread/INFO]: SCore SCore loaded 1 variables from local files !
+[21:50:16] [Server thread/INFO]: SCore SCore loaded 0 delayed commands saved
+[21:50:16] [Server thread/INFO]: ================ SCore ================
+[21:50:16] [Server thread/INFO]: [ExecutableItems] Enabling ExecutableItems v7.25.2.25
+[21:50:16] [Server thread/INFO]: ================ ExecutableItems ================
+[21:50:17] [Server thread/INFO]: ExecutableItems Amount of Executable Items configurations loaded: 20
+[21:50:17] [Server thread/INFO]: ExecutableItems Items with display conditions :  
+[21:50:17] [Server thread/INFO]: ================ ExecutableItems ================
+[21:50:17] [Server thread/INFO]: offgamer233: Reload complete.
+[21:50:17] [Server thread/INFO]: Timings Reset
+[21:50:21] [Server thread/INFO]: offgamer233 issued server command: /ei show
+[21:51:15] [Server thread/INFO]: offgamer233 issued server command: /ei show
