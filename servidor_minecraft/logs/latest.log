@@ -4025,3 +4025,196 @@ org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins
 [20:45:58] [Server thread/INFO]: [offgamer233: Teleported offgamer233 to 0.500000, 10.000000, 0.500000]
 [20:46:04] [Server thread/INFO]: offgamer233 issued server command: /tp elrubius offgamer233
 [20:46:04] [Server thread/INFO]: [offgamer233: Teleported elrubius to offgamer233]
+[20:47:53] [Server thread/INFO]: offgamer233 issued server command: /gamemode spectator
+[20:47:53] [Server thread/INFO]: [offgamer233: Set own game mode to Spectator Mode]
+[20:48:05] [Server thread/INFO]: offgamer233 issued server command: /tp 0 0 0
+[20:48:05] [Server thread/INFO]: [offgamer233: Teleported offgamer233 to 0.500000, 0.000000, 0.500000]
+[20:48:10] [Server thread/INFO]: offgamer233 issued server command: /tp 0 -10 0
+[20:48:10] [Server thread/INFO]: [offgamer233: Teleported offgamer233 to 0.500000, -10.000000, 0.500000]
+[20:48:13] [Server thread/INFO]: offgamer233 issued server command: /tp 0 -20 0
+[20:48:13] [Server thread/INFO]: [offgamer233: Teleported offgamer233 to 0.500000, -20.000000, 0.500000]
+[20:48:24] [Server thread/INFO]: offgamer233 issued server command: /tp elrubius offgamer233
+[20:48:24] [Server thread/INFO]: [offgamer233: Teleported elrubius to offgamer233]
+[20:48:26] [Server thread/INFO]: offgamer233 issued server command: /gamemode adventure
+[20:48:26] [Server thread/INFO]: [offgamer233: Set own game mode to Adventure Mode]
+[20:48:54] [Server thread/INFO]: offgamer233 issued server command: /gamemode spectator
+[20:48:54] [Server thread/INFO]: [offgamer233: Set own game mode to Spectator Mode]
+[20:48:55] [Server thread/INFO]: offgamer233 issued server command: /gamemode adventure
+[20:48:55] [Server thread/INFO]: [offgamer233: Set own game mode to Adventure Mode]
+[20:48:57] [Server thread/INFO]: offgamer233 issued server command: /gamemode creative
+[20:48:57] [Server thread/INFO]: [offgamer233: Set own game mode to Creative Mode]
+[20:49:13] [Server thread/INFO]: offgamer233 issued server command: /gamemode spectator
+[20:49:13] [Server thread/INFO]: [offgamer233: Set own game mode to Spectator Mode]
+[20:49:16] [Server thread/INFO]: offgamer233 issued server command: /gamemode adventure
+[20:49:16] [Server thread/INFO]: [offgamer233: Set own game mode to Adventure Mode]
+[20:49:18] [Server thread/INFO]: offgamer233 issued server command: /tp elrubius offgamer233
+[20:49:18] [Server thread/INFO]: [offgamer233: Teleported elrubius to offgamer233]
+[20:49:36] [Server thread/INFO]: offgamer233 issued server command: /gamemode spectator
+[20:49:36] [Server thread/INFO]: [offgamer233: Set own game mode to Spectator Mode]
+[20:49:45] [Server thread/INFO]: offgamer233 issued server command: /gamemode adventure
+[20:49:45] [Server thread/INFO]: [offgamer233: Set own game mode to Adventure Mode]
+[20:49:49] [Server thread/INFO]: offgamer233 issued server command: /tp elrubius offgamer233
+[20:49:49] [Server thread/INFO]: [offgamer233: Teleported elrubius to offgamer233]
+[20:50:27] [Server thread/INFO]: offgamer233 issued server command: /gamemode spectator
+[20:50:27] [Server thread/INFO]: [offgamer233: Set own game mode to Spectator Mode]
+[20:50:41] [Server thread/INFO]: offgamer233 issued server command: /gamemode adventure
+[20:50:41] [Server thread/INFO]: [offgamer233: Set own game mode to Adventure Mode]
+[20:50:47] [Server thread/INFO]: offgamer233 issued server command: /gamemode spectator
+[20:50:47] [Server thread/INFO]: [offgamer233: Set own game mode to Spectator Mode]
+[20:50:50] [Server thread/INFO]: offgamer233 issued server command: /gamemode spectator
+[20:50:50] [Server thread/INFO]: [offgamer233: Set own game mode to Spectator Mode]
+[20:51:01] [Server thread/INFO]: offgamer233 issued server command: /tp 0 -20 0
+[20:51:01] [Server thread/INFO]: [offgamer233: Teleported offgamer233 to 0.500000, -20.000000, 0.500000]
+[20:51:08] [Server thread/INFO]: offgamer233 issued server command: /gamemode adventure
+[20:51:08] [Server thread/INFO]: [offgamer233: Set own game mode to Adventure Mode]
+[20:51:13] [Server thread/INFO]: offgamer233 issued server command: /gamemode creative
+[20:51:13] [Server thread/INFO]: [offgamer233: Set own game mode to Creative Mode]
+[20:52:18] [Server thread/INFO]: offgamer233 issued server command: /tp elrubius
+[20:52:18] [Server thread/INFO]: [offgamer233: Teleported offgamer233 to elrubius]
+[20:52:32] [Server thread/INFO]: offgamer233 issued server command: //wand
+[20:52:46] [Server thread/INFO]: offgamer233 issued server command: //set air
+[20:53:01] [Server thread/INFO]: offgamer233 issued server command: /give offgamer233 minecraft:light 1
+[20:53:01] [Server thread/INFO]: [offgamer233: Gave 1 [Light] to offgamer233]
+[20:53:16] [Server thread/INFO]: offgamer233 issued server command: /tp 0 -20 0
+[20:53:16] [Server thread/INFO]: [offgamer233: Teleported offgamer233 to 0.500000, -20.000000, 0.500000]
+[20:53:18] [Server thread/INFO]: offgamer233 issued server command: /gamemode spectator
+[20:53:18] [Server thread/INFO]: [offgamer233: Set own game mode to Spectator Mode]
+[20:53:22] [Server thread/INFO]: offgamer233 issued server command: /gamemode creative
+[20:53:22] [Server thread/INFO]: [offgamer233: Set own game mode to Creative Mode]
+[20:54:30] [Server thread/INFO]: offgamer233 issued server command: /tp elrubius
+[20:54:30] [Server thread/INFO]: [offgamer233: Teleported offgamer233 to elrubius]
+[20:54:35] [Server thread/INFO]: offgamer233 issued server command: /time set day
+[20:54:35] [Server thread/INFO]: [offgamer233: Set the time to 1000]
+[20:55:09] [Server thread/INFO]: offgamer233 issued server command: //wand
+[20:55:36] [Server thread/INFO]: offgamer233 issued server command: //set air
+[20:56:17] [Server thread/INFO]: offgamer233 issued server command: /gamerule sendCommandFeedback
+[20:56:17] [Server thread/INFO]: offgamer233 issued server command: /fill 136 -22 96 142 -22 97 minecraft:stone replace air
+[20:56:17] [Server thread/INFO]: [offgamer233: Successfully filled 14 blocks]
+[20:56:17] [Server thread/INFO]: offgamer233 issued server command: /setblock 136 -21 97 minecraft:redstone_wire[east=side,north=none,power=0,south=up,west=none]
+[20:56:17] [Server thread/INFO]: [offgamer233: Changed the block at 136, -21, 97]
+[20:56:17] [Server thread/INFO]: offgamer233 issued server command: /setblock 136 -22 98 minecraft:andesite
+[20:56:17] [Server thread/INFO]: [offgamer233: Changed the block at 136, -22, 98]
+[20:56:17] [Server thread/INFO]: offgamer233 issued server command: /setblock 136 -21 98 minecraft:stone
+[20:56:17] [Server thread/INFO]: [offgamer233: Changed the block at 136, -21, 98]
+[20:56:17] [Server thread/INFO]: offgamer233 issued server command: /setblock 136 -20 98 minecraft:redstone_wire[east=none,north=side,power=0,south=side,west=none]
+[20:56:17] [Server thread/INFO]: [offgamer233: Changed the block at 136, -20, 98]
+[20:56:17] [Server thread/INFO]: offgamer233 issued server command: /fill 136 -22 99 142 -22 100 minecraft:stone replace air
+[20:56:17] [Server thread/INFO]: [offgamer233: Successfully filled 14 blocks]
+[20:56:17] [Server thread/INFO]: offgamer233 issued server command: /setblock 136 -21 99 minecraft:redstone_wire[east=side,north=up,power=0,south=none,west=none]
+[20:56:17] [Server thread/INFO]: [offgamer233: Changed the block at 136, -21, 99]
+[20:56:17] [Server thread/INFO]: offgamer233 issued server command: /setblock 137 -21 97 minecraft:redstone_wire[east=side,north=none,power=0,south=none,west=side]
+[20:56:17] [Server thread/INFO]: [offgamer233: Changed the block at 137, -21, 97]
+[20:56:17] [Server thread/INFO]: offgamer233 issued server command: /fill 137 -22 98 142 -22 98 minecraft:stone replace air
+[20:56:17] [Server thread/INFO]: [offgamer233: Successfully filled 6 blocks]
+[20:56:17] [Server thread/INFO]: offgamer233 issued server command: /fill 137 -21 99 138 -21 99 minecraft:redstone_wire[east=side,north=none,power=0,south=none,west=side] replace air
+[20:56:17] [Server thread/INFO]: [offgamer233: Successfully filled 2 blocks]
+[20:56:17] [Server thread/INFO]: offgamer233 issued server command: /setblock 138 -21 96 minecraft:hopper[enabled=true,facing=east]
+[20:56:17] [Server thread/INFO]: [offgamer233: Changed the block at 138, -21, 96]
+[20:56:17] [Server thread/INFO]: offgamer233 issued server command: /setblock 138 -21 97 minecraft:hopper[enabled=true,facing=north]
+[20:56:17] [Server thread/INFO]: [offgamer233: Changed the block at 138, -21, 97]
+[20:56:17] [Server thread/INFO]: offgamer233 issued server command: /setblock 139 -21 96 minecraft:hopper[enabled=true,facing=south]
+[20:56:17] [Server thread/INFO]: [offgamer233: Changed the block at 139, -21, 96]
+[20:56:17] [Server thread/INFO]: offgamer233 issued server command: /fill 139 -20 96 139 -20 97 minecraft:jungle_planks replace air
+[20:56:17] [Server thread/INFO]: [offgamer233: Successfully filled 2 blocks]
+[20:56:17] [Server thread/INFO]: offgamer233 issued server command: /setblock 139 -19 96 minecraft:repeater[delay=1,facing=south,locked=false,powered=true]
+[20:56:17] [Server thread/INFO]: [offgamer233: Changed the block at 139, -19, 96]
+[20:56:17] [Server thread/INFO]: offgamer233 issued server command: /setblock 139 -21 97 minecraft:hopper[enabled=true,facing=west]
+[20:56:17] [Server thread/INFO]: [offgamer233: Changed the block at 139, -21, 97]
+[20:56:17] [Server thread/INFO]: offgamer233 issued server command: /setblock 139 -19 97 minecraft:redstone_torch[lit=true]
+[20:56:17] [Server thread/INFO]: [offgamer233: Changed the block at 139, -19, 97]
+[20:56:17] [Server thread/INFO]: offgamer233 issued server command: /setblock 139 -21 98 minecraft:stone
+[20:56:17] [Server thread/INFO]: [offgamer233: Changed the block at 139, -21, 98]
+[20:56:17] [Server thread/INFO]: offgamer233 issued server command: /setblock 139 -20 98 minecraft:redstone_wire[east=none,north=side,power=0,south=side,west=none]
+[20:56:17] [Server thread/INFO]: [offgamer233: Changed the block at 139, -20, 98]
+[20:56:17] [Server thread/INFO]: offgamer233 issued server command: /setblock 139 -21 99 minecraft:redstone_wire[east=none,north=up,power=0,south=none,west=side]
+[20:56:17] [Server thread/INFO]: [offgamer233: Changed the block at 139, -21, 99]
+[20:56:17] [Server thread/INFO]: offgamer233 issued server command: /fill 136 -22 84 142 -22 85 minecraft:stone replace air
+[20:56:17] [Server thread/INFO]: [offgamer233: Successfully filled 14 blocks]
+[20:56:17] [Server thread/INFO]: offgamer233 issued server command: /fill 136 -22 86 138 -22 94 minecraft:stone replace air
+[20:56:17] [Server thread/INFO]: [offgamer233: Successfully filled 27 blocks]
+[20:56:17] [Server thread/INFO]: offgamer233 issued server command: /fill 136 -22 95 137 -22 95 minecraft:stone replace air
+[20:56:17] [Server thread/INFO]: [offgamer233: Successfully filled 2 blocks]
+[20:56:17] [Server thread/INFO]: offgamer233 issued server command: /setblock 138 -21 84 minecraft:command_block[conditional=false,facing=south]
+[20:56:17] [Server thread/INFO]: [offgamer233: Changed the block at 138, -21, 84]
+[20:56:17] [Server thread/INFO]: offgamer233 issued server command: /setblock 138 -21 85 minecraft:repeater[delay=1,facing=south,locked=false,powered=false]
+[20:56:17] [Server thread/INFO]: [offgamer233: Changed the block at 138, -21, 85]
+[20:56:17] [Server thread/INFO]: offgamer233 issued server command: /setblock 138 -21 86 minecraft:command_block[conditional=false,facing=south]
+[20:56:17] [Server thread/INFO]: [offgamer233: Changed the block at 138, -21, 86]
+[20:56:17] [Server thread/INFO]: offgamer233 issued server command: /setblock 138 -21 87 minecraft:repeater[delay=1,facing=south,locked=false,powered=false]
+[20:56:17] [Server thread/INFO]: [offgamer233: Changed the block at 138, -21, 87]
+[20:56:17] [Server thread/INFO]: offgamer233 issued server command: /setblock 138 -21 88 minecraft:command_block[conditional=false,facing=south]
+[20:56:17] [Server thread/INFO]: [offgamer233: Changed the block at 138, -21, 88]
+[20:56:17] [Server thread/INFO]: offgamer233 issued server command: /setblock 138 -21 89 minecraft:repeater[delay=2,facing=south,locked=false,powered=true]
+[20:56:17] [Server thread/INFO]: [offgamer233: Changed the block at 138, -21, 89]
+[20:56:17] [Server thread/INFO]: offgamer233 issued server command: /setblock 138 -21 90 minecraft:command_block[conditional=false,facing=south]
+[20:56:17] [Server thread/INFO]: [offgamer233: Changed the block at 138, -21, 90]
+[20:56:17] [Server thread/INFO]: offgamer233 issued server command: /setblock 138 -21 91 minecraft:repeater[delay=2,facing=south,locked=false,powered=true]
+[20:56:17] [Server thread/INFO]: [offgamer233: Changed the block at 138, -21, 91]
+[20:56:17] [Server thread/INFO]: offgamer233 issued server command: /setblock 138 -21 92 minecraft:command_block[conditional=false,facing=east]
+[20:56:17] [Server thread/INFO]: [offgamer233: Changed the block at 138, -21, 92]
+[20:56:17] [Server thread/INFO]: offgamer233 issued server command: /setblock 138 -21 93 minecraft:repeater[delay=2,facing=south,locked=false,powered=false]
+[20:56:17] [Server thread/INFO]: [offgamer233: Changed the block at 138, -21, 93]
+[20:56:17] [Server thread/INFO]: offgamer233 issued server command: /setblock 138 -21 94 minecraft:command_block[conditional=false,facing=north]
+[20:56:17] [Server thread/INFO]: [offgamer233: Changed the block at 138, -21, 94]
+[20:56:17] [Server thread/INFO]: offgamer233 issued server command: /setblock 138 -22 95 minecraft:andesite
+[20:56:17] [Server thread/INFO]: [offgamer233: Changed the block at 138, -22, 95]
+[20:56:17] [Server thread/INFO]: offgamer233 issued server command: /setblock 138 -21 95 minecraft:comparator[facing=south,mode=compare,powered=false]
+[20:56:17] [Server thread/INFO]: [offgamer233: Changed the block at 138, -21, 95]
+[20:56:17] [Server thread/INFO]: offgamer233 issued server command: /setblock 138 -20 95 minecraft:dark_oak_wall_sign[facing=west,waterlogged=false]
+[20:56:17] [Server thread/INFO]: [offgamer233: Changed the block at 138, -20, 95]
+[20:56:17] [Server thread/INFO]: offgamer233 issued server command: /setblock 139 -21 84 minecraft:repeater[delay=1,facing=west,locked=false,powered=false]
+[20:56:17] [Server thread/INFO]: [offgamer233: Changed the block at 139, -21, 84]
+[20:56:17] [Server thread/INFO]: offgamer233 issued server command: /fill 139 -19 88 139 -19 93 minecraft:chain_command_block[conditional=true,facing=north] replace air
+[20:56:17] [Server thread/INFO]: [offgamer233: Successfully filled 6 blocks]
+[20:56:17] [Server thread/INFO]: offgamer233 issued server command: /setblock 139 -19 94 minecraft:repeating_command_block[conditional=false,facing=north]
+[20:56:17] [Server thread/INFO]: [offgamer233: Changed the block at 139, -19, 94]
+[20:56:17] [Server thread/INFO]: offgamer233 issued server command: /setblock 139 -20 95 minecraft:jungle_planks
+[20:56:17] [Server thread/INFO]: [offgamer233: Changed the block at 139, -20, 95]
+[20:56:17] [Server thread/INFO]: offgamer233 issued server command: /setblock 139 -19 95 minecraft:redstone_wire[east=none,north=side,power=15,south=side,west=none]
+[20:56:17] [Server thread/INFO]: [offgamer233: Changed the block at 139, -19, 95]
+[20:56:17] [Server thread/INFO]: offgamer233 issued server command: /setblock 140 -21 84 minecraft:command_block[conditional=false,facing=west]
+[20:56:17] [Server thread/INFO]: [offgamer233: Changed the block at 140, -21, 84]
+[20:56:17] [Server thread/INFO]: offgamer233 issued server command: /setblock 140 -21 85 minecraft:repeater[delay=1,facing=north,locked=false,powered=false]
+[20:56:17] [Server thread/INFO]: [offgamer233: Changed the block at 140, -21, 85]
+[20:56:17] [Server thread/INFO]: offgamer233 issued server command: /fill 140 -22 86 142 -22 87 minecraft:stone replace air
+[20:56:17] [Server thread/INFO]: [offgamer233: Successfully filled 6 blocks]
+[20:56:17] [Server thread/INFO]: offgamer233 issued server command: /setblock 140 -21 86 minecraft:command_block[conditional=false,facing=north]
+[20:56:17] [Server thread/INFO]: [offgamer233: Changed the block at 140, -21, 86]
+[20:56:17] [Server thread/INFO]: offgamer233 issued server command: /setblock 140 -21 87 minecraft:repeater[delay=1,facing=north,locked=false,powered=false]
+[20:56:17] [Server thread/INFO]: [offgamer233: Changed the block at 140, -21, 87]
+[20:56:17] [Server thread/INFO]: offgamer233 issued server command: /fill 140 -22 88 140 -22 90 minecraft:diorite replace air
+[20:56:17] [Server thread/INFO]: [offgamer233: Successfully filled 3 blocks]
+[20:56:17] [Server thread/INFO]: offgamer233 issued server command: /setblock 140 -21 88 minecraft:command_block[conditional=false,facing=north]
+[20:56:17] [Server thread/INFO]: [offgamer233: Changed the block at 140, -21, 88]
+[20:56:17] [Server thread/INFO]: offgamer233 issued server command: /setblock 140 -21 89 minecraft:repeater[delay=1,facing=north,locked=false,powered=false]
+[20:56:17] [Server thread/INFO]: [offgamer233: Changed the block at 140, -21, 89]
+[20:56:17] [Server thread/INFO]: offgamer233 issued server command: /setblock 140 -21 90 minecraft:command_block[conditional=false,facing=north]
+[20:56:17] [Server thread/INFO]: [offgamer233: Changed the block at 140, -21, 90]
+[20:56:17] [Server thread/INFO]: offgamer233 issued server command: /fill 140 -22 91 142 -22 92 minecraft:stone replace air
+[20:56:17] [Server thread/INFO]: [offgamer233: Successfully filled 6 blocks]
+[20:56:17] [Server thread/INFO]: offgamer233 issued server command: /setblock 140 -21 91 minecraft:repeater[delay=1,facing=north,locked=false,powered=false]
+[20:56:17] [Server thread/INFO]: [offgamer233: Changed the block at 140, -21, 91]
+[20:56:17] [Server thread/INFO]: offgamer233 issued server command: /setblock 140 -21 92 minecraft:command_block[conditional=false,facing=north]
+[20:56:17] [Server thread/INFO]: [offgamer233: Changed the block at 140, -21, 92]
+[20:56:17] [Server thread/INFO]: offgamer233 issued server command: /setblock 140 -22 93 minecraft:coal_ore
+[20:56:17] [Server thread/INFO]: [offgamer233: Changed the block at 140, -22, 93]
+[20:56:17] [Server thread/INFO]: offgamer233 issued server command: /setblock 140 -21 93 minecraft:repeater[delay=1,facing=north,locked=false,powered=false]
+[20:56:17] [Server thread/INFO]: [offgamer233: Changed the block at 140, -21, 93]
+[20:56:17] [Server thread/INFO]: offgamer233 issued server command: /fill 140 -22 94 141 -22 94 minecraft:coal_ore replace air
+[20:56:17] [Server thread/INFO]: [offgamer233: Successfully filled 2 blocks]
+[20:56:17] [Server thread/INFO]: offgamer233 issued server command: /setblock 140 -21 94 minecraft:command_block[conditional=false,facing=north]
+[20:56:17] [Server thread/INFO]: [offgamer233: Changed the block at 140, -21, 94]
+[20:56:17] [Server thread/INFO]: offgamer233 issued server command: /fill 141 -22 88 142 -22 90 minecraft:stone replace air
+[20:56:17] [Server thread/INFO]: [offgamer233: Successfully filled 6 blocks]
+[20:56:17] [Server thread/INFO]: offgamer233 issued server command: /fill 141 -22 93 142 -22 93 minecraft:stone replace air
+[20:56:17] [Server thread/INFO]: [offgamer233: Successfully filled 2 blocks]
+[20:56:17] [Server thread/INFO]: offgamer233 issued server command: /setblock 141 -21 94 minecraft:repeater[delay=1,facing=west,locked=false,powered=false]
+[20:56:17] [Server thread/INFO]: [offgamer233: Changed the block at 141, -21, 94]
+[20:56:17] [Server thread/INFO]: offgamer233 issued server command: /fill 141 -22 95 142 -22 95 minecraft:stone replace air
+[20:56:17] [Server thread/INFO]: [offgamer233: Successfully filled 2 blocks]
+[20:56:17] [Server thread/INFO]: offgamer233 issued server command: /setblock 142 -20 86 minecraft:dark_oak_wall_sign[facing=west,waterlogged=false]
+[20:56:17] [Server thread/INFO]: [offgamer233: Changed the block at 142, -20, 86]
+[20:56:17] [Server thread/INFO]: offgamer233 issued server command: /setblock 142 -22 94 minecraft:andesite
+[20:56:17] [Server thread/INFO]: [offgamer233: Changed the block at 142, -22, 94]
+[20:56:17] [Server thread/INFO]: offgamer233 issued server command: /setblock 142 -21 94 minecraft:command_block[conditional=false,facing=up]
+[20:56:17] [Server thread/INFO]: [offgamer233: Changed the block at 142, -21, 94]
