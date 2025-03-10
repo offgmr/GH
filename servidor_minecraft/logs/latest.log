@@ -1,143 +1,258 @@
-[23:40:11] [ServerMain/INFO]: Building unoptimized datafixer
-[23:40:12] [ServerMain/WARN]: You specified a resource pack without providing a sha1 hash. Pack will be updated on the client only if you change the name of the pack.
-[23:40:12] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[23:40:13] [ServerMain/INFO]: Loaded 7 recipes
-[23:40:15] [Server thread/INFO]: Starting minecraft server version 1.19.2
-[23:40:15] [Server thread/INFO]: Loading properties
-[23:40:15] [Server thread/INFO]: This server is running Paper version git-Paper-307 (MC: 1.19.2) (Implementing API version 1.19.2-R0.1-SNAPSHOT) (Git: 476ef25)
-[23:40:15] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[23:40:15] [Server thread/INFO]: Using 4 threads for Netty based IO
-[23:40:15] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and gen parallelism of 1 threads
-[23:40:15] [Server thread/INFO]: Default game type: SURVIVAL
-[23:40:15] [Server thread/INFO]: Generating keypair
-[23:40:15] [Server thread/INFO]: Starting Minecraft server on *:25565
-[23:40:15] [Server thread/INFO]: Using epoll channel type
-[23:40:15] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[23:40:15] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
-[23:40:15] [Server thread/INFO]: [SCore] Loading 1 libraries... please wait
-[23:40:16] [Server thread/INFO]: [SCore] Loaded library /workspaces/GH/servidor_minecraft/libraries/io/netty/netty-all/4.1.118.Final/netty-all-4.1.118.Final.jar
-[23:40:16] [Server thread/INFO]: [SCore] Loaded library /workspaces/GH/servidor_minecraft/libraries/io/netty/netty-buffer/4.1.118.Final/netty-buffer-4.1.118.Final.jar
-[23:40:16] [Server thread/INFO]: [SCore] Loaded library /workspaces/GH/servidor_minecraft/libraries/io/netty/netty-codec/4.1.118.Final/netty-codec-4.1.118.Final.jar
-[23:40:16] [Server thread/INFO]: [SCore] Loaded library /workspaces/GH/servidor_minecraft/libraries/io/netty/netty-codec-dns/4.1.118.Final/netty-codec-dns-4.1.118.Final.jar
-[23:40:16] [Server thread/INFO]: [SCore] Loaded library /workspaces/GH/servidor_minecraft/libraries/io/netty/netty-codec-haproxy/4.1.118.Final/netty-codec-haproxy-4.1.118.Final.jar
-[23:40:16] [Server thread/INFO]: [SCore] Loaded library /workspaces/GH/servidor_minecraft/libraries/io/netty/netty-codec-http/4.1.118.Final/netty-codec-http-4.1.118.Final.jar
-[23:40:16] [Server thread/INFO]: [SCore] Loaded library /workspaces/GH/servidor_minecraft/libraries/io/netty/netty-codec-http2/4.1.118.Final/netty-codec-http2-4.1.118.Final.jar
-[23:40:16] [Server thread/INFO]: [SCore] Loaded library /workspaces/GH/servidor_minecraft/libraries/io/netty/netty-codec-memcache/4.1.118.Final/netty-codec-memcache-4.1.118.Final.jar
-[23:40:16] [Server thread/INFO]: [SCore] Loaded library /workspaces/GH/servidor_minecraft/libraries/io/netty/netty-codec-mqtt/4.1.118.Final/netty-codec-mqtt-4.1.118.Final.jar
-[23:40:16] [Server thread/INFO]: [SCore] Loaded library /workspaces/GH/servidor_minecraft/libraries/io/netty/netty-codec-redis/4.1.118.Final/netty-codec-redis-4.1.118.Final.jar
-[23:40:16] [Server thread/INFO]: [SCore] Loaded library /workspaces/GH/servidor_minecraft/libraries/io/netty/netty-codec-smtp/4.1.118.Final/netty-codec-smtp-4.1.118.Final.jar
-[23:40:16] [Server thread/INFO]: [SCore] Loaded library /workspaces/GH/servidor_minecraft/libraries/io/netty/netty-codec-socks/4.1.118.Final/netty-codec-socks-4.1.118.Final.jar
-[23:40:16] [Server thread/INFO]: [SCore] Loaded library /workspaces/GH/servidor_minecraft/libraries/io/netty/netty-codec-stomp/4.1.118.Final/netty-codec-stomp-4.1.118.Final.jar
-[23:40:16] [Server thread/INFO]: [SCore] Loaded library /workspaces/GH/servidor_minecraft/libraries/io/netty/netty-codec-xml/4.1.118.Final/netty-codec-xml-4.1.118.Final.jar
-[23:40:16] [Server thread/INFO]: [SCore] Loaded library /workspaces/GH/servidor_minecraft/libraries/io/netty/netty-common/4.1.118.Final/netty-common-4.1.118.Final.jar
-[23:40:16] [Server thread/INFO]: [SCore] Loaded library /workspaces/GH/servidor_minecraft/libraries/io/netty/netty-handler/4.1.118.Final/netty-handler-4.1.118.Final.jar
-[23:40:16] [Server thread/INFO]: [SCore] Loaded library /workspaces/GH/servidor_minecraft/libraries/io/netty/netty-transport-native-unix-common/4.1.118.Final/netty-transport-native-unix-common-4.1.118.Final.jar
-[23:40:16] [Server thread/INFO]: [SCore] Loaded library /workspaces/GH/servidor_minecraft/libraries/io/netty/netty-handler-proxy/4.1.118.Final/netty-handler-proxy-4.1.118.Final.jar
-[23:40:16] [Server thread/INFO]: [SCore] Loaded library /workspaces/GH/servidor_minecraft/libraries/io/netty/netty-handler-ssl-ocsp/4.1.118.Final/netty-handler-ssl-ocsp-4.1.118.Final.jar
-[23:40:16] [Server thread/INFO]: [SCore] Loaded library /workspaces/GH/servidor_minecraft/libraries/io/netty/netty-resolver/4.1.118.Final/netty-resolver-4.1.118.Final.jar
-[23:40:16] [Server thread/INFO]: [SCore] Loaded library /workspaces/GH/servidor_minecraft/libraries/io/netty/netty-resolver-dns/4.1.118.Final/netty-resolver-dns-4.1.118.Final.jar
-[23:40:16] [Server thread/INFO]: [SCore] Loaded library /workspaces/GH/servidor_minecraft/libraries/io/netty/netty-transport/4.1.118.Final/netty-transport-4.1.118.Final.jar
-[23:40:16] [Server thread/INFO]: [SCore] Loaded library /workspaces/GH/servidor_minecraft/libraries/io/netty/netty-transport-rxtx/4.1.118.Final/netty-transport-rxtx-4.1.118.Final.jar
-[23:40:16] [Server thread/INFO]: [SCore] Loaded library /workspaces/GH/servidor_minecraft/libraries/io/netty/netty-transport-sctp/4.1.118.Final/netty-transport-sctp-4.1.118.Final.jar
-[23:40:16] [Server thread/INFO]: [SCore] Loaded library /workspaces/GH/servidor_minecraft/libraries/io/netty/netty-transport-udt/4.1.118.Final/netty-transport-udt-4.1.118.Final.jar
-[23:40:16] [Server thread/INFO]: [SCore] Loaded library /workspaces/GH/servidor_minecraft/libraries/io/netty/netty-transport-classes-epoll/4.1.118.Final/netty-transport-classes-epoll-4.1.118.Final.jar
-[23:40:16] [Server thread/INFO]: [SCore] Loaded library /workspaces/GH/servidor_minecraft/libraries/io/netty/netty-transport-classes-kqueue/4.1.118.Final/netty-transport-classes-kqueue-4.1.118.Final.jar
-[23:40:16] [Server thread/INFO]: [SCore] Loaded library /workspaces/GH/servidor_minecraft/libraries/io/netty/netty-resolver-dns-classes-macos/4.1.118.Final/netty-resolver-dns-classes-macos-4.1.118.Final.jar
-[23:40:16] [Server thread/INFO]: [SCore] Loaded library /workspaces/GH/servidor_minecraft/libraries/io/netty/netty-transport-native-epoll/4.1.118.Final/netty-transport-native-epoll-4.1.118.Final-linux-x86_64.jar
-[23:40:16] [Server thread/INFO]: [SCore] Loaded library /workspaces/GH/servidor_minecraft/libraries/io/netty/netty-transport-native-epoll/4.1.118.Final/netty-transport-native-epoll-4.1.118.Final-linux-aarch_64.jar
-[23:40:16] [Server thread/INFO]: [SCore] Loaded library /workspaces/GH/servidor_minecraft/libraries/io/netty/netty-transport-native-epoll/4.1.118.Final/netty-transport-native-epoll-4.1.118.Final-linux-riscv64.jar
-[23:40:16] [Server thread/INFO]: [SCore] Loaded library /workspaces/GH/servidor_minecraft/libraries/io/netty/netty-transport-native-kqueue/4.1.118.Final/netty-transport-native-kqueue-4.1.118.Final-osx-x86_64.jar
-[23:40:16] [Server thread/INFO]: [SCore] Loaded library /workspaces/GH/servidor_minecraft/libraries/io/netty/netty-transport-native-kqueue/4.1.118.Final/netty-transport-native-kqueue-4.1.118.Final-osx-aarch_64.jar
-[23:40:16] [Server thread/INFO]: [SCore] Loaded library /workspaces/GH/servidor_minecraft/libraries/io/netty/netty-resolver-dns-native-macos/4.1.118.Final/netty-resolver-dns-native-macos-4.1.118.Final-osx-x86_64.jar
-[23:40:16] [Server thread/INFO]: [SCore] Loaded library /workspaces/GH/servidor_minecraft/libraries/io/netty/netty-resolver-dns-native-macos/4.1.118.Final/netty-resolver-dns-native-macos-4.1.118.Final-osx-aarch_64.jar
-[23:40:16] [Server thread/INFO]: [SCore] Loading SCore v5.25.2.25
-[23:40:16] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v7.2.16+6534-2066eb4
-[23:40:16] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@4a913b46]
-[23:40:16] [Server thread/INFO]: [ExecutableItems] Loading ExecutableItems v7.25.2.25
-[23:40:16] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[23:40:16] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.2.16+6534-2066eb4
-[23:40:16] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
-[23:40:16] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
-[23:40:16] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.v1_19_R1.PaperweightAdapter as the Bukkit adapter
-[23:40:18] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[23:40:18] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[23:40:18] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[23:40:18] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[23:40:18] [Server thread/INFO]: Preparing level "world"
-[23:40:18] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[23:40:18] [Server thread/INFO]: Time elapsed: 113 ms
-[23:40:18] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[23:40:18] [Server thread/INFO]: Time elapsed: 43 ms
-[23:40:18] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[23:40:18] [Server thread/INFO]: Time elapsed: 67 ms
-[23:40:18] [Server thread/INFO]: [SCore] Enabling SCore v5.25.2.25
-[23:40:19] [Server thread/INFO]: ================ SCore ================
-[23:40:19] [Server thread/INFO]: SCore is running on Paper or fork
-[23:40:19] [Server thread/INFO]: SCore Version of the server git-Paper-307 (MC: 1.19.2) !
-[23:40:19] [Server thread/INFO]: SCore ExecutableItems hooked !  (7.25.2.25) Load After
-[23:40:19] [Server thread/INFO]: SCore WorldEdit hooked !  (7.2.16+6534-2066eb4)  Load Before
-[23:40:19] [Server thread/INFO]: SCore Locale setup: EN
-[23:40:19] [Server thread/INFO]: SCore Language of the editor setup on EN
-[23:40:19] [Server thread/INFO]: SCore Language for in-game messages setup on EN
-[23:40:19] [Server thread/INFO]: SCore will connect to the database hosted: In Local
-[23:40:19] [Server thread/INFO]: SCore Connection to the db...
-[23:40:19] [Server thread/INFO]: SCore will connect to the database hosted: In Local
-[23:40:19] [Server thread/INFO]: SCore Creating table SecurityOP if not exists...
-[23:40:19] [Server thread/INFO]: SCore Creating table Commands if not exists...
-[23:40:19] [Server thread/INFO]: SCore Creating table Cooldowns if not exists...
-[23:40:19] [Server thread/INFO]: SCore Creating table Commands Player if not exists...
-[23:40:19] [Server thread/INFO]: SCore Creating table Commands Entity if not exists...
-[23:40:19] [Server thread/INFO]: SCore Creating table Commands Block if not exists...
-[23:40:19] [Server thread/INFO]: SCore Creating table UsePerDay if not exists...
-[23:40:20] [Server thread/INFO]: SCore SCore loaded 1 variables from local files !
-[23:40:20] [Server thread/INFO]: SCore SCore loaded 0 delayed commands saved
-[23:40:20] [Server thread/INFO]: ================ SCore ================
-[23:40:20] [Server thread/INFO]: [ExecutableItems] Enabling ExecutableItems v7.25.2.25
-[23:40:20] [Server thread/INFO]: ================ ExecutableItems ================
-[23:40:23] [Server thread/INFO]: ExecutableItems Amount of Executable Items configurations loaded: 22
-[23:40:23] [Server thread/INFO]: ExecutableItems Items with display conditions :  
-[23:40:23] [Server thread/INFO]: ================ ExecutableItems ================
-[23:40:23] [Server thread/INFO]: Running delayed init tasks
-[23:40:23] [Server thread/INFO]: Done (8.820s)! For help, type "help"
-[23:40:23] [Server thread/INFO]: Timings Reset
-[23:42:23] [Server thread/INFO]: Stopping the server
-[23:42:23] [Server thread/INFO]: Stopping server
-[23:42:23] [Server thread/INFO]: [ExecutableItems] Disabling ExecutableItems v7.25.2.25
-[23:42:23] [Server thread/INFO]: [SCore] Disabling SCore v5.25.2.25
-[23:42:23] [Server thread/INFO]: SCore Save UsagePerDay....
-[23:42:23] [Server thread/INFO]: SCore Save UsagePerDay done !
-[23:42:23] [Server thread/INFO]: SCore Save Commands...
-[23:42:23] [Server thread/INFO]: SCore Save Commands done !
-[23:42:23] [Server thread/INFO]: SCore Save Cooldowns...
-[23:42:23] [Server thread/INFO]: SCore 0 cooldowns saved
-[23:42:23] [Server thread/INFO]: SCore Save Cooldowns done !
-[23:42:23] [Server thread/INFO]: SCore Run delayed saving tasks...
-[23:42:23] [Server thread/INFO]: SCore Run delayed saving tasks done !
-[23:42:23] [Server thread/INFO]: SCore Clear scheduled tasks...
-[23:42:23] [Server thread/INFO]: SCore Clear scheduled tasks done !
-[23:42:23] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v7.2.16+6534-2066eb4
-[23:42:23] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
-[23:42:23] [Server thread/INFO]: Saving players
-[23:42:23] [Server thread/INFO]: Saving worlds
-[23:42:23] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[23:42:23] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
-[23:42:23] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
-[23:42:23] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
-[23:42:24] [Server thread/INFO]: [ChunkHolderManager] Saved 529 block chunks, 529 entity chunks, 0 poi chunks in world 'world' in 0.65s
-[23:42:24] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[23:42:24] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[23:42:24] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
-[23:42:24] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
-[23:42:24] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
-[23:42:24] [Server thread/INFO]: [ChunkHolderManager] Saved 529 block chunks, 529 entity chunks, 0 poi chunks in world 'world_nether' in 0.59s
-[23:42:24] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[23:42:24] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[23:42:24] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
-[23:42:24] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
-[23:42:24] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
-[23:42:24] [Server thread/INFO]: [ChunkHolderManager] Saved 529 block chunks, 529 entity chunks, 0 poi chunks in world 'world_the_end' in 0.19s
-[23:42:24] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[23:42:24] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[23:42:24] [Server thread/INFO]: Flushing Chunk IO
-[23:42:24] [Server thread/INFO]: Closing Thread Pool
-[23:42:24] [Server thread/INFO]: Closing Server
+[23:50:13] [ServerMain/INFO]: Building unoptimized datafixer
+[23:50:14] [ServerMain/WARN]: You specified a resource pack without providing a sha1 hash. Pack will be updated on the client only if you change the name of the pack.
+[23:50:14] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[23:50:15] [ServerMain/INFO]: Loaded 7 recipes
+[23:50:16] [Server thread/INFO]: Starting minecraft server version 1.19.2
+[23:50:16] [Server thread/INFO]: Loading properties
+[23:50:16] [Server thread/INFO]: This server is running Paper version git-Paper-307 (MC: 1.19.2) (Implementing API version 1.19.2-R0.1-SNAPSHOT) (Git: 476ef25)
+[23:50:16] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[23:50:16] [Server thread/INFO]: Using 4 threads for Netty based IO
+[23:50:17] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and gen parallelism of 1 threads
+[23:50:17] [Server thread/INFO]: Default game type: SURVIVAL
+[23:50:17] [Server thread/INFO]: Generating keypair
+[23:50:17] [Server thread/INFO]: Starting Minecraft server on *:25565
+[23:50:17] [Server thread/INFO]: Using epoll channel type
+[23:50:17] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[23:50:17] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[23:50:17] [Server thread/INFO]: [SCore] Loading 1 libraries... please wait
+[23:50:18] [Server thread/INFO]: [SCore] Loaded library /workspaces/GH/servidor_minecraft/libraries/io/netty/netty-all/4.1.118.Final/netty-all-4.1.118.Final.jar
+[23:50:18] [Server thread/INFO]: [SCore] Loaded library /workspaces/GH/servidor_minecraft/libraries/io/netty/netty-buffer/4.1.118.Final/netty-buffer-4.1.118.Final.jar
+[23:50:18] [Server thread/INFO]: [SCore] Loaded library /workspaces/GH/servidor_minecraft/libraries/io/netty/netty-codec/4.1.118.Final/netty-codec-4.1.118.Final.jar
+[23:50:18] [Server thread/INFO]: [SCore] Loaded library /workspaces/GH/servidor_minecraft/libraries/io/netty/netty-codec-dns/4.1.118.Final/netty-codec-dns-4.1.118.Final.jar
+[23:50:18] [Server thread/INFO]: [SCore] Loaded library /workspaces/GH/servidor_minecraft/libraries/io/netty/netty-codec-haproxy/4.1.118.Final/netty-codec-haproxy-4.1.118.Final.jar
+[23:50:18] [Server thread/INFO]: [SCore] Loaded library /workspaces/GH/servidor_minecraft/libraries/io/netty/netty-codec-http/4.1.118.Final/netty-codec-http-4.1.118.Final.jar
+[23:50:18] [Server thread/INFO]: [SCore] Loaded library /workspaces/GH/servidor_minecraft/libraries/io/netty/netty-codec-http2/4.1.118.Final/netty-codec-http2-4.1.118.Final.jar
+[23:50:18] [Server thread/INFO]: [SCore] Loaded library /workspaces/GH/servidor_minecraft/libraries/io/netty/netty-codec-memcache/4.1.118.Final/netty-codec-memcache-4.1.118.Final.jar
+[23:50:18] [Server thread/INFO]: [SCore] Loaded library /workspaces/GH/servidor_minecraft/libraries/io/netty/netty-codec-mqtt/4.1.118.Final/netty-codec-mqtt-4.1.118.Final.jar
+[23:50:18] [Server thread/INFO]: [SCore] Loaded library /workspaces/GH/servidor_minecraft/libraries/io/netty/netty-codec-redis/4.1.118.Final/netty-codec-redis-4.1.118.Final.jar
+[23:50:18] [Server thread/INFO]: [SCore] Loaded library /workspaces/GH/servidor_minecraft/libraries/io/netty/netty-codec-smtp/4.1.118.Final/netty-codec-smtp-4.1.118.Final.jar
+[23:50:18] [Server thread/INFO]: [SCore] Loaded library /workspaces/GH/servidor_minecraft/libraries/io/netty/netty-codec-socks/4.1.118.Final/netty-codec-socks-4.1.118.Final.jar
+[23:50:18] [Server thread/INFO]: [SCore] Loaded library /workspaces/GH/servidor_minecraft/libraries/io/netty/netty-codec-stomp/4.1.118.Final/netty-codec-stomp-4.1.118.Final.jar
+[23:50:18] [Server thread/INFO]: [SCore] Loaded library /workspaces/GH/servidor_minecraft/libraries/io/netty/netty-codec-xml/4.1.118.Final/netty-codec-xml-4.1.118.Final.jar
+[23:50:18] [Server thread/INFO]: [SCore] Loaded library /workspaces/GH/servidor_minecraft/libraries/io/netty/netty-common/4.1.118.Final/netty-common-4.1.118.Final.jar
+[23:50:18] [Server thread/INFO]: [SCore] Loaded library /workspaces/GH/servidor_minecraft/libraries/io/netty/netty-handler/4.1.118.Final/netty-handler-4.1.118.Final.jar
+[23:50:18] [Server thread/INFO]: [SCore] Loaded library /workspaces/GH/servidor_minecraft/libraries/io/netty/netty-transport-native-unix-common/4.1.118.Final/netty-transport-native-unix-common-4.1.118.Final.jar
+[23:50:18] [Server thread/INFO]: [SCore] Loaded library /workspaces/GH/servidor_minecraft/libraries/io/netty/netty-handler-proxy/4.1.118.Final/netty-handler-proxy-4.1.118.Final.jar
+[23:50:18] [Server thread/INFO]: [SCore] Loaded library /workspaces/GH/servidor_minecraft/libraries/io/netty/netty-handler-ssl-ocsp/4.1.118.Final/netty-handler-ssl-ocsp-4.1.118.Final.jar
+[23:50:18] [Server thread/INFO]: [SCore] Loaded library /workspaces/GH/servidor_minecraft/libraries/io/netty/netty-resolver/4.1.118.Final/netty-resolver-4.1.118.Final.jar
+[23:50:18] [Server thread/INFO]: [SCore] Loaded library /workspaces/GH/servidor_minecraft/libraries/io/netty/netty-resolver-dns/4.1.118.Final/netty-resolver-dns-4.1.118.Final.jar
+[23:50:18] [Server thread/INFO]: [SCore] Loaded library /workspaces/GH/servidor_minecraft/libraries/io/netty/netty-transport/4.1.118.Final/netty-transport-4.1.118.Final.jar
+[23:50:18] [Server thread/INFO]: [SCore] Loaded library /workspaces/GH/servidor_minecraft/libraries/io/netty/netty-transport-rxtx/4.1.118.Final/netty-transport-rxtx-4.1.118.Final.jar
+[23:50:18] [Server thread/INFO]: [SCore] Loaded library /workspaces/GH/servidor_minecraft/libraries/io/netty/netty-transport-sctp/4.1.118.Final/netty-transport-sctp-4.1.118.Final.jar
+[23:50:18] [Server thread/INFO]: [SCore] Loaded library /workspaces/GH/servidor_minecraft/libraries/io/netty/netty-transport-udt/4.1.118.Final/netty-transport-udt-4.1.118.Final.jar
+[23:50:18] [Server thread/INFO]: [SCore] Loaded library /workspaces/GH/servidor_minecraft/libraries/io/netty/netty-transport-classes-epoll/4.1.118.Final/netty-transport-classes-epoll-4.1.118.Final.jar
+[23:50:18] [Server thread/INFO]: [SCore] Loaded library /workspaces/GH/servidor_minecraft/libraries/io/netty/netty-transport-classes-kqueue/4.1.118.Final/netty-transport-classes-kqueue-4.1.118.Final.jar
+[23:50:18] [Server thread/INFO]: [SCore] Loaded library /workspaces/GH/servidor_minecraft/libraries/io/netty/netty-resolver-dns-classes-macos/4.1.118.Final/netty-resolver-dns-classes-macos-4.1.118.Final.jar
+[23:50:18] [Server thread/INFO]: [SCore] Loaded library /workspaces/GH/servidor_minecraft/libraries/io/netty/netty-transport-native-epoll/4.1.118.Final/netty-transport-native-epoll-4.1.118.Final-linux-x86_64.jar
+[23:50:18] [Server thread/INFO]: [SCore] Loaded library /workspaces/GH/servidor_minecraft/libraries/io/netty/netty-transport-native-epoll/4.1.118.Final/netty-transport-native-epoll-4.1.118.Final-linux-aarch_64.jar
+[23:50:18] [Server thread/INFO]: [SCore] Loaded library /workspaces/GH/servidor_minecraft/libraries/io/netty/netty-transport-native-epoll/4.1.118.Final/netty-transport-native-epoll-4.1.118.Final-linux-riscv64.jar
+[23:50:18] [Server thread/INFO]: [SCore] Loaded library /workspaces/GH/servidor_minecraft/libraries/io/netty/netty-transport-native-kqueue/4.1.118.Final/netty-transport-native-kqueue-4.1.118.Final-osx-x86_64.jar
+[23:50:18] [Server thread/INFO]: [SCore] Loaded library /workspaces/GH/servidor_minecraft/libraries/io/netty/netty-transport-native-kqueue/4.1.118.Final/netty-transport-native-kqueue-4.1.118.Final-osx-aarch_64.jar
+[23:50:18] [Server thread/INFO]: [SCore] Loaded library /workspaces/GH/servidor_minecraft/libraries/io/netty/netty-resolver-dns-native-macos/4.1.118.Final/netty-resolver-dns-native-macos-4.1.118.Final-osx-x86_64.jar
+[23:50:18] [Server thread/INFO]: [SCore] Loaded library /workspaces/GH/servidor_minecraft/libraries/io/netty/netty-resolver-dns-native-macos/4.1.118.Final/netty-resolver-dns-native-macos-4.1.118.Final-osx-aarch_64.jar
+[23:50:18] [Server thread/INFO]: [SCore] Loading SCore v5.25.2.25
+[23:50:18] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v7.2.16+6534-2066eb4
+[23:50:18] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@513d5df3]
+[23:50:18] [Server thread/INFO]: [ExecutableItems] Loading ExecutableItems v7.25.2.25
+[23:50:18] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[23:50:18] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.2.16+6534-2066eb4
+[23:50:18] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[23:50:18] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[23:50:18] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.v1_19_R1.PaperweightAdapter as the Bukkit adapter
+[23:50:20] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[23:50:20] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[23:50:20] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[23:50:20] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[23:50:20] [Server thread/INFO]: Preparing level "world"
+[23:50:20] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[23:50:20] [Server thread/INFO]: Time elapsed: 114 ms
+[23:50:20] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[23:50:21] [Server thread/INFO]: Time elapsed: 84 ms
+[23:50:21] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[23:50:21] [Server thread/INFO]: Time elapsed: 56 ms
+[23:50:21] [Server thread/INFO]: [SCore] Enabling SCore v5.25.2.25
+[23:50:21] [Server thread/INFO]: ================ SCore ================
+[23:50:21] [Server thread/INFO]: SCore is running on Paper or fork
+[23:50:21] [Server thread/INFO]: SCore Version of the server git-Paper-307 (MC: 1.19.2) !
+[23:50:21] [Server thread/INFO]: SCore ExecutableItems hooked !  (7.25.2.25) Load After
+[23:50:21] [Server thread/INFO]: SCore WorldEdit hooked !  (7.2.16+6534-2066eb4)  Load Before
+[23:50:21] [Server thread/INFO]: SCore Locale setup: EN
+[23:50:21] [Server thread/INFO]: SCore Language of the editor setup on EN
+[23:50:21] [Server thread/INFO]: SCore Language for in-game messages setup on EN
+[23:50:21] [Server thread/INFO]: SCore will connect to the database hosted: In Local
+[23:50:21] [Server thread/INFO]: SCore Connection to the db...
+[23:50:21] [Server thread/INFO]: SCore will connect to the database hosted: In Local
+[23:50:21] [Server thread/INFO]: SCore Creating table SecurityOP if not exists...
+[23:50:21] [Server thread/INFO]: SCore Creating table Commands if not exists...
+[23:50:21] [Server thread/INFO]: SCore Creating table Cooldowns if not exists...
+[23:50:21] [Server thread/INFO]: SCore Creating table Commands Player if not exists...
+[23:50:21] [Server thread/INFO]: SCore Creating table Commands Entity if not exists...
+[23:50:21] [Server thread/INFO]: SCore Creating table Commands Block if not exists...
+[23:50:21] [Server thread/INFO]: SCore Creating table UsePerDay if not exists...
+[23:50:22] [Server thread/INFO]: SCore SCore loaded 1 variables from local files !
+[23:50:22] [Server thread/INFO]: SCore SCore loaded 0 delayed commands saved
+[23:50:22] [Server thread/INFO]: ================ SCore ================
+[23:50:22] [Server thread/INFO]: [ExecutableItems] Enabling ExecutableItems v7.25.2.25
+[23:50:22] [Server thread/INFO]: ================ ExecutableItems ================
+[23:50:26] [Server thread/INFO]: ExecutableItems Amount of Executable Items configurations loaded: 22
+[23:50:26] [Server thread/INFO]: ExecutableItems Items with display conditions :  
+[23:50:26] [Server thread/INFO]: ================ ExecutableItems ================
+[23:50:26] [Server thread/INFO]: Running delayed init tasks
+[23:50:26] [Server thread/INFO]: Done (9.570s)! For help, type "help"
+[23:50:26] [Server thread/INFO]: Timings Reset
+[23:51:30] [User Authenticator #0/INFO]: UUID of player offgamer233 is eb96e115-2377-3371-b8a2-b0f23e8ad1a6
+[23:51:31] [Server thread/INFO]: AFICIONADO offgamer233 joined the game
+[23:51:31] [Server thread/INFO]: offgamer233[/127.230.53.48:48623] logged in with entity id 52 at ([world]93.02708246288033, 6.0, 81.14187173774967)
+[23:51:40] [Server thread/INFO]: offgamer233 lost connection: Disconnected
+[23:51:40] [Server thread/INFO]: offgamer233 left the game
+[23:52:21] [User Authenticator #0/INFO]: UUID of player offgamer233 is eb96e115-2377-3371-b8a2-b0f23e8ad1a6
+[23:52:21] [Server thread/INFO]: AFICIONADO offgamer233 joined the game
+[23:52:21] [Server thread/INFO]: offgamer233[/127.230.53.48:44871] logged in with entity id 56 at ([world]86.90579068879549, 6.0, 90.11695132865835)
+[23:53:17] [Server thread/INFO]: Unknown command. Type "/help" for help.
+[23:53:19] [Server thread/INFO]: CONSOLE: Are you sure you wish to reload your server? Doing so may cause bugs and memory leaks. It is recommended to restart instead of using /reload. To confirm, please type /reload confirm
+[23:53:23] [Server thread/INFO]: CONSOLE: Please note that this command is not supported and may cause issues when using some plugins.
+[23:53:23] [Server thread/INFO]: CONSOLE: If you encounter any issues please use the /stop command to restart your server.
+[23:53:23] [Server thread/WARN]: You specified a resource pack without providing a sha1 hash. Pack will be updated on the client only if you change the name of the pack.
+[23:53:23] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[23:53:23] [Server thread/INFO]: Using 4 threads for Netty based IO
+[23:53:23] [Server thread/INFO]: [ExecutableItems] Disabling ExecutableItems v7.25.2.25
+[23:53:23] [Server thread/INFO]: [SCore] Disabling SCore v5.25.2.25
+[23:53:23] [Server thread/INFO]: SCore Save UsagePerDay....
+[23:53:23] [Server thread/INFO]: SCore Save UsagePerDay done !
+[23:53:23] [Server thread/INFO]: SCore Save Commands...
+[23:53:23] [Server thread/INFO]: SCore Save Commands done !
+[23:53:23] [Server thread/INFO]: SCore Save Cooldowns...
+[23:53:23] [Server thread/INFO]: SCore 0 cooldowns saved
+[23:53:23] [Server thread/INFO]: SCore Save Cooldowns done !
+[23:53:23] [Server thread/INFO]: SCore Run delayed saving tasks...
+[23:53:23] [Server thread/INFO]: SCore Run delayed saving tasks done !
+[23:53:23] [Server thread/INFO]: SCore Clear scheduled tasks...
+[23:53:23] [Server thread/INFO]: SCore Clear scheduled tasks done !
+[23:53:23] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v7.2.16+6534-2066eb4
+[23:53:23] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
+[23:53:23] [Server thread/INFO]: Loaded 7 recipes
+[23:53:24] [Server thread/INFO]: [SCore] Loading 1 libraries... please wait
+[23:53:24] [Server thread/INFO]: [SCore] Loaded library /workspaces/GH/servidor_minecraft/libraries/io/netty/netty-all/4.1.118.Final/netty-all-4.1.118.Final.jar
+[23:53:24] [Server thread/INFO]: [SCore] Loaded library /workspaces/GH/servidor_minecraft/libraries/io/netty/netty-buffer/4.1.118.Final/netty-buffer-4.1.118.Final.jar
+[23:53:24] [Server thread/INFO]: [SCore] Loaded library /workspaces/GH/servidor_minecraft/libraries/io/netty/netty-codec/4.1.118.Final/netty-codec-4.1.118.Final.jar
+[23:53:24] [Server thread/INFO]: [SCore] Loaded library /workspaces/GH/servidor_minecraft/libraries/io/netty/netty-codec-dns/4.1.118.Final/netty-codec-dns-4.1.118.Final.jar
+[23:53:24] [Server thread/INFO]: [SCore] Loaded library /workspaces/GH/servidor_minecraft/libraries/io/netty/netty-codec-haproxy/4.1.118.Final/netty-codec-haproxy-4.1.118.Final.jar
+[23:53:24] [Server thread/INFO]: [SCore] Loaded library /workspaces/GH/servidor_minecraft/libraries/io/netty/netty-codec-http/4.1.118.Final/netty-codec-http-4.1.118.Final.jar
+[23:53:24] [Server thread/INFO]: [SCore] Loaded library /workspaces/GH/servidor_minecraft/libraries/io/netty/netty-codec-http2/4.1.118.Final/netty-codec-http2-4.1.118.Final.jar
+[23:53:24] [Server thread/INFO]: [SCore] Loaded library /workspaces/GH/servidor_minecraft/libraries/io/netty/netty-codec-memcache/4.1.118.Final/netty-codec-memcache-4.1.118.Final.jar
+[23:53:24] [Server thread/INFO]: [SCore] Loaded library /workspaces/GH/servidor_minecraft/libraries/io/netty/netty-codec-mqtt/4.1.118.Final/netty-codec-mqtt-4.1.118.Final.jar
+[23:53:24] [Server thread/INFO]: [SCore] Loaded library /workspaces/GH/servidor_minecraft/libraries/io/netty/netty-codec-redis/4.1.118.Final/netty-codec-redis-4.1.118.Final.jar
+[23:53:24] [Server thread/INFO]: [SCore] Loaded library /workspaces/GH/servidor_minecraft/libraries/io/netty/netty-codec-smtp/4.1.118.Final/netty-codec-smtp-4.1.118.Final.jar
+[23:53:24] [Server thread/INFO]: [SCore] Loaded library /workspaces/GH/servidor_minecraft/libraries/io/netty/netty-codec-socks/4.1.118.Final/netty-codec-socks-4.1.118.Final.jar
+[23:53:24] [Server thread/INFO]: [SCore] Loaded library /workspaces/GH/servidor_minecraft/libraries/io/netty/netty-codec-stomp/4.1.118.Final/netty-codec-stomp-4.1.118.Final.jar
+[23:53:24] [Server thread/INFO]: [SCore] Loaded library /workspaces/GH/servidor_minecraft/libraries/io/netty/netty-codec-xml/4.1.118.Final/netty-codec-xml-4.1.118.Final.jar
+[23:53:24] [Server thread/INFO]: [SCore] Loaded library /workspaces/GH/servidor_minecraft/libraries/io/netty/netty-common/4.1.118.Final/netty-common-4.1.118.Final.jar
+[23:53:24] [Server thread/INFO]: [SCore] Loaded library /workspaces/GH/servidor_minecraft/libraries/io/netty/netty-handler/4.1.118.Final/netty-handler-4.1.118.Final.jar
+[23:53:24] [Server thread/INFO]: [SCore] Loaded library /workspaces/GH/servidor_minecraft/libraries/io/netty/netty-transport-native-unix-common/4.1.118.Final/netty-transport-native-unix-common-4.1.118.Final.jar
+[23:53:24] [Server thread/INFO]: [SCore] Loaded library /workspaces/GH/servidor_minecraft/libraries/io/netty/netty-handler-proxy/4.1.118.Final/netty-handler-proxy-4.1.118.Final.jar
+[23:53:24] [Server thread/INFO]: [SCore] Loaded library /workspaces/GH/servidor_minecraft/libraries/io/netty/netty-handler-ssl-ocsp/4.1.118.Final/netty-handler-ssl-ocsp-4.1.118.Final.jar
+[23:53:24] [Server thread/INFO]: [SCore] Loaded library /workspaces/GH/servidor_minecraft/libraries/io/netty/netty-resolver/4.1.118.Final/netty-resolver-4.1.118.Final.jar
+[23:53:24] [Server thread/INFO]: [SCore] Loaded library /workspaces/GH/servidor_minecraft/libraries/io/netty/netty-resolver-dns/4.1.118.Final/netty-resolver-dns-4.1.118.Final.jar
+[23:53:24] [Server thread/INFO]: [SCore] Loaded library /workspaces/GH/servidor_minecraft/libraries/io/netty/netty-transport/4.1.118.Final/netty-transport-4.1.118.Final.jar
+[23:53:24] [Server thread/INFO]: [SCore] Loaded library /workspaces/GH/servidor_minecraft/libraries/io/netty/netty-transport-rxtx/4.1.118.Final/netty-transport-rxtx-4.1.118.Final.jar
+[23:53:24] [Server thread/INFO]: [SCore] Loaded library /workspaces/GH/servidor_minecraft/libraries/io/netty/netty-transport-sctp/4.1.118.Final/netty-transport-sctp-4.1.118.Final.jar
+[23:53:24] [Server thread/INFO]: [SCore] Loaded library /workspaces/GH/servidor_minecraft/libraries/io/netty/netty-transport-udt/4.1.118.Final/netty-transport-udt-4.1.118.Final.jar
+[23:53:24] [Server thread/INFO]: [SCore] Loaded library /workspaces/GH/servidor_minecraft/libraries/io/netty/netty-transport-classes-epoll/4.1.118.Final/netty-transport-classes-epoll-4.1.118.Final.jar
+[23:53:24] [Server thread/INFO]: [SCore] Loaded library /workspaces/GH/servidor_minecraft/libraries/io/netty/netty-transport-classes-kqueue/4.1.118.Final/netty-transport-classes-kqueue-4.1.118.Final.jar
+[23:53:24] [Server thread/INFO]: [SCore] Loaded library /workspaces/GH/servidor_minecraft/libraries/io/netty/netty-resolver-dns-classes-macos/4.1.118.Final/netty-resolver-dns-classes-macos-4.1.118.Final.jar
+[23:53:24] [Server thread/INFO]: [SCore] Loaded library /workspaces/GH/servidor_minecraft/libraries/io/netty/netty-transport-native-epoll/4.1.118.Final/netty-transport-native-epoll-4.1.118.Final-linux-x86_64.jar
+[23:53:24] [Server thread/INFO]: [SCore] Loaded library /workspaces/GH/servidor_minecraft/libraries/io/netty/netty-transport-native-epoll/4.1.118.Final/netty-transport-native-epoll-4.1.118.Final-linux-aarch_64.jar
+[23:53:24] [Server thread/INFO]: [SCore] Loaded library /workspaces/GH/servidor_minecraft/libraries/io/netty/netty-transport-native-epoll/4.1.118.Final/netty-transport-native-epoll-4.1.118.Final-linux-riscv64.jar
+[23:53:24] [Server thread/INFO]: [SCore] Loaded library /workspaces/GH/servidor_minecraft/libraries/io/netty/netty-transport-native-kqueue/4.1.118.Final/netty-transport-native-kqueue-4.1.118.Final-osx-x86_64.jar
+[23:53:24] [Server thread/INFO]: [SCore] Loaded library /workspaces/GH/servidor_minecraft/libraries/io/netty/netty-transport-native-kqueue/4.1.118.Final/netty-transport-native-kqueue-4.1.118.Final-osx-aarch_64.jar
+[23:53:24] [Server thread/INFO]: [SCore] Loaded library /workspaces/GH/servidor_minecraft/libraries/io/netty/netty-resolver-dns-native-macos/4.1.118.Final/netty-resolver-dns-native-macos-4.1.118.Final-osx-x86_64.jar
+[23:53:24] [Server thread/INFO]: [SCore] Loaded library /workspaces/GH/servidor_minecraft/libraries/io/netty/netty-resolver-dns-native-macos/4.1.118.Final/netty-resolver-dns-native-macos-4.1.118.Final-osx-aarch_64.jar
+[23:53:24] [Server thread/INFO]: [SCore] Loading SCore v5.25.2.25
+[23:53:24] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v7.2.16+6534-2066eb4
+[23:53:24] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@4885d9fe]
+[23:53:24] [Server thread/INFO]: [ExecutableItems] Loading ExecutableItems v7.25.2.25
+[23:53:24] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[23:53:24] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.2.16+6534-2066eb4
+[23:53:24] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[23:53:24] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[23:53:24] [Server thread/WARN]: [WorldEdit] Server reload detected. This may cause various issues with WorldEdit and dependent plugins.
+[23:53:25] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.v1_19_R1.PaperweightAdapter as the Bukkit adapter
+[23:53:25] [Server thread/INFO]: [SCore] Enabling SCore v5.25.2.25
+[23:53:25] [Server thread/INFO]: ================ SCore ================
+[23:53:25] [Server thread/INFO]: SCore is running on Paper or fork
+[23:53:25] [Server thread/INFO]: SCore Version of the server git-Paper-307 (MC: 1.19.2) !
+[23:53:25] [Server thread/INFO]: SCore ExecutableItems hooked !  (7.25.2.25) Load After
+[23:53:25] [Server thread/INFO]: SCore WorldEdit hooked !  (7.2.16+6534-2066eb4)  Load Before
+[23:53:25] [Server thread/INFO]: SCore Locale setup: EN
+[23:53:25] [Server thread/INFO]: SCore Language of the editor setup on EN
+[23:53:25] [Server thread/INFO]: SCore Language for in-game messages setup on EN
+[23:53:25] [Server thread/INFO]: SCore will connect to the database hosted: In Local
+[23:53:25] [Server thread/INFO]: SCore Connection to the db...
+[23:53:25] [Server thread/INFO]: SCore will connect to the database hosted: In Local
+[23:53:25] [Server thread/INFO]: SCore Creating table SecurityOP if not exists...
+[23:53:25] [Server thread/INFO]: SCore Creating table Commands if not exists...
+[23:53:25] [Server thread/INFO]: SCore Creating table Cooldowns if not exists...
+[23:53:25] [Server thread/INFO]: SCore Creating table Commands Player if not exists...
+[23:53:25] [Server thread/INFO]: SCore Creating table Commands Entity if not exists...
+[23:53:25] [Server thread/INFO]: SCore Creating table Commands Block if not exists...
+[23:53:25] [Server thread/INFO]: SCore Creating table UsePerDay if not exists...
+[23:53:25] [Server thread/INFO]: SCore SCore loaded 1 variables from local files !
+[23:53:25] [Server thread/INFO]: SCore SCore loaded 0 delayed commands saved
+[23:53:25] [Server thread/INFO]: ================ SCore ================
+[23:53:25] [Server thread/INFO]: [ExecutableItems] Enabling ExecutableItems v7.25.2.25
+[23:53:25] [Server thread/INFO]: ================ ExecutableItems ================
+[23:53:27] [Server thread/INFO]: ExecutableItems Amount of Executable Items configurations loaded: 22
+[23:53:27] [Server thread/INFO]: ExecutableItems Items with display conditions :  
+[23:53:27] [Server thread/INFO]: ================ ExecutableItems ================
+[23:53:27] [Server thread/INFO]: CONSOLE: Reload complete.
+[23:53:27] [Server thread/INFO]: Timings Reset
+[23:53:31] [Server thread/ERROR]: No TreeType mapping for TreeGenerator.TreeType.CHERRY
+[23:53:33] [Server thread/INFO]: offgamer233 lost connection: Disconnected
+[23:53:33] [Server thread/INFO]: offgamer233 left the game
+[23:53:35] [User Authenticator #1/INFO]: UUID of player offgamer233 is eb96e115-2377-3371-b8a2-b0f23e8ad1a6
+[23:53:35] [Server thread/INFO]: AFICIONADO offgamer233 joined the game
+[23:53:35] [Server thread/INFO]: offgamer233[/127.230.53.48:42405] logged in with entity id 57 at ([world]88.9045587869619, 6.0, 98.54094728680516)
+[23:53:42] [Server thread/INFO]: offgamer233 issued server command: /stop
+[23:53:42] [Server thread/INFO]: [AFICIONADO offgamer233: Stopping the server]
+[23:53:42] [Server thread/INFO]: Stopping server
+[23:53:42] [Server thread/INFO]: [ExecutableItems] Disabling ExecutableItems v7.25.2.25
+[23:53:42] [Server thread/INFO]: [SCore] Disabling SCore v5.25.2.25
+[23:53:42] [Server thread/INFO]: SCore Save UsagePerDay....
+[23:53:42] [Server thread/INFO]: SCore Save UsagePerDay done !
+[23:53:42] [Server thread/INFO]: SCore Save Commands...
+[23:53:42] [Server thread/INFO]: SCore Save Commands done !
+[23:53:42] [Server thread/INFO]: SCore Save Cooldowns...
+[23:53:42] [Server thread/INFO]: SCore 0 cooldowns saved
+[23:53:42] [Server thread/INFO]: SCore Save Cooldowns done !
+[23:53:42] [Server thread/INFO]: SCore Run delayed saving tasks...
+[23:53:42] [Server thread/INFO]: SCore Run delayed saving tasks done !
+[23:53:42] [Server thread/INFO]: SCore Clear scheduled tasks...
+[23:53:42] [Server thread/INFO]: SCore Clear scheduled tasks done !
+[23:53:42] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v7.2.16+6534-2066eb4
+[23:53:42] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
+[23:53:42] [Server thread/INFO]: Saving players
+[23:53:42] [Server thread/INFO]: offgamer233 lost connection: Server closed
+[23:53:42] [Server thread/INFO]: offgamer233 left the game
+[23:53:42] [Server thread/INFO]: Saving worlds
+[23:53:42] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[23:53:42] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[23:53:42] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[23:53:42] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[23:53:43] [Server thread/INFO]: [ChunkHolderManager] Saved 650 block chunks, 650 entity chunks, 0 poi chunks in world 'world' in 0.60s
+[23:53:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23:53:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[23:53:43] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[23:53:43] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[23:53:43] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[23:53:43] [Server thread/INFO]: [ChunkHolderManager] Saved 529 block chunks, 529 entity chunks, 0 poi chunks in world 'world_nether' in 0.57s
+[23:53:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23:53:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[23:53:43] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[23:53:43] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[23:53:43] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[23:53:44] [Server thread/INFO]: [ChunkHolderManager] Saved 529 block chunks, 529 entity chunks, 0 poi chunks in world 'world_the_end' in 0.20s
+[23:53:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23:53:44] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[23:53:44] [Server thread/INFO]: Flushing Chunk IO
+[23:53:44] [Server thread/INFO]: Closing Thread Pool
+[23:53:44] [Server thread/INFO]: Closing Server
