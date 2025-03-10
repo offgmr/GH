@@ -85,6 +85,11 @@ activators:
     - -1
     commands:
     - SET_BLOCK_POS 125 -15 94 redstone_block false
+    - fill 148 -22 80 142 -22 80 air
+    - SET_BLOCK_POS 127 -19 92 air false
+    - tp @a 86 6 97
+    - gamemode adventure @a
+    - team leave @a
     playerConditions: {}
     worldConditions: {}
     itemConditions: {}
