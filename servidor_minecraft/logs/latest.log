@@ -150,3 +150,424 @@
 [18:15:29] [User Authenticator #1/INFO]: UUID of player offgamer233 is eb96e115-2377-3371-b8a2-b0f23e8ad1a6
 [18:15:30] [Server thread/INFO]: AFICIONADO offgamer233 joined the game
 [18:15:30] [Server thread/INFO]: offgamer233[/127.230.53.48:37635] logged in with entity id 60 at ([world]136.36098019155133, -21.0, 87.62068614885477)
+[18:29:25] [Server thread/INFO]: offgamer233 issued server command: /reload
+[18:29:25] [Server thread/INFO]: offgamer233: Are you sure you wish to reload your server? Doing so may cause bugs and memory leaks. It is recommended to restart instead of using /reload. To confirm, please type /reload confirm
+[18:29:28] [Server thread/INFO]: offgamer233 issued server command: /reload confirm
+[18:29:28] [Server thread/INFO]: offgamer233: Please note that this command is not supported and may cause issues when using some plugins.
+[18:29:28] [Server thread/INFO]: offgamer233: If you encounter any issues please use the /stop command to restart your server.
+[18:29:28] [Server thread/WARN]: You specified a resource pack without providing a sha1 hash. Pack will be updated on the client only if you change the name of the pack.
+[18:29:28] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[18:29:28] [Server thread/INFO]: Using 4 threads for Netty based IO
+[18:29:29] [Server thread/INFO]: [Geyser-Spigot] Disabling Geyser-Spigot v2.6.1-SNAPSHOT
+[18:29:29] [Server thread/INFO]: [Geyser-Spigot] Shutting down Geyser.
+[18:29:29] [Server thread/INFO]: [Geyser-Spigot] Geyser shutdown successfully.
+[18:29:29] [Server thread/INFO]: [ViaRewind] Disabling ViaRewind v4.0.5
+[18:29:29] [Server thread/INFO]: [ViaBackwards] Disabling ViaBackwards v5.2.1
+[18:29:29] [Server thread/INFO]: [floodgate] Disabling floodgate v2.2.4-SNAPSHOT (b116-0e3163c)
+[18:29:29] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v5.2.1
+[18:29:29] [Server thread/INFO]: [ViaVersion] ViaVersion is disabling. If this is a reload and you experience issues, please reboot instead.
+[18:29:29] [Server thread/INFO]: [ViaVersion] ViaVersion has been disabled; uninjected the platform and shut down the scheduler.
+[18:29:29] [Server thread/INFO]: [ExecutableItems] Disabling ExecutableItems v7.25.2.25
+[18:29:29] [Server thread/INFO]: [SCore] Disabling SCore v5.25.2.25
+[18:29:29] [Server thread/INFO]: SCore Save UsagePerDay....
+[18:29:29] [Server thread/INFO]: SCore Save UsagePerDay done !
+[18:29:29] [Server thread/INFO]: SCore Save Commands...
+[18:29:29] [Server thread/INFO]: SCore Save Commands done !
+[18:29:29] [Server thread/INFO]: SCore Save Cooldowns...
+[18:29:29] [Server thread/INFO]: SCore 0 cooldowns saved
+[18:29:29] [Server thread/INFO]: SCore Save Cooldowns done !
+[18:29:29] [Server thread/INFO]: SCore Run delayed saving tasks...
+[18:29:29] [Server thread/INFO]: SCore Run delayed saving tasks done !
+[18:29:29] [Server thread/INFO]: SCore Clear scheduled tasks...
+[18:29:29] [Server thread/INFO]: SCore Clear scheduled tasks done !
+[18:29:29] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v7.2.16+6534-2066eb4
+[18:29:29] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
+[18:29:29] [WebSocketConnectReadThread-71/INFO]: [Geyser-Spigot] The skin uploader has been closed
+[18:29:29] [Server thread/INFO]: Loaded 7 recipes
+[18:29:30] [Server thread/INFO]: [SCore] Loading 1 libraries... please wait
+[18:29:30] [Server thread/INFO]: [SCore] Loaded library /workspaces/GH/servidor_minecraft/libraries/io/netty/netty-all/4.1.118.Final/netty-all-4.1.118.Final.jar
+[18:29:30] [Server thread/INFO]: [SCore] Loaded library /workspaces/GH/servidor_minecraft/libraries/io/netty/netty-buffer/4.1.118.Final/netty-buffer-4.1.118.Final.jar
+[18:29:30] [Server thread/INFO]: [SCore] Loaded library /workspaces/GH/servidor_minecraft/libraries/io/netty/netty-codec/4.1.118.Final/netty-codec-4.1.118.Final.jar
+[18:29:30] [Server thread/INFO]: [SCore] Loaded library /workspaces/GH/servidor_minecraft/libraries/io/netty/netty-codec-dns/4.1.118.Final/netty-codec-dns-4.1.118.Final.jar
+[18:29:30] [Server thread/INFO]: [SCore] Loaded library /workspaces/GH/servidor_minecraft/libraries/io/netty/netty-codec-haproxy/4.1.118.Final/netty-codec-haproxy-4.1.118.Final.jar
+[18:29:30] [Server thread/INFO]: [SCore] Loaded library /workspaces/GH/servidor_minecraft/libraries/io/netty/netty-codec-http/4.1.118.Final/netty-codec-http-4.1.118.Final.jar
+[18:29:30] [Server thread/INFO]: [SCore] Loaded library /workspaces/GH/servidor_minecraft/libraries/io/netty/netty-codec-http2/4.1.118.Final/netty-codec-http2-4.1.118.Final.jar
+[18:29:30] [Server thread/INFO]: [SCore] Loaded library /workspaces/GH/servidor_minecraft/libraries/io/netty/netty-codec-memcache/4.1.118.Final/netty-codec-memcache-4.1.118.Final.jar
+[18:29:30] [Server thread/INFO]: [SCore] Loaded library /workspaces/GH/servidor_minecraft/libraries/io/netty/netty-codec-mqtt/4.1.118.Final/netty-codec-mqtt-4.1.118.Final.jar
+[18:29:30] [Server thread/INFO]: [SCore] Loaded library /workspaces/GH/servidor_minecraft/libraries/io/netty/netty-codec-redis/4.1.118.Final/netty-codec-redis-4.1.118.Final.jar
+[18:29:30] [Server thread/INFO]: [SCore] Loaded library /workspaces/GH/servidor_minecraft/libraries/io/netty/netty-codec-smtp/4.1.118.Final/netty-codec-smtp-4.1.118.Final.jar
+[18:29:30] [Server thread/INFO]: [SCore] Loaded library /workspaces/GH/servidor_minecraft/libraries/io/netty/netty-codec-socks/4.1.118.Final/netty-codec-socks-4.1.118.Final.jar
+[18:29:30] [Server thread/INFO]: [SCore] Loaded library /workspaces/GH/servidor_minecraft/libraries/io/netty/netty-codec-stomp/4.1.118.Final/netty-codec-stomp-4.1.118.Final.jar
+[18:29:30] [Server thread/INFO]: [SCore] Loaded library /workspaces/GH/servidor_minecraft/libraries/io/netty/netty-codec-xml/4.1.118.Final/netty-codec-xml-4.1.118.Final.jar
+[18:29:30] [Server thread/INFO]: [SCore] Loaded library /workspaces/GH/servidor_minecraft/libraries/io/netty/netty-common/4.1.118.Final/netty-common-4.1.118.Final.jar
+[18:29:30] [Server thread/INFO]: [SCore] Loaded library /workspaces/GH/servidor_minecraft/libraries/io/netty/netty-handler/4.1.118.Final/netty-handler-4.1.118.Final.jar
+[18:29:30] [Server thread/INFO]: [SCore] Loaded library /workspaces/GH/servidor_minecraft/libraries/io/netty/netty-transport-native-unix-common/4.1.118.Final/netty-transport-native-unix-common-4.1.118.Final.jar
+[18:29:30] [Server thread/INFO]: [SCore] Loaded library /workspaces/GH/servidor_minecraft/libraries/io/netty/netty-handler-proxy/4.1.118.Final/netty-handler-proxy-4.1.118.Final.jar
+[18:29:30] [Server thread/INFO]: [SCore] Loaded library /workspaces/GH/servidor_minecraft/libraries/io/netty/netty-handler-ssl-ocsp/4.1.118.Final/netty-handler-ssl-ocsp-4.1.118.Final.jar
+[18:29:30] [Server thread/INFO]: [SCore] Loaded library /workspaces/GH/servidor_minecraft/libraries/io/netty/netty-resolver/4.1.118.Final/netty-resolver-4.1.118.Final.jar
+[18:29:30] [Server thread/INFO]: [SCore] Loaded library /workspaces/GH/servidor_minecraft/libraries/io/netty/netty-resolver-dns/4.1.118.Final/netty-resolver-dns-4.1.118.Final.jar
+[18:29:30] [Server thread/INFO]: [SCore] Loaded library /workspaces/GH/servidor_minecraft/libraries/io/netty/netty-transport/4.1.118.Final/netty-transport-4.1.118.Final.jar
+[18:29:30] [Server thread/INFO]: [SCore] Loaded library /workspaces/GH/servidor_minecraft/libraries/io/netty/netty-transport-rxtx/4.1.118.Final/netty-transport-rxtx-4.1.118.Final.jar
+[18:29:30] [Server thread/INFO]: [SCore] Loaded library /workspaces/GH/servidor_minecraft/libraries/io/netty/netty-transport-sctp/4.1.118.Final/netty-transport-sctp-4.1.118.Final.jar
+[18:29:30] [Server thread/INFO]: [SCore] Loaded library /workspaces/GH/servidor_minecraft/libraries/io/netty/netty-transport-udt/4.1.118.Final/netty-transport-udt-4.1.118.Final.jar
+[18:29:30] [Server thread/INFO]: [SCore] Loaded library /workspaces/GH/servidor_minecraft/libraries/io/netty/netty-transport-classes-epoll/4.1.118.Final/netty-transport-classes-epoll-4.1.118.Final.jar
+[18:29:30] [Server thread/INFO]: [SCore] Loaded library /workspaces/GH/servidor_minecraft/libraries/io/netty/netty-transport-classes-kqueue/4.1.118.Final/netty-transport-classes-kqueue-4.1.118.Final.jar
+[18:29:30] [Server thread/INFO]: [SCore] Loaded library /workspaces/GH/servidor_minecraft/libraries/io/netty/netty-resolver-dns-classes-macos/4.1.118.Final/netty-resolver-dns-classes-macos-4.1.118.Final.jar
+[18:29:30] [Server thread/INFO]: [SCore] Loaded library /workspaces/GH/servidor_minecraft/libraries/io/netty/netty-transport-native-epoll/4.1.118.Final/netty-transport-native-epoll-4.1.118.Final-linux-x86_64.jar
+[18:29:30] [Server thread/INFO]: [SCore] Loaded library /workspaces/GH/servidor_minecraft/libraries/io/netty/netty-transport-native-epoll/4.1.118.Final/netty-transport-native-epoll-4.1.118.Final-linux-aarch_64.jar
+[18:29:30] [Server thread/INFO]: [SCore] Loaded library /workspaces/GH/servidor_minecraft/libraries/io/netty/netty-transport-native-epoll/4.1.118.Final/netty-transport-native-epoll-4.1.118.Final-linux-riscv64.jar
+[18:29:30] [Server thread/INFO]: [SCore] Loaded library /workspaces/GH/servidor_minecraft/libraries/io/netty/netty-transport-native-kqueue/4.1.118.Final/netty-transport-native-kqueue-4.1.118.Final-osx-x86_64.jar
+[18:29:30] [Server thread/INFO]: [SCore] Loaded library /workspaces/GH/servidor_minecraft/libraries/io/netty/netty-transport-native-kqueue/4.1.118.Final/netty-transport-native-kqueue-4.1.118.Final-osx-aarch_64.jar
+[18:29:30] [Server thread/INFO]: [SCore] Loaded library /workspaces/GH/servidor_minecraft/libraries/io/netty/netty-resolver-dns-native-macos/4.1.118.Final/netty-resolver-dns-native-macos-4.1.118.Final-osx-x86_64.jar
+[18:29:30] [Server thread/INFO]: [SCore] Loaded library /workspaces/GH/servidor_minecraft/libraries/io/netty/netty-resolver-dns-native-macos/4.1.118.Final/netty-resolver-dns-native-macos-4.1.118.Final-osx-aarch_64.jar
+[18:29:30] [Server thread/INFO]: [SCore] Loading SCore v5.25.2.25
+[18:29:30] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v7.2.16+6534-2066eb4
+[18:29:31] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@4894b22d]
+[18:29:31] [Server thread/INFO]: [ExecutableItems] Loading ExecutableItems v7.25.2.25
+[18:29:31] [Server thread/INFO]: [ViaVersion] Loading ViaVersion v5.2.1
+[18:29:31] [Server thread/INFO]: [ViaVersion] ViaVersion 5.2.1 is now loaded. Registering protocol transformers and injecting...
+[18:29:31] [Server thread/ERROR]: [ViaVersion] ViaVersion is already loaded, this should work fine. If you get any console errors, try rebooting.
+[18:29:31] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
+[18:29:31] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
+[18:29:31] [Server thread/INFO]: [ViaBackwards] Loading translations...
+[18:29:31] [Server thread/INFO]: [ViaBackwards] Registering protocols...
+[18:29:32] [Server thread/INFO]: [ViaRewind] Registering protocols...
+[18:29:32] [Server thread/INFO]: [floodgate] Loading floodgate v2.2.4-SNAPSHOT (b116-0e3163c)
+[18:29:32] [Server thread/WARN]: [floodgate] en_ is not a supported Floodgate language.
+[18:29:32] [Server thread/INFO]: [floodgate] Took 355ms to boot Floodgate
+[18:29:32] [Server thread/INFO]: [ViaBackwards] Loading ViaBackwards v5.2.1
+[18:29:32] [Server thread/INFO]: [ViaRewind] Loading ViaRewind v4.0.5
+[18:29:32] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser-Spigot v2.6.1-SNAPSHOT
+[18:29:32] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
+[18:29:32] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
+[18:29:32] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[18:29:32] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.2.16+6534-2066eb4
+[18:29:32] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[18:29:32] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[18:29:32] [Server thread/WARN]: [WorldEdit] Server reload detected. This may cause various issues with WorldEdit and dependent plugins.
+[18:29:32] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.v1_19_R1.PaperweightAdapter as the Bukkit adapter
+[18:29:33] [Server thread/INFO]: [ViaRewind] Enabling ViaRewind v4.0.5
+[18:29:33] [Server thread/INFO]: [SCore] Enabling SCore v5.25.2.25
+[18:29:33] [Server thread/INFO]: ================ SCore ================
+[18:29:33] [Server thread/INFO]: SCore is running on Paper or fork
+[18:29:33] [Server thread/INFO]: SCore Version of the server git-Paper-307 (MC: 1.19.2) !
+[18:29:33] [Server thread/INFO]: SCore ExecutableItems hooked !  (7.25.2.25) Load After
+[18:29:33] [Server thread/INFO]: SCore WorldEdit hooked !  (7.2.16+6534-2066eb4)  Load Before
+[18:29:33] [Server thread/INFO]: SCore Locale setup: EN
+[18:29:33] [Server thread/INFO]: SCore Language of the editor setup on EN
+[18:29:33] [Server thread/INFO]: SCore Language for in-game messages setup on EN
+[18:29:33] [Server thread/INFO]: SCore will connect to the database hosted: In Local
+[18:29:33] [Server thread/INFO]: SCore Connection to the db...
+[18:29:33] [Server thread/INFO]: SCore will connect to the database hosted: In Local
+[18:29:33] [Server thread/INFO]: SCore Creating table SecurityOP if not exists...
+[18:29:33] [Server thread/INFO]: SCore Creating table Commands if not exists...
+[18:29:33] [Server thread/INFO]: SCore Creating table Cooldowns if not exists...
+[18:29:33] [Server thread/INFO]: SCore Creating table Commands Player if not exists...
+[18:29:33] [Server thread/INFO]: SCore Creating table Commands Entity if not exists...
+[18:29:33] [Server thread/INFO]: SCore Creating table Commands Block if not exists...
+[18:29:33] [Server thread/INFO]: SCore Creating table UsePerDay if not exists...
+[18:29:34] [Server thread/INFO]: SCore SCore loaded 1 variables from local files !
+[18:29:34] [Server thread/INFO]: SCore SCore loaded 0 delayed commands saved
+[18:29:34] [Server thread/INFO]: ================ SCore ================
+[18:29:34] [Server thread/INFO]: [ExecutableItems] Enabling ExecutableItems v7.25.2.25
+[18:29:34] [Server thread/INFO]: ================ ExecutableItems ================
+[18:29:35] [Server thread/INFO]: ExecutableItems Amount of Executable Items configurations loaded: 22
+[18:29:35] [Server thread/INFO]: ExecutableItems Items with display conditions :  
+[18:29:35] [Server thread/INFO]: ================ ExecutableItems ================
+[18:29:35] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.2.1
+[18:29:35] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.19.1-1.19.2 (760)
+[18:29:35] [Server thread/WARN]: [ViaVersion] Please update your Java runtime to at least Java 21 (your version is 17.0.14).
+[18:29:35] [Server thread/WARN]: [ViaVersion] At some point in the future, ViaVersion will no longer be compatible with this version of Java.
+[18:29:35] [Server thread/INFO]: [floodgate] Enabling floodgate v2.2.4-SNAPSHOT (b116-0e3163c)
+[18:29:35] [Server thread/WARN]: java.lang.IllegalArgumentException: Duplicate handler name: floodgate-init
+[18:29:35] [Server thread/WARN]: 	at io.netty.channel.DefaultChannelPipeline.checkDuplicateName(DefaultChannelPipeline.java:1055)
+[18:29:35] [Server thread/WARN]: 	at io.netty.channel.DefaultChannelPipeline.filterName(DefaultChannelPipeline.java:284)
+[18:29:35] [Server thread/WARN]: 	at io.netty.channel.DefaultChannelPipeline.addFirst(DefaultChannelPipeline.java:160)
+[18:29:35] [Server thread/WARN]: 	at io.netty.channel.DefaultChannelPipeline.addFirst(DefaultChannelPipeline.java:152)
+[18:29:35] [Server thread/WARN]: 	at floodgate-spigot.jar//org.geysermc.floodgate.inject.spigot.SpigotInjector.injectClient(SpigotInjector.java:110)
+[18:29:35] [Server thread/WARN]: 	at floodgate-spigot.jar//org.geysermc.floodgate.inject.spigot.SpigotInjector.inject(SpigotInjector.java:95)
+[18:29:35] [Server thread/WARN]: 	at floodgate-spigot.jar//org.geysermc.floodgate.FloodgatePlatform.enable(FloodgatePlatform.java:71)
+[18:29:35] [Server thread/WARN]: 	at floodgate-spigot.jar//org.geysermc.floodgate.SpigotPlugin.onEnable(SpigotPlugin.java:70)
+[18:29:35] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:264)
+[18:29:35] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:370)
+[18:29:35] [Server thread/WARN]: 	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:542)
+[18:29:35] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_19_R1.CraftServer.enablePlugin(CraftServer.java:565)
+[18:29:35] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_19_R1.CraftServer.enablePlugins(CraftServer.java:479)
+[18:29:35] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_19_R1.CraftServer.reload(CraftServer.java:1025)
+[18:29:35] [Server thread/WARN]: 	at org.bukkit.Bukkit.reload(Bukkit.java:930)
+[18:29:35] [Server thread/WARN]: 	at org.bukkit.command.defaults.ReloadCommand.execute(ReloadCommand.java:54)
+[18:29:35] [Server thread/WARN]: 	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:155)
+[18:29:35] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_19_R1.CraftServer.dispatchCommand(CraftServer.java:916)
+[18:29:35] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_19_R1.command.BukkitCommandWrapper.run(BukkitCommandWrapper.java:64)
+[18:29:35] [Server thread/WARN]: 	at com.mojang.brigadier.CommandDispatcher.execute(CommandDispatcher.java:264)
+[18:29:35] [Server thread/WARN]: 	at net.minecraft.commands.CommandDispatcher.performCommand(CommandDispatcher.java:305)
+[18:29:35] [Server thread/WARN]: 	at net.minecraft.commands.CommandDispatcher.a(CommandDispatcher.java:289)
+[18:29:35] [Server thread/WARN]: 	at net.minecraft.server.network.PlayerConnection.b(PlayerConnection.java:2294)
+[18:29:35] [Server thread/WARN]: 	at net.minecraft.server.network.PlayerConnection.lambda$handleChatCommand$20(PlayerConnection.java:2248)
+[18:29:35] [Server thread/WARN]: 	at net.minecraft.util.thread.IAsyncTaskHandler.b(IAsyncTaskHandler.java:59)
+[18:29:35] [Server thread/WARN]: 	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768)
+[18:29:35] [Server thread/WARN]: 	at net.minecraft.server.TickTask.run(TickTask.java:18)
+[18:29:35] [Server thread/WARN]: 	at net.minecraft.util.thread.IAsyncTaskHandler.d(IAsyncTaskHandler.java:153)
+[18:29:35] [Server thread/WARN]: 	at net.minecraft.util.thread.IAsyncTaskHandlerReentrant.d(IAsyncTaskHandlerReentrant.java:24)
+[18:29:35] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.b(MinecraftServer.java:1341)
+[18:29:35] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.d(MinecraftServer.java:185)
+[18:29:35] [Server thread/WARN]: 	at net.minecraft.util.thread.IAsyncTaskHandler.x(IAsyncTaskHandler.java:126)
+[18:29:35] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.bh(MinecraftServer.java:1318)
+[18:29:35] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.x(MinecraftServer.java:1311)
+[18:29:35] [Server thread/WARN]: 	at net.minecraft.util.thread.IAsyncTaskHandler.c(IAsyncTaskHandler.java:136)
+[18:29:35] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:1289)
+[18:29:35] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.v(MinecraftServer.java:1177)
+[18:29:35] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:305)
+[18:29:35] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:840)
+[18:29:36] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v5.2.1
+[18:29:36] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.6.1-SNAPSHOT
+[18:29:36] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[18:29:36] [Server thread/INFO]: [Geyser-Spigot] 
+[18:29:36] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.6.1-b784 (git-master-cc94d5a)
+[18:29:36] [Server thread/INFO]: [Geyser-Spigot] 
+[18:29:36] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[18:29:38] [epollEventLoopGroup-9-1/INFO]: [Geyser-Spigot] Started Geyser on UDP port 2398
+[18:29:38] [Server thread/INFO]: [Geyser-Spigot] Done (2.511s)! Run /geyser help for help!
+[18:29:39] [ForkJoinPool.commonPool-worker-7/INFO]: [Geyser-Spigot] There's a new Geyser update available to support Bedrock version 1.21.101. Download it here: https://geysermc.org/download
+[18:29:39] [Server thread/INFO]: offgamer233: Reload complete.
+[18:29:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10110ms or 202 ticks behind
+[18:29:39] [Server thread/INFO]: Timings Reset
+[18:29:39] [Craft Scheduler Thread - 380 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
+[18:29:39] [Server thread/WARN]: [ViaVersion] There is a newer plugin version available: 5.4.2, you're on: 5.2.1
+[18:30:16] [Server thread/INFO]: offgamer233 issued server command: /reload
+[18:30:16] [Server thread/INFO]: offgamer233: Are you sure you wish to reload your server? Doing so may cause bugs and memory leaks. It is recommended to restart instead of using /reload. To confirm, please type /reload confirm
+[18:30:17] [Server thread/INFO]: offgamer233 issued server command: /reload confirm
+[18:30:17] [Server thread/INFO]: offgamer233: Please note that this command is not supported and may cause issues when using some plugins.
+[18:30:17] [Server thread/INFO]: offgamer233: If you encounter any issues please use the /stop command to restart your server.
+[18:30:17] [Server thread/WARN]: You specified a resource pack without providing a sha1 hash. Pack will be updated on the client only if you change the name of the pack.
+[18:30:17] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[18:30:17] [Server thread/INFO]: Using 4 threads for Netty based IO
+[18:30:17] [Server thread/INFO]: [Geyser-Spigot] Disabling Geyser-Spigot v2.6.1-SNAPSHOT
+[18:30:17] [Server thread/INFO]: [Geyser-Spigot] Shutting down Geyser.
+[18:30:17] [Server thread/INFO]: [Geyser-Spigot] Geyser shutdown successfully.
+[18:30:17] [Server thread/INFO]: [ViaRewind] Disabling ViaRewind v4.0.5
+[18:30:17] [Server thread/INFO]: [ViaBackwards] Disabling ViaBackwards v5.2.1
+[18:30:17] [Server thread/INFO]: [floodgate] Disabling floodgate v2.2.4-SNAPSHOT (b116-0e3163c)
+[18:30:17] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v5.2.1
+[18:30:17] [Server thread/INFO]: [ViaVersion] ViaVersion is disabling. If this is a reload and you experience issues, please reboot instead.
+[18:30:17] [Server thread/INFO]: [ViaVersion] ViaVersion has been disabled; uninjected the platform and shut down the scheduler.
+[18:30:17] [Server thread/INFO]: [ExecutableItems] Disabling ExecutableItems v7.25.2.25
+[18:30:17] [Server thread/INFO]: [SCore] Disabling SCore v5.25.2.25
+[18:30:17] [Server thread/INFO]: SCore Save UsagePerDay....
+[18:30:17] [Server thread/INFO]: SCore Save UsagePerDay done !
+[18:30:17] [Server thread/INFO]: SCore Save Commands...
+[18:30:17] [Server thread/INFO]: SCore Save Commands done !
+[18:30:17] [Server thread/INFO]: SCore Save Cooldowns...
+[18:30:17] [Server thread/INFO]: SCore 0 cooldowns saved
+[18:30:17] [Server thread/INFO]: SCore Save Cooldowns done !
+[18:30:17] [Server thread/INFO]: SCore Run delayed saving tasks...
+[18:30:17] [Server thread/INFO]: SCore Run delayed saving tasks done !
+[18:30:17] [Server thread/INFO]: SCore Clear scheduled tasks...
+[18:30:17] [Server thread/INFO]: SCore Clear scheduled tasks done !
+[18:30:17] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v7.2.16+6534-2066eb4
+[18:30:17] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
+[18:30:17] [WebSocketConnectReadThread-553/INFO]: [Geyser-Spigot] The skin uploader has been closed
+[18:30:17] [Server thread/INFO]: Loaded 7 recipes
+[18:30:18] [Server thread/INFO]: [SCore] Loading 1 libraries... please wait
+[18:30:18] [Server thread/INFO]: [SCore] Loaded library /workspaces/GH/servidor_minecraft/libraries/io/netty/netty-all/4.1.118.Final/netty-all-4.1.118.Final.jar
+[18:30:18] [Server thread/INFO]: [SCore] Loaded library /workspaces/GH/servidor_minecraft/libraries/io/netty/netty-buffer/4.1.118.Final/netty-buffer-4.1.118.Final.jar
+[18:30:18] [Server thread/INFO]: [SCore] Loaded library /workspaces/GH/servidor_minecraft/libraries/io/netty/netty-codec/4.1.118.Final/netty-codec-4.1.118.Final.jar
+[18:30:18] [Server thread/INFO]: [SCore] Loaded library /workspaces/GH/servidor_minecraft/libraries/io/netty/netty-codec-dns/4.1.118.Final/netty-codec-dns-4.1.118.Final.jar
+[18:30:18] [Server thread/INFO]: [SCore] Loaded library /workspaces/GH/servidor_minecraft/libraries/io/netty/netty-codec-haproxy/4.1.118.Final/netty-codec-haproxy-4.1.118.Final.jar
+[18:30:18] [Server thread/INFO]: [SCore] Loaded library /workspaces/GH/servidor_minecraft/libraries/io/netty/netty-codec-http/4.1.118.Final/netty-codec-http-4.1.118.Final.jar
+[18:30:18] [Server thread/INFO]: [SCore] Loaded library /workspaces/GH/servidor_minecraft/libraries/io/netty/netty-codec-http2/4.1.118.Final/netty-codec-http2-4.1.118.Final.jar
+[18:30:18] [Server thread/INFO]: [SCore] Loaded library /workspaces/GH/servidor_minecraft/libraries/io/netty/netty-codec-memcache/4.1.118.Final/netty-codec-memcache-4.1.118.Final.jar
+[18:30:18] [Server thread/INFO]: [SCore] Loaded library /workspaces/GH/servidor_minecraft/libraries/io/netty/netty-codec-mqtt/4.1.118.Final/netty-codec-mqtt-4.1.118.Final.jar
+[18:30:18] [Server thread/INFO]: [SCore] Loaded library /workspaces/GH/servidor_minecraft/libraries/io/netty/netty-codec-redis/4.1.118.Final/netty-codec-redis-4.1.118.Final.jar
+[18:30:18] [Server thread/INFO]: [SCore] Loaded library /workspaces/GH/servidor_minecraft/libraries/io/netty/netty-codec-smtp/4.1.118.Final/netty-codec-smtp-4.1.118.Final.jar
+[18:30:18] [Server thread/INFO]: [SCore] Loaded library /workspaces/GH/servidor_minecraft/libraries/io/netty/netty-codec-socks/4.1.118.Final/netty-codec-socks-4.1.118.Final.jar
+[18:30:18] [Server thread/INFO]: [SCore] Loaded library /workspaces/GH/servidor_minecraft/libraries/io/netty/netty-codec-stomp/4.1.118.Final/netty-codec-stomp-4.1.118.Final.jar
+[18:30:18] [Server thread/INFO]: [SCore] Loaded library /workspaces/GH/servidor_minecraft/libraries/io/netty/netty-codec-xml/4.1.118.Final/netty-codec-xml-4.1.118.Final.jar
+[18:30:18] [Server thread/INFO]: [SCore] Loaded library /workspaces/GH/servidor_minecraft/libraries/io/netty/netty-common/4.1.118.Final/netty-common-4.1.118.Final.jar
+[18:30:18] [Server thread/INFO]: [SCore] Loaded library /workspaces/GH/servidor_minecraft/libraries/io/netty/netty-handler/4.1.118.Final/netty-handler-4.1.118.Final.jar
+[18:30:18] [Server thread/INFO]: [SCore] Loaded library /workspaces/GH/servidor_minecraft/libraries/io/netty/netty-transport-native-unix-common/4.1.118.Final/netty-transport-native-unix-common-4.1.118.Final.jar
+[18:30:18] [Server thread/INFO]: [SCore] Loaded library /workspaces/GH/servidor_minecraft/libraries/io/netty/netty-handler-proxy/4.1.118.Final/netty-handler-proxy-4.1.118.Final.jar
+[18:30:18] [Server thread/INFO]: [SCore] Loaded library /workspaces/GH/servidor_minecraft/libraries/io/netty/netty-handler-ssl-ocsp/4.1.118.Final/netty-handler-ssl-ocsp-4.1.118.Final.jar
+[18:30:18] [Server thread/INFO]: [SCore] Loaded library /workspaces/GH/servidor_minecraft/libraries/io/netty/netty-resolver/4.1.118.Final/netty-resolver-4.1.118.Final.jar
+[18:30:18] [Server thread/INFO]: [SCore] Loaded library /workspaces/GH/servidor_minecraft/libraries/io/netty/netty-resolver-dns/4.1.118.Final/netty-resolver-dns-4.1.118.Final.jar
+[18:30:18] [Server thread/INFO]: [SCore] Loaded library /workspaces/GH/servidor_minecraft/libraries/io/netty/netty-transport/4.1.118.Final/netty-transport-4.1.118.Final.jar
+[18:30:18] [Server thread/INFO]: [SCore] Loaded library /workspaces/GH/servidor_minecraft/libraries/io/netty/netty-transport-rxtx/4.1.118.Final/netty-transport-rxtx-4.1.118.Final.jar
+[18:30:18] [Server thread/INFO]: [SCore] Loaded library /workspaces/GH/servidor_minecraft/libraries/io/netty/netty-transport-sctp/4.1.118.Final/netty-transport-sctp-4.1.118.Final.jar
+[18:30:18] [Server thread/INFO]: [SCore] Loaded library /workspaces/GH/servidor_minecraft/libraries/io/netty/netty-transport-udt/4.1.118.Final/netty-transport-udt-4.1.118.Final.jar
+[18:30:18] [Server thread/INFO]: [SCore] Loaded library /workspaces/GH/servidor_minecraft/libraries/io/netty/netty-transport-classes-epoll/4.1.118.Final/netty-transport-classes-epoll-4.1.118.Final.jar
+[18:30:18] [Server thread/INFO]: [SCore] Loaded library /workspaces/GH/servidor_minecraft/libraries/io/netty/netty-transport-classes-kqueue/4.1.118.Final/netty-transport-classes-kqueue-4.1.118.Final.jar
+[18:30:18] [Server thread/INFO]: [SCore] Loaded library /workspaces/GH/servidor_minecraft/libraries/io/netty/netty-resolver-dns-classes-macos/4.1.118.Final/netty-resolver-dns-classes-macos-4.1.118.Final.jar
+[18:30:18] [Server thread/INFO]: [SCore] Loaded library /workspaces/GH/servidor_minecraft/libraries/io/netty/netty-transport-native-epoll/4.1.118.Final/netty-transport-native-epoll-4.1.118.Final-linux-x86_64.jar
+[18:30:18] [Server thread/INFO]: [SCore] Loaded library /workspaces/GH/servidor_minecraft/libraries/io/netty/netty-transport-native-epoll/4.1.118.Final/netty-transport-native-epoll-4.1.118.Final-linux-aarch_64.jar
+[18:30:18] [Server thread/INFO]: [SCore] Loaded library /workspaces/GH/servidor_minecraft/libraries/io/netty/netty-transport-native-epoll/4.1.118.Final/netty-transport-native-epoll-4.1.118.Final-linux-riscv64.jar
+[18:30:18] [Server thread/INFO]: [SCore] Loaded library /workspaces/GH/servidor_minecraft/libraries/io/netty/netty-transport-native-kqueue/4.1.118.Final/netty-transport-native-kqueue-4.1.118.Final-osx-x86_64.jar
+[18:30:18] [Server thread/INFO]: [SCore] Loaded library /workspaces/GH/servidor_minecraft/libraries/io/netty/netty-transport-native-kqueue/4.1.118.Final/netty-transport-native-kqueue-4.1.118.Final-osx-aarch_64.jar
+[18:30:18] [Server thread/INFO]: [SCore] Loaded library /workspaces/GH/servidor_minecraft/libraries/io/netty/netty-resolver-dns-native-macos/4.1.118.Final/netty-resolver-dns-native-macos-4.1.118.Final-osx-x86_64.jar
+[18:30:18] [Server thread/INFO]: [SCore] Loaded library /workspaces/GH/servidor_minecraft/libraries/io/netty/netty-resolver-dns-native-macos/4.1.118.Final/netty-resolver-dns-native-macos-4.1.118.Final-osx-aarch_64.jar
+[18:30:18] [Server thread/INFO]: [SCore] Loading SCore v5.25.2.25
+[18:30:18] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v7.2.16+6534-2066eb4
+[18:30:18] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@7830aedc]
+[18:30:18] [Server thread/INFO]: [ExecutableItems] Loading ExecutableItems v7.25.2.25
+[18:30:18] [Server thread/INFO]: [ViaVersion] Loading ViaVersion v5.2.1
+[18:30:18] [Server thread/INFO]: [ViaVersion] ViaVersion 5.2.1 is now loaded. Registering protocol transformers and injecting...
+[18:30:18] [Server thread/ERROR]: [ViaVersion] ViaVersion is already loaded, this should work fine. If you get any console errors, try rebooting.
+[18:30:19] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
+[18:30:19] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
+[18:30:19] [Server thread/INFO]: [ViaBackwards] Loading translations...
+[18:30:19] [Server thread/INFO]: [ViaBackwards] Registering protocols...
+[18:30:19] [Server thread/INFO]: [ViaRewind] Registering protocols...
+[18:30:19] [Server thread/INFO]: [floodgate] Loading floodgate v2.2.4-SNAPSHOT (b116-0e3163c)
+[18:30:19] [Server thread/WARN]: [floodgate] en_ is not a supported Floodgate language.
+[18:30:20] [Server thread/INFO]: [floodgate] Took 255ms to boot Floodgate
+[18:30:20] [Server thread/INFO]: [ViaBackwards] Loading ViaBackwards v5.2.1
+[18:30:20] [Server thread/INFO]: [ViaRewind] Loading ViaRewind v4.0.5
+[18:30:20] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser-Spigot v2.6.1-SNAPSHOT
+[18:30:20] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
+[18:30:20] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
+[18:30:20] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[18:30:20] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.2.16+6534-2066eb4
+[18:30:20] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[18:30:20] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[18:30:20] [Server thread/WARN]: [WorldEdit] Server reload detected. This may cause various issues with WorldEdit and dependent plugins.
+[18:30:20] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.v1_19_R1.PaperweightAdapter as the Bukkit adapter
+[18:30:20] [Server thread/INFO]: [ViaRewind] Enabling ViaRewind v4.0.5
+[18:30:20] [Server thread/INFO]: [SCore] Enabling SCore v5.25.2.25
+[18:30:20] [Server thread/INFO]: ================ SCore ================
+[18:30:20] [Server thread/INFO]: SCore is running on Paper or fork
+[18:30:20] [Server thread/INFO]: SCore Version of the server git-Paper-307 (MC: 1.19.2) !
+[18:30:20] [Server thread/INFO]: SCore ExecutableItems hooked !  (7.25.2.25) Load After
+[18:30:20] [Server thread/INFO]: SCore WorldEdit hooked !  (7.2.16+6534-2066eb4)  Load Before
+[18:30:20] [Server thread/INFO]: SCore Locale setup: EN
+[18:30:20] [Server thread/INFO]: SCore Language of the editor setup on EN
+[18:30:20] [Server thread/INFO]: SCore Language for in-game messages setup on EN
+[18:30:20] [Server thread/INFO]: SCore will connect to the database hosted: In Local
+[18:30:20] [Server thread/INFO]: SCore Connection to the db...
+[18:30:20] [Server thread/INFO]: SCore will connect to the database hosted: In Local
+[18:30:20] [Server thread/INFO]: SCore Creating table SecurityOP if not exists...
+[18:30:20] [Server thread/INFO]: SCore Creating table Commands if not exists...
+[18:30:20] [Server thread/INFO]: SCore Creating table Cooldowns if not exists...
+[18:30:20] [Server thread/INFO]: SCore Creating table Commands Player if not exists...
+[18:30:20] [Server thread/INFO]: SCore Creating table Commands Entity if not exists...
+[18:30:20] [Server thread/INFO]: SCore Creating table Commands Block if not exists...
+[18:30:20] [Server thread/INFO]: SCore Creating table UsePerDay if not exists...
+[18:30:21] [Server thread/INFO]: SCore SCore loaded 1 variables from local files !
+[18:30:21] [Server thread/INFO]: SCore SCore loaded 0 delayed commands saved
+[18:30:21] [Server thread/INFO]: ================ SCore ================
+[18:30:21] [Server thread/INFO]: [ExecutableItems] Enabling ExecutableItems v7.25.2.25
+[18:30:21] [Server thread/INFO]: ================ ExecutableItems ================
+[18:30:22] [Server thread/INFO]: ExecutableItems Amount of Executable Items configurations loaded: 22
+[18:30:22] [Server thread/INFO]: ExecutableItems Items with display conditions :  
+[18:30:22] [Server thread/INFO]: ================ ExecutableItems ================
+[18:30:22] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.2.1
+[18:30:22] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.19.1-1.19.2 (760)
+[18:30:22] [Server thread/WARN]: [ViaVersion] Please update your Java runtime to at least Java 21 (your version is 17.0.14).
+[18:30:22] [Server thread/WARN]: [ViaVersion] At some point in the future, ViaVersion will no longer be compatible with this version of Java.
+[18:30:22] [Server thread/INFO]: [floodgate] Enabling floodgate v2.2.4-SNAPSHOT (b116-0e3163c)
+[18:30:22] [Server thread/WARN]: java.lang.IllegalArgumentException: Duplicate handler name: floodgate-init
+[18:30:22] [Server thread/WARN]: 	at io.netty.channel.DefaultChannelPipeline.checkDuplicateName(DefaultChannelPipeline.java:1055)
+[18:30:22] [Server thread/WARN]: 	at io.netty.channel.DefaultChannelPipeline.filterName(DefaultChannelPipeline.java:284)
+[18:30:22] [Server thread/WARN]: 	at io.netty.channel.DefaultChannelPipeline.addFirst(DefaultChannelPipeline.java:160)
+[18:30:22] [Server thread/WARN]: 	at io.netty.channel.DefaultChannelPipeline.addFirst(DefaultChannelPipeline.java:152)
+[18:30:22] [Server thread/WARN]: 	at floodgate-spigot.jar//org.geysermc.floodgate.inject.spigot.SpigotInjector.injectClient(SpigotInjector.java:110)
+[18:30:22] [Server thread/WARN]: 	at floodgate-spigot.jar//org.geysermc.floodgate.inject.spigot.SpigotInjector.inject(SpigotInjector.java:95)
+[18:30:22] [Server thread/WARN]: 	at floodgate-spigot.jar//org.geysermc.floodgate.FloodgatePlatform.enable(FloodgatePlatform.java:71)
+[18:30:22] [Server thread/WARN]: 	at floodgate-spigot.jar//org.geysermc.floodgate.SpigotPlugin.onEnable(SpigotPlugin.java:70)
+[18:30:22] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:264)
+[18:30:22] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:370)
+[18:30:22] [Server thread/WARN]: 	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:542)
+[18:30:22] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_19_R1.CraftServer.enablePlugin(CraftServer.java:565)
+[18:30:22] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_19_R1.CraftServer.enablePlugins(CraftServer.java:479)
+[18:30:22] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_19_R1.CraftServer.reload(CraftServer.java:1025)
+[18:30:22] [Server thread/WARN]: 	at org.bukkit.Bukkit.reload(Bukkit.java:930)
+[18:30:22] [Server thread/WARN]: 	at org.bukkit.command.defaults.ReloadCommand.execute(ReloadCommand.java:54)
+[18:30:22] [Server thread/WARN]: 	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:155)
+[18:30:22] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_19_R1.CraftServer.dispatchCommand(CraftServer.java:916)
+[18:30:22] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_19_R1.command.BukkitCommandWrapper.run(BukkitCommandWrapper.java:64)
+[18:30:22] [Server thread/WARN]: 	at com.mojang.brigadier.CommandDispatcher.execute(CommandDispatcher.java:264)
+[18:30:22] [Server thread/WARN]: 	at net.minecraft.commands.CommandDispatcher.performCommand(CommandDispatcher.java:305)
+[18:30:22] [Server thread/WARN]: 	at net.minecraft.commands.CommandDispatcher.a(CommandDispatcher.java:289)
+[18:30:22] [Server thread/WARN]: 	at net.minecraft.server.network.PlayerConnection.b(PlayerConnection.java:2294)
+[18:30:22] [Server thread/WARN]: 	at net.minecraft.server.network.PlayerConnection.lambda$handleChatCommand$20(PlayerConnection.java:2248)
+[18:30:22] [Server thread/WARN]: 	at net.minecraft.util.thread.IAsyncTaskHandler.b(IAsyncTaskHandler.java:59)
+[18:30:22] [Server thread/WARN]: 	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768)
+[18:30:22] [Server thread/WARN]: 	at net.minecraft.server.TickTask.run(TickTask.java:18)
+[18:30:22] [Server thread/WARN]: 	at net.minecraft.util.thread.IAsyncTaskHandler.d(IAsyncTaskHandler.java:153)
+[18:30:22] [Server thread/WARN]: 	at net.minecraft.util.thread.IAsyncTaskHandlerReentrant.d(IAsyncTaskHandlerReentrant.java:24)
+[18:30:22] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.b(MinecraftServer.java:1341)
+[18:30:22] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.d(MinecraftServer.java:185)
+[18:30:22] [Server thread/WARN]: 	at net.minecraft.util.thread.IAsyncTaskHandler.x(IAsyncTaskHandler.java:126)
+[18:30:22] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.bh(MinecraftServer.java:1318)
+[18:30:22] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.x(MinecraftServer.java:1311)
+[18:30:22] [Server thread/WARN]: 	at net.minecraft.util.thread.IAsyncTaskHandler.c(IAsyncTaskHandler.java:136)
+[18:30:22] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:1289)
+[18:30:22] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.v(MinecraftServer.java:1177)
+[18:30:22] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:305)
+[18:30:22] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:840)
+[18:30:22] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v5.2.1
+[18:30:22] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.6.1-SNAPSHOT
+[18:30:22] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[18:30:22] [Server thread/INFO]: [Geyser-Spigot] 
+[18:30:22] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.6.1-b784 (git-master-cc94d5a)
+[18:30:22] [Server thread/INFO]: [Geyser-Spigot] 
+[18:30:22] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[18:30:25] [epollEventLoopGroup-15-1/INFO]: [Geyser-Spigot] Started Geyser on UDP port 2398
+[18:30:25] [Server thread/INFO]: [Geyser-Spigot] Done (2.291s)! Run /geyser help for help!
+[18:30:25] [ForkJoinPool.commonPool-worker-7/INFO]: [Geyser-Spigot] There's a new Geyser update available to support Bedrock version 1.21.101. Download it here: https://geysermc.org/download
+[18:30:25] [Server thread/INFO]: offgamer233: Reload complete.
+[18:30:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7889ms or 157 ticks behind
+[18:30:25] [Server thread/INFO]: Timings Reset
+[18:30:25] [Craft Scheduler Thread - 388 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
+[18:30:25] [Server thread/WARN]: [ViaVersion] There is a newer plugin version available: 5.4.2, you're on: 5.2.1
+[18:30:31] [Server thread/INFO]: offgamer233 issued server command: /stop
+[18:30:31] [Server thread/INFO]: [AFICIONADO offgamer233: Stopping the server]
+[18:30:31] [Server thread/INFO]: Stopping server
+[18:30:31] [Server thread/INFO]: [Geyser-Spigot] Disabling Geyser-Spigot v2.6.1-SNAPSHOT
+[18:30:31] [Server thread/INFO]: [Geyser-Spigot] Shutting down Geyser.
+[18:30:32] [Server thread/INFO]: [Geyser-Spigot] Geyser shutdown successfully.
+[18:30:32] [Server thread/INFO]: [ViaRewind] Disabling ViaRewind v4.0.5
+[18:30:32] [Server thread/INFO]: [ViaBackwards] Disabling ViaBackwards v5.2.1
+[18:30:32] [Server thread/INFO]: [floodgate] Disabling floodgate v2.2.4-SNAPSHOT (b116-0e3163c)
+[18:30:32] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v5.2.1
+[18:30:32] [Server thread/INFO]: [ViaVersion] ViaVersion has been disabled; uninjected the platform and shut down the scheduler.
+[18:30:32] [Server thread/INFO]: [ExecutableItems] Disabling ExecutableItems v7.25.2.25
+[18:30:32] [Server thread/INFO]: [SCore] Disabling SCore v5.25.2.25
+[18:30:32] [Server thread/INFO]: SCore Save UsagePerDay....
+[18:30:32] [Server thread/INFO]: SCore Save UsagePerDay done !
+[18:30:32] [Server thread/INFO]: SCore Save Commands...
+[18:30:32] [Server thread/INFO]: SCore Save Commands done !
+[18:30:32] [Server thread/INFO]: SCore Save Cooldowns...
+[18:30:32] [Server thread/INFO]: SCore 0 cooldowns saved
+[18:30:32] [Server thread/INFO]: SCore Save Cooldowns done !
+[18:30:32] [Server thread/INFO]: SCore Run delayed saving tasks...
+[18:30:32] [Server thread/INFO]: SCore Run delayed saving tasks done !
+[18:30:32] [Server thread/INFO]: SCore Clear scheduled tasks...
+[18:30:32] [Server thread/INFO]: SCore Clear scheduled tasks done !
+[18:30:32] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v7.2.16+6534-2066eb4
+[18:30:32] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
+[18:30:32] [Server thread/INFO]: Saving players
+[18:30:32] [Server thread/INFO]: offgamer233 lost connection: Server closed
+[18:30:32] [Server thread/INFO]: offgamer233 left the game
+[18:30:32] [WebSocketConnectReadThread-609/INFO]: [Geyser-Spigot] The skin uploader has been closed
+[18:30:32] [Server thread/INFO]: Saving worlds
+[18:30:32] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[18:30:32] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[18:30:32] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[18:30:32] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[18:30:32] [Server thread/INFO]: [ChunkHolderManager] Saved 9 block chunks, 15 entity chunks, 0 poi chunks in world 'world' in 0.01s
+[18:30:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[18:30:32] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[18:30:32] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[18:30:32] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[18:30:32] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[18:30:32] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 13 entity chunks, 0 poi chunks in world 'world_nether' in 0.00s
+[18:30:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18:30:32] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[18:30:32] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[18:30:32] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[18:30:32] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[18:30:32] [Server thread/INFO]: [ChunkHolderManager] Saved 10 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.01s
+[18:30:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[18:30:32] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[18:30:32] [Server thread/INFO]: Flushing Chunk IO
+[18:30:32] [Server thread/INFO]: Closing Thread Pool
+[18:30:32] [Server thread/INFO]: Closing Server
